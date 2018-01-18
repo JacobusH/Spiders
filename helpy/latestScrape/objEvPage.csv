@@ -1,0 +1,229 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/help/model/objectevent', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>ObjectEvent</h1>
+		<p>
+
+
+            Model which defines an event which occurred in Project Insight.  Used for notification system\, and activities log. 
+            
+
+</p>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><table class=""help-page-table""><thead><tr><th style=""border-top-left-radius:5px;"">Name</th><th>Description</th><th style=""border-top-right-radius:5px;"">Type</th></tr></thead><tbody><tr class=""parameter-row""><td class=""parameter-name"">BusinessObjectContainerType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/type"">Type</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/type"">Type</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">BusinessObjectId</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">BusinessObjectIdContainer</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">BusinessObjectType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/type"">Type</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/type"">Type</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CreatedDateTimeUTC</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Created] - The date and time in UTC the event was created
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        date
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Domain_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Domain] - The domain the object event occurred on.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the guid Id.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IdExternal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the ProjectInsight.Models.Base.ApiModelBase.IdExternal object which allows the object to be saved with an associated external identification.  Used primarily for integrations.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/idexternal"">IdExternal</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsDateEvent</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Name</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">NotificationType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Type] - The type of event/notification
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SerializeType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Get or Set if the Type should be serialized
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Type</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string object type for external reference\, rest calls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">User</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [Name] - The name of the user associated with the event.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">User_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Name] - The name of the user associated with the event.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr></tbody></table></section></div>
+</article></body>', getUtcDate())"

@@ -1,0 +1,218 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/api-models', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>REST API Models</h1>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><p>Below are the models for the Project Insight REST service. Each link demonstrates the potential object models.</p>
+
+			<div id=""model-row"" class=""mB20"">
+
+
+<a href=""/projectinsight.webapp/api/help/model/approvalrequest"" id=""model-cell"">ApprovalRequest</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/approvalrequestapproval"" id=""model-cell"">ApprovalRequestApproval</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/approvalrequestitem"" id=""model-cell"">ApprovalRequestItem</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/approvalrequestnotification"" id=""model-cell"">ApprovalRequestNotification</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/authentication"" id=""model-cell"">Authentication</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/comment"" id=""model-cell"">Comment</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/commenttype"" id=""model-cell"">CommentType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/company"" id=""model-cell"">Company</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/companycontract"" id=""model-cell"">CompanyContract</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/companycontractexpensecode"" id=""model-cell"">CompanyContractExpenseCode</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/companycontractresourcetype"" id=""model-cell"">CompanyContractResourceType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/companycontracttasktype"" id=""model-cell"">CompanyContractTaskType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/customfield"" id=""model-cell"">CustomField</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/customfieldset"" id=""model-cell"">CustomFieldSet</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/customfieldvalue"" id=""model-cell"">CustomFieldValue</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/customitem"" id=""model-cell"">CustomItem</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/department"" id=""model-cell"">Department</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/display"" id=""model-cell"">Display</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/errorstatustype"" id=""model-cell"">ErrorStatusType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/expensecode"" id=""model-cell"">ExpenseCode</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/expenseentry"" id=""model-cell"">ExpenseEntry</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/expensereport"" id=""model-cell"">ExpenseReport</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/expensereportfile"" id=""model-cell"">ExpenseReportFile</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/externalobject"" id=""model-cell"">ExternalObject</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/fileitem"" id=""model-cell"">FileItem</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/fileitemversion"" id=""model-cell"">FileItemVersion</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/folder"" id=""model-cell"">Folder</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/group"" id=""model-cell"">Group</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/htmlpage"" id=""model-cell"">HtmlPage</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/integrationdefinition"" id=""model-cell"">IntegrationDefinition</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/integrationfieldmap"" id=""model-cell"">IntegrationFieldMap</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/integrationobjectmap"" id=""model-cell"">IntegrationObjectMap</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/invoiceitemclassification"" id=""model-cell"">InvoiceItemClassification</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/issue"" id=""model-cell"">Issue</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/issueprioritytype"" id=""model-cell"">IssuePriorityType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/issueseveritytype"" id=""model-cell"">IssueSeverityType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/issuestatustype"" id=""model-cell"">IssueStatusType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/issuetype"" id=""model-cell"">IssueType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/itembacklog"" id=""model-cell"">ItemBacklog</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/itemutility"" id=""model-cell"">ItemUtility</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/kanbanboard"" id=""model-cell"">KanbanBoard</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/kanbancard"" id=""model-cell"">KanbanCard</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/objectevent"" id=""model-cell"">ObjectEvent</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/project"" id=""model-cell"">Project</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/projectrequest"" id=""model-cell"">ProjectRequest</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/projectrequestresource"" id=""model-cell"">ProjectRequestResource</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/projectresource"" id=""model-cell"">ProjectResource</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/projectstatus"" id=""model-cell"">ProjectStatus</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/projecttype"" id=""model-cell"">ProjectType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/proposal"" id=""model-cell"">Proposal</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/proposaldeliverableexp"" id=""model-cell"">ProposalDeliverableExp</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/proposaldeliverabletaskworkexpense"" id=""model-cell"">ProposalDeliverableTaskWorkExpense</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/proposaldeliverabletime"" id=""model-cell"">ProposalDeliverableTime</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/resourcetype"" id=""model-cell"">ResourceType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/shortcut"" id=""model-cell"">Shortcut</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/sprint"" id=""model-cell"">Sprint</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/sprintworkitem"" id=""model-cell"">SprintWorkItem</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/task"" id=""model-cell"">Task</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/taskpredecessor"" id=""model-cell"">TaskPredecessor</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/taskresource"" id=""model-cell"">TaskResource</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/tasktype"" id=""model-cell"">TaskType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/taskworkexpense"" id=""model-cell"">TaskWorkExpense</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/timeentry"" id=""model-cell"">TimeEntry</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/timer"" id=""model-cell"">Timer</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/timesheet"" id=""model-cell"">TimeSheet</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/todo"" id=""model-cell"">ToDo</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/user"" id=""model-cell"">User</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/usertype"" id=""model-cell"">UserType</a>
+
+
+<a href=""/projectinsight.webapp/api/help/model/workpercentcompletetype"" id=""model-cell"">WorkPercentCompleteType</a>
+				<br><br></div>
+		</section></div>
+</article></body>', getUtcDate())"

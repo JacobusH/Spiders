@@ -1,0 +1,610 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/help/model/fileitem', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>FileItem</h1>
+		<p>
+
+
+            The FileItem object contains the definition of a file (or version controlled files) in PI which appear in folders\, document folders and under tasks and other items. 
+            
+
+</p>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><table class=""help-page-table""><thead><tr><th style=""border-top-left-radius:5px;"">Name</th><th>Description</th><th style=""border-top-right-radius:5px;"">Type</th></tr></thead><tbody><tr class=""parameter-row""><td class=""parameter-name"">CheckOutDate</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Check Out Date] - The date/time the file was checked out.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        date
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Comments</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the         Collection of <a href=""/projectinsight.webapp/api/help/model/t"">T</a>
+
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                                Collection of <a href=""/projectinsight.webapp/api/help/model/comment"">Comment</a>
+
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CreatedDateTimeUTC</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Created Date] - The date and time the item was added or generated in the system.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        date
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CurrentVersionNumber</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [PI Version Number] - Current Version Number of the File
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CustomFieldValue</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/customfieldvalue"">CustomFieldValue</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/customfieldvalue"">CustomFieldValue</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CustomFieldValue_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a>
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Description</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Description] - The details or description of the item\, typically used to provide the user with additional information or instructions to perform the work item.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">EnableVersionControl</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Version Control] - The flag that determines whether or not version control is enabled on the file.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">FileName</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [File Name] - The the file name of the file\, automatically handles versioning.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">FileType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [File Type] - The type of file.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">FileTypeName</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">FileVersions</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the         Collection of <a href=""/projectinsight.webapp/api/help/model/t"">T</a>
+ - [File Versions] - The collection of previous file versions when version control is enabled.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                                Collection of <a href=""/projectinsight.webapp/api/help/model/fileitemversion"">FileItemVersion</a>
+
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the guid Id.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IdExternal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the ProjectInsight.Models.Base.ApiModelBase.IdExternal object which allows the object to be saved with an associated external identification.  Used primarily for integrations.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/idexternal"">IdExternal</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsCheckedOut</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Checked Out] - The indicating whether the file is currently checked out.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsTemplate</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Template] - A template that can be re-used when creating new items.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ItemContainer_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Parent Item] - The item which is the immediate parent of the current item.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ItemIdCopiedFrom</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ItemNumber</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Number] - The system generated item number.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ItemNumberAlt</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Number Alt] - The alternate user entered item number.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ItemNumberCombined</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string - [Number (Combined)] - The item number and the item number alternative combined together.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">LastComment</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/comment"">Comment</a> - [Last Comment] - 
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/comment"">Comment</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">LastComment_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Last Comment] - 
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Name</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Name] - The set of words used to refer to the item\, input by the user.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SerializeType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Get or Set if the Type should be serialized
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SizeKB</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Size (KB)] - The file size in kilobytes.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        decimal number
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Type</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string object type for external reference\, rest calls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UpdatedDateTimeUTC</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Updated Date] - The date and time the item was last changed or updated.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        date
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UploadedFile</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/fileupload"">FileUpload</a> which will be uploaded with file item.   
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/fileupload"">FileUpload</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Url</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string - [URL] - The relative URL to the display page for the item.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UrlDownload</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string - [Download Url] - The relative URL to download the physical file contents.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UrlFull</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string - [URLFull] - The full URL to the display page for the item.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UrlMobile</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string - [URL (mobile)] - The relative URL to the mobile display page for the item.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserAssignedBy</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [Assigned By] - The person who assigned the item to the current assignee
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserAssignedBy_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Assigned By] - The person who assigned the item to the current assignee
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserCheckedOut</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [User Checked Out] - The user that has the file checked out.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserCheckedOut_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [User Checked Out] - The user that has the file checked out.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserCreated</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [Created By] - The person who created the item
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserCreated_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Created By] - The person who created the item
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserUpdated</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [Updated By] - The person who last updated the item
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserUpdated_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Updated By] - The person who last updated the item
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr></tbody></table></section></div>
+</article></body>', getUtcDate())"

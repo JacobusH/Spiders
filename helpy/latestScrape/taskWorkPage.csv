@@ -1,0 +1,235 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/help/model/taskworkexpense', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>TaskWorkExpense</h1>
+		<p>
+
+
+            Work expense object contains . 
+            
+
+</p>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><table class=""help-page-table""><thead><tr><th style=""border-top-left-radius:5px;"">Name</th><th>Description</th><th style=""border-top-right-radius:5px;"">Type</th></tr></thead><tbody><tr class=""parameter-row""><td class=""parameter-name"">BillableRate</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Billable Rate] - The billable rate or billable unit price of the expense.  When using contracts\, leave blank to use the contract rate value.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        decimal number
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">BillableTotal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Billable Total] - The billable total cost for the expense.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        decimal number
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ExpenseCode</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/expensecode"">ExpenseCode</a> - [Expense Code] - The expense code associated with this work expense line.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/expensecode"">ExpenseCode</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ExpenseCode_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Expense Code] - The expense code associated with this work expense line.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the guid Id.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IdExternal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the ProjectInsight.Models.Base.ApiModelBase.IdExternal object which allows the object to be saved with an associated external identification.  Used primarily for integrations.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/idexternal"">IdExternal</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Name</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Name] - The name of the work expense line.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Qty</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Qty] - The quantity of items in the work expense line.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        decimal number
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Rate</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Rate] - The rate or unit price of the expense.  When using contracts\, leave blank to use the contract rate value.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        decimal number
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SerializeType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Get or Set if the Type should be serialized
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Task</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/task"">Task</a> - [Task] - The task the work expense line is associated with.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/task"">Task</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Task_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Task] - The task the work expense line is associated with.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Total</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Total] - The total cost for the expense.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        decimal number
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Type</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string object type for external reference\, rest calls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UseDefaultRates</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Use Default Rates] - When checked default rates on the contract or the expense code will be used when calculating the work expense on the task.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr></tbody></table></section></div>
+</article></body>', getUtcDate())"

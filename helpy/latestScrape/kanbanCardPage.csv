@@ -1,0 +1,258 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/help/model/kanbancard', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>KanbanCard</h1>
+		<p>
+
+
+            Kanban card object for diagramming tasks\, issues\, or to-do objects. 
+            
+
+</p>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><table class=""help-page-table""><thead><tr><th style=""border-top-left-radius:5px;"">Name</th><th>Description</th><th style=""border-top-right-radius:5px;"">Type</th></tr></thead><tbody><tr class=""parameter-row""><td class=""parameter-name"">AvatarHtml</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ColumnKey</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Column Key] - The column key for this card.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Content</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DateString</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayOrder</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [DisplayOrder] - The display order for the card in the column stack.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the guid Id.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IdExternal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the ProjectInsight.Models.Base.ApiModelBase.IdExternal object which allows the object to be saved with an associated external identification.  Used primarily for integrations.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/idexternal"">IdExternal</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ImageUrl</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsActive</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Active] - The project that this kanban belongs to
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Item_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Item] - The project that this kanban belongs to
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">KanbanBoard</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/kanbanboard"">KanbanBoard</a> - [Project] - The project that this kanban belongs to
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/kanbanboard"">KanbanBoard</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">KanbanBoard_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Project] - The project that this kanban belongs to
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SerializeType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Get or Set if the Type should be serialized
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SwimlaneKey</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">TaskOwnerInitials</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Title</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Type</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string object type for external reference\, rest calls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr></tbody></table></section></div>
+</article></body>', getUtcDate())"

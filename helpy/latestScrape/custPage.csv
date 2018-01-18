@@ -1,0 +1,930 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/help/model/customfield', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>CustomField</h1>
+		<p>
+
+
+            Defines an individual custom field for a built in object\, or custom item. 
+            
+
+</p>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><table class=""help-page-table""><thead><tr><th style=""border-top-left-radius:5px;"">Name</th><th>Description</th><th style=""border-top-right-radius:5px;"">Type</th></tr></thead><tbody><tr class=""parameter-row""><td class=""parameter-name"">ApplyNoWrapToFormLabelCell</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Label Apply No Wrap] - Applies no wrap to the cell holding the input label.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Col</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Column] - The column the field will be displayed on the add/edit form. NOTE: The column field is ignored on certain forms where layout control is not permitted when the field is located on summary or details sections.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ColSpan</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Column Span] - The number of columns the field will span on the add/edit form. NOTE: The column span may not be honored on certain forms if the field is located in the summary or details location.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CssClass</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [CSS Class] - The CSS class to be apply to the Custom Field.  Input valid CSS classes from the system\, or custom interface CSS file.  Note: Some input types do not use this property and setting the value will have no effect for controls which ignore this property.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DataType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Data Type] - The type of data the field will capture.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DefaultValue</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Default Value] - The default value for the control to prepopulate when not set for a new item.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayCol</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Column] - The column the field will be displayed on the display form.  NOTE: The column setting is ignored on certain forms where layout control is not permitted when the field is located on summary or details sections.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayColSpan</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Column Span] - The number of columns the field will span on the display form. NOTE: The column span may not be honored on certain forms if the field is located in the summary or details location.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayColumnIsWrapText</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Table Column Wrap Text] - Whether or not the text wraps when displayed in a table.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayColumnName</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Table Column Name] - The name of the field which will be displayed on the table column heading when displayed in a table\, if specified.  If not specified\, the field name is used.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayColumnWidth</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Table Column Width] - The default width in pixels of the field when displayed in a table.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayCssClass</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Display CSS Class] - The CSS class or classes to be apply to the Display Control.  Input valid CSS classes from the system\, or custom interface CSS file.  Note: Some input types do not use this property and setting the value will have no effect for controls which ignore this property.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayFormatMask</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Format Mask] - The format mask to use for types that are converted to strings upon display of the information.  The format string supplied will be used to format the value with the input format string.  Use .NET format masks.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayHideColonOnFormLabel</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Label Hide Colon] - Hides the colon on the display label.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayLabelOrientation</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Label Orientation] - The display label orientation in relation to the display field on the display form. NOTE: When field is shown on the summary or detail location\, this setting may be ignored.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayLocation</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Location] - The location of the field on the display form.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayName</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Display Name] - The name of the field to when shown on a display form\, if specified.  The field name is used if this value is not specified.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayName_Text</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string - [Display Name Text] - The name of the field to when shown on a display form\, if specified.  The field name is used if this value is not specified.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayRow</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Row/Order] - The row the field will be displayed on the display form.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayRowSpan</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Row Span] - The number of rows the field will span on the display form. NOTE: The row span may not be honored on certain forms if the field is located in the summary or details location.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">EnableAsAvailableColumnInTable</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Enable as Column] - Enables the field as a selectable available column on reports.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">EnableGroupBy</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Enable Group By] - Enables group by functionality in the reports.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">EnableSumColumn</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Enable Sum Column] - Enables the column to be summed within the reports.  (Only applies to numeric fields)
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">FieldNumber</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Field #] - The fixed internal field number.  Limited to 80 fields\, assigned automatically.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">HelpText</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Help Text] - The help text which is displayed on the form in conjunction with the name.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">HelpTextAdditional</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Help Text Additional] - The additional help text to display with the form.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">HelpTextAdditionalColSpan</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Help Text Additional Col Span] - Number of columns for the Help Text column to span to prevent formatting issues.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">HelpTextAdditionalInRightColumn</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Help Text Additional Display On Right] - Flag indicating whether or not the help text additional will be displayed on the right column instead of underneath the label
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">HideColonOnFormLabel</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Label Hide Colon] - Hides the colon on the input label.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the guid Id.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IdExternal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the ProjectInsight.Models.Base.ApiModelBase.IdExternal object which allows the object to be saved with an associated external identification.  Used primarily for integrations.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/idexternal"">IdExternal</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">InputControlType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Control] - The type of input control the field will use.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">InputCssClass</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Input CSS Class] - The CSS class or classes to be apply to the Input Control.  Input valid CSS classes from the system\, or custom interface CSS file.  Note: Some input types do not use this property and setting the value will have no effect for controls which ignore this property.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">InputLabelOrientation</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Label Orientation] - The input label orientation in relation to the input field on the add/edit form. NOTE: When field is shown on the summary or detail location\, this setting may be ignored.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">InputLocation</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Location] - The location of the field on the add/edit form.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsActive</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Active] - Determines whether or not the field is currently active. If not active the field does not display.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsDefaultDisplayColumn</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Default Column] - Whether or not the field is included as a default column when it""s displayed.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsFinancialData</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Financial Data] - Indicates that the value of the custom field is financial and therefore follows financial data visibility rules.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsReadOnly</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Read Only] - If the custom field is read only (the field will be updated programmatically) check the box.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsRequired</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Required] - The flag that determines whether the custom field is required when inputting using the forms.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsRequiredInline</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Required Inline] - The flag that determines whether the custom field is required when inputting inline.  When true\, a field is automatically added as a Default Column for inline displays.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IsShowAsReportFilter</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Show as Report Filter] - The flag that determines whether the field should show up as a choice on the reports filter.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ListDisplaySeparator</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Display Separator] - The separator to use when multiple choices have been selected and the values are being displayed.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ListItems</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the         Collection of <a href=""/projectinsight.webapp/api/help/model/t"">T</a>
+ generic collection of <a href=""/projectinsight.webapp/api/help/model/listitemvalue"">ListItemValue</a> objects
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                                Collection of <a href=""/projectinsight.webapp/api/help/model/listitemvalue"">ListItemValue</a>
+
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ListRepeatColumns</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Repeat Columns] - The number of columns to display the checkboxes or radio buttons in column format.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ListRepeatDirection</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Repeat Direction] - The repeat direction when displaying the choices for multi-choice controls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ListRepeatLayout</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Repeat Layout] - The repeat layout to use in multi-choice controls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Name</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Field Name] - The default name of the field displayed on the form.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">OnChange</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [JS OnChange] - The JavaScript code to execute when the input onchange is fired.  Input valid JavaScript on change code.  Note: Some input types do not use this property and setting the value will have no effect for controls which ignore this property.   For ComboBox controls you must create a function outside of this input and apply the name of that function to the combo box control.  The function should be formatted like this function ComboBoxAfterChange(metafuseComboBox\, previousValue\, newValue) { };
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ReadOnlyProperty</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Read Only Property] - The property the read only value is retrieved from.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">ReadOnlyText</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Read Only Text] - The read only text that is associated with this field.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Row</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Row/Order] - The row the field will be displayed on the add/edit form.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">RowSpan</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Input Row Span] - The number of rows the field will span on the add/edit form. NOTE: The row span may not be honored on certain forms if the field is located in the summary or details location.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SerializeType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Get or Set if the Type should be serialized
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">StyleDisplayText</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Control Display CSS Style Text] - The CSS style text to apply to the display control.  Input valid CSS style code.  Note: Some input types do not use this property and setting the value will have no effect for controls which ignore this property.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">StyleText</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Control Input CSS Style Text] - The CSS style text to apply to the input control.  Input valid CSS style code for text alteration.  Note: Some input types do not use this property and setting the value will have no effect for controls which ignore this property.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">StyleTextCell</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Control Cell CSS Style Text] - The CSS style text that is applyed to the table cell which contains the input or display control.  Input valid CSS style code for background alterations.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">StyleTextHeader</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Header CSS Style Text] - The CSS style text that is directly applyed to the Field Name and Display Name on a form.  Input valid CSS style code.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">StyleTextHeaderCell</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string - [Header Cell CSS Style Text] - The CSS style text that is applyed to the header table cell which contains the Field Name and Display Name on a form.  Input valid CSS style code for background alterations.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">TextAlign</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Text Align] - The alignment of the text the left or the right of the user control.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">TextBoxMaxLength</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Max Length] - The maximum number of characters that can be entered into the control.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">TextBoxRows</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Rows] - The number of rows to display for the control.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Type</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string object type for external reference\, rest calls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr></tbody></table></section></div>
+</article></body>', getUtcDate())"

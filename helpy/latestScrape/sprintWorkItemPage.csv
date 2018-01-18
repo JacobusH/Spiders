@@ -1,0 +1,349 @@
+sqlStmt
+"
+
+insert into helpdoc values(newid(), 'http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/help/model/sprintworkitem', '<body><article id=""body"" class=""help-page""><div itemscope itemtype=""http://schema.org/DigitalDocument"">
+		<h1>SprintWorkItem</h1>
+		<p>
+
+
+            Represents a work item on a Sprint that can be an Issue\, Task\, or To-do 
+            
+
+</p>
+		<section class=""content-wrapper main-content clear-fix"" itemprop=""text""><table class=""help-page-table""><thead><tr><th style=""border-top-left-radius:5px;"">Name</th><th>Description</th><th style=""border-top-right-radius:5px;"">Type</th></tr></thead><tbody><tr class=""parameter-row""><td class=""parameter-name"">AvatarHtml</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">CreatedDateTimeUTC</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Created Date] - Date the Sprint Work Item was created.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        date
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">DisplayOrder</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Display Order] - Order this Work Item appears on the Sprint
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        integer
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the guid Id.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">IdExternal</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the ProjectInsight.Models.Base.ApiModelBase.IdExternal object which allows the object to be saved with an associated external identification.  Used primarily for integrations.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/idexternal"">IdExternal</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Initials</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the string
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only\, Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Issue</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/task"">Task</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/issue"">Issue</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Issue_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Iteration</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/sprint"">Sprint</a> - [Sprint] - The Sprint this Work Item belongs to
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/sprint"">Sprint</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Iteration_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Sprint] - The Sprint this Work Item belongs to
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">SerializeType</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Get or Set if the Type should be serialized
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        boolean
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Task</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/task"">Task</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/task"">Task</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Task_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Todo</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/task"">Task</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Default Property</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/todo"">ToDo</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Todo_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">Type</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the string object type for external reference\, rest calls.
+            
+
+</span>
+												
+                    </td>
+                    <td class=""parameter-type"">
+                        string
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UpdatedDateTimeUTC</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Updated Date] - Date the Sprint Work Item was last updated.
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        date
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserCreated</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [User Created] - User who first created the Sprint Work Item
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserCreated_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [User Created] - User who first created the Sprint Work Item
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserUpdated</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/user"">User</a> - [User Updated] - User who last updated this Sprint Work Item
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/user"">User</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">UserUpdated_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [User Updated] - User who last updated this Sprint Work Item
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">WorkItem</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets (read only) the <a href=""/projectinsight.webapp/api/help/model/task"">Task</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        <a href=""/projectinsight.webapp/api/help/model/task"">Task</a>
+                    </td>
+                </tr><tr class=""parameter-row""><td class=""parameter-name"">WorkItem_Id</td>
+                    <td class=""parameter-documentation"">
+						<span>
+
+
+            Gets or sets the <a href=""/projectinsight.webapp/api/help/model/nullableoft"">NullableOfT</a> - [Work Item] - Work Item being tracked
+            
+
+</span>
+												
+									<p class=""parameter-annotations"">Remarks: <i> Read Only</i></p>
+                    </td>
+                    <td class=""parameter-type"">
+                        guid
+                    </td>
+                </tr></tbody></table></section></div>
+</article></body>', getUtcDate())"

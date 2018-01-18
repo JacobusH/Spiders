@@ -1,0 +1,2 @@
+http://dev24.sandbox.projectinsight.net/projectinsight.webapp/api/api-models
+http://dev24.sandbox.projectinsight.net//ProjectInsight.WebApp/api/help/
