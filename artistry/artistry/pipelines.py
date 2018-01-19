@@ -7,6 +7,9 @@
 import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
+from w3lib.html import remove_tags
+from artistry.items import ArtistryItem
+import uuid
 
 
 class ArtistryPipeline(object):
@@ -31,10 +34,18 @@ class ArtistryPipeline(object):
         self.db = firestore.client()
 
     def process_item(self, item, spider):
-        doc_ref = self.db.collection(u'artists').document(u'test')
-        doc_ref.set({
-            u'first': u'Ada',
-            # u'last': u'Lovelace',
-            # u'born': 1815
+        coll_ref = self.db.collection(u'artists')
+        coll_ref.add({
+            u'artistName': remove_tags(item['artistName']),
+            u'tracks': item['tracks'],
+            # u'lastTrack': item['lastTrack']
         })
+
+        # doc_ref = self.db.collection(u'artistsTest').document(idd)
+        # doc_ref.set({
+        #     u'id': idd,
+        #     u'artistName': remove_tags(item['artistName']),
+        #     # u'last': u'Lovelace',
+        #     # u'born': 1815
+        # })
         return item
