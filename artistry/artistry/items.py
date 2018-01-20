@@ -11,5 +11,5 @@ import scrapy
 class ArtistryItem(scrapy.Item):
     # define the fields for your item here like:
     artistName = scrapy.Field()
-    tracks = scrapy.Field()
+    track = scrapy.Field()
     pass

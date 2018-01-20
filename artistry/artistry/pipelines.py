@@ -10,6 +10,8 @@ from firebase_admin import firestore
 from w3lib.html import remove_tags
 from artistry.items import ArtistryItem
 import uuid
+from scrapy.exceptions import DropItem
+from google.cloud.exceptions import NotFound
 
 
 class ArtistryPipeline(object):
@@ -34,18 +36,21 @@ class ArtistryPipeline(object):
         self.db = firestore.client()
 
     def process_item(self, item, spider):
-        coll_ref = self.db.collection(u'artists')
-        coll_ref.add({
-            u'artistName': remove_tags(item['artistName']),
-            u'tracks': item['tracks'],
-            # u'lastTrack': item['lastTrack']
-        })
+        collName = item['artistName']
 
-        # doc_ref = self.db.collection(u'artistsTest').document(idd)
-        # doc_ref.set({
-        #     u'id': idd,
-        #     u'artistName': remove_tags(item['artistName']),
-        #     # u'last': u'Lovelace',
-        #     # u'born': 1815
-        # })
-        return item
+        # check if we have a record of the track
+        doc_ref = (self.db.collection(collName)
+                .where(u'title', u'==', item['track']['title'])
+                .where(u'artists', u'==', item['track']['artists']))
+
+        try:
+            doc = doc_ref.get()
+            print(u'Document data: {}'.format(doc.to_dict()))
+            raise DropItem("Track already recorded %s" % item['track']['title'])
+        except:
+            print(u'No such document!')
+            coll_ref = self.db.collection(collName)
+            coll_ref.add(
+                item['track'],
+            )
+            return item

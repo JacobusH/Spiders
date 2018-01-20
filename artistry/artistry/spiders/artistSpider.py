@@ -6,16 +6,16 @@ import uuid
 from w3lib.html import remove_tags
 
 
+
 class ArtistspiderSpider(scrapy.Spider):
     name = 'artistSpider'
     allowed_domains = ['beatport.com']
-    start_urls = ['http://beatport.com/artist/paul-van-dyk/3813/tracks']
+    start_urls = ['http://beatport.com/artist/placeholder/1/tracks']
 
     def parse(self, response):
         item = ArtistryItem()
         artistName = "%s" % response.css('h1').extract_first()
-        item['artistName'] = artistName
-        item['tracks'] = []
+        item['artistName'] = remove_tags(artistName)
        
         for track in response.css('.buk-track-meta-parent'):
             trackTitle = track.css('.buk-track-title').extract_first()
@@ -26,7 +26,7 @@ class ArtistspiderSpider(scrapy.Spider):
             trackKey = track.css('.buk-track-key').extract_first()
             trackReleaseDate = track.css('.buk-track-released').extract_first()
             
-            item['tracks'].append({
+            item['track'] = {
               u'id': remove_tags(uuid.uuid4().hex),
               u'title': remove_tags(trackTitle),
               u'artists': remove_tags(trackArtists),
@@ -35,16 +35,19 @@ class ArtistspiderSpider(scrapy.Spider):
               u'genre': remove_tags(trackGenre),
               u'key': remove_tags(trackKey),
               u'releaseDate': remove_tags(trackReleaseDate),
-            })
+            }
 
-        # yield item
+            yield item # every yielded item goes to the pipeline
+        
         next_page_url = response.css(".pag-next::attr(href)").extract_first()
         if next_page_url is not None:
-          return [Request(response.urljoin(next_page_url), callback=self.parse, meta={'item': item})]
+            print "NEXT PAGE: %s" % next_page_url
+            yield scrapy.Request(response.urljoin(next_page_url))
+        else:
+            next_idx = int(response.url.split('placeholder/')[1].split('/')[0])
+            nex_idx += 1
+            next_url = 'http://beatport.com/artist/placeholder/%s/tracks' % str(next_idx)
+            self.logger.info('FINISHED: %s') % item['artistName']
+            self.logger.info('WORKING ON: %s') % next_url
+            yield scrapy.Request(response.urljoin(next_page_url))
 
-
-        
-            yield scrapy.Request(response.urljoin(next_page_url), callback=self.innerParse)
-
-    def innerParse(self, response):
-      
