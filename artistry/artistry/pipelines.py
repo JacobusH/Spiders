@@ -49,6 +49,7 @@ class ArtistryPipeline(object):
             raise DropItem("Track already recorded %s" % item['track']['title'])
         except:
             print(u'No such document!')
+            print(item)
             coll_ref = self.db.collection(collName)
             coll_ref.add(
                 item['track'],
