@@ -10,7 +10,8 @@ from w3lib.html import remove_tags
 class ArtistspiderSpider(scrapy.Spider):
     name = 'artistSpider'
     allowed_domains = ['beatport.com']
-    start_urls = ['https://www.beatport.com/artist/paul-van-dyk/3813']
+    # start_urls = ['https://www.beatport.com/artist/paul-van-dyk/3813/tracks']
+    start_urls = ['https://www.beatport.com/artist/placeholder/1/tracks']
 
     def parse(self, response):
         item = ArtistryItem()
@@ -40,16 +41,16 @@ class ArtistspiderSpider(scrapy.Spider):
             
             yield item # every yielded item goes to the pipeline
         
-        # next_page_url = response.css(".pag-next::attr(href)").extract_first()
-        # if next_page_url is not None:
-        #     print "NEXT PAGE: %s" % next_page_url
-        #     yield scrapy.Request(response.urljoin(next_page_url))
-        # else:
-        #     next_idx = int(response.url.split('placeholder/')[1].split('/')[0])
-        #     nex_idx += 1
-        #     next_url = 'http://beatport.com/artist/placeholder/%s/tracks' % str(next_idx)
-        #     self.logger.info('FINISHED: %s') % item['artistName']
-        #     self.logger.info('WORKING ON: %s') % next_url
-        #     yield scrapy.Request(response.urljoin(next_page_url))
+        next_page_url = response.css(".pag-next::attr(href)").extract_first()
+        if next_page_url is not None:
+            print "NEXT PAGE: %s" % next_page_url
+            yield scrapy.Request(response.urljoin(next_page_url))
+        else:
+            next_idx = int(response.url.split('placeholder/')[1].split('/')[0])
+            next_idx += 1
+            next_url = 'http://beatport.com/artist/placeholder/%s/tracks' % str(next_idx)
+            self.logger.info('FINISHED: %s') % str(item['artistName'])
+            self.logger.info('WORKING ON: %s') % next_url
+            yield scrapy.Request(response.urljoin(next_page_url))
 
     

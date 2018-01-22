@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Define your item pipelines here
-#
-# Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: http://doc.scrapy.org/en/latest/topics/item-pipeline.html
 import firebase_admin
 from firebase_admin import credentials
@@ -13,12 +8,7 @@ import uuid
 from scrapy.exceptions import DropItem
 from google.cloud.exceptions import NotFound
 
-
-class ArtistryPipeline(object):
-
-    def __init__(self):
-        # cred = credentials.Certificate('firestoreCreds.json')
-        self.cred = credentials.Certificate(
+cred = credentials.Certificate(
           {
             "type": "service_account",
             "project_id": "crawl-63a5c",
@@ -32,26 +22,28 @@ class ArtistryPipeline(object):
             "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crawl-63a5c%40appspot.gserviceaccount.com"
           }
         )
-        firebase_admin.initialize_app(self.cred)
-        self.db = firestore.client()
+firebase_admin.initialize_app(cred)
+db = firestore.client()
 
-    def process_item(self, item, spider):
-        collName = item['artistName']
+print('Club Attack Tpod Mix By Paul Van Dyk')
+docs = db.collection(u'Paul van Dyk').where(u'title', u'==', u'asdfasdfasdfsafasdf').get()
 
-        # check if we have a record of the track
-        docs = self.db.collection(collName).where(u'title', u'==', item['track']['title']).get()
+docs2 = db.collection(u'cities').where(u'capital', u'==', True).get()
+docs3 = db.collection(u'Paul van Dyk').where(u'title', u'==', u'Another Way Club Mix').get()
 
-        exists = False
-        for doc in docs:
-            exists = True
-            print("Track already recorded %s" % item['track']['title'])
-            raise DropItem()
-            break
+for doc in docs:
+    print(u'{} => {}'.format(doc.id, doc.to_dict()))
 
-        if not exists:
-            coll_ref = self.db.collection(collName)
-            coll_ref.add(
-                item['track'],
-            )
-
-        return item
+try:
+    for doc in docs:
+        print(u'{} => {}'.format(doc.id, doc.to_dict()))
+    print(u'{}'.format(doc.to_dict()))
+    # raise DropItem("Track already recorded %s" % item['track']['title'])
+except Exception as e:
+    print(e)
+    print(u'No such document!')
+    # print(item)
+    # coll_ref = self.db.collection(collName)
+    # coll_ref.add(
+    #     item['track'],
+    # )
