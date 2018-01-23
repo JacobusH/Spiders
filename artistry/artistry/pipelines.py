@@ -44,8 +44,9 @@ class ArtistryPipeline(object):
         exists = False
         for doc in docs:
             exists = True
-            print("Track already recorded %s" % item['track']['title'])
-            raise DropItem()
+            self.LogToFile( "Track already recorded %s" % item['track']['title'])
+            return {'dropped', item['track']['title']}
+            # raise DropItem()
             break
 
         if not exists:
@@ -55,3 +56,8 @@ class ArtistryPipeline(object):
             )
 
         return item
+
+    def LogToFile(self, fileName, toWrite):
+        fh = open("LogFile.txt", "a")
+        fh.write(toWrite + '\n')
+        fh.close
