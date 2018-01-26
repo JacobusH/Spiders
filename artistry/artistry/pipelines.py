@@ -12,6 +12,7 @@ from artistry.items import ArtistryItem
 import uuid
 from scrapy.exceptions import DropItem
 from google.cloud.exceptions import NotFound
+import datetime
 
 
 class ArtistryPipeline(object):
@@ -37,14 +38,14 @@ class ArtistryPipeline(object):
 
     def process_item(self, item, spider):
         collName = item['artistName']
-
+        
         # check if we have a record of the track
         docs = self.db.collection(collName).where(u'title', u'==', item['track']['title']).get()
 
         exists = False
         for doc in docs:
             exists = True
-            self.LogToFile( "Track already recorded %s" % item['track']['title'])
+            # self.logger.LogToFile("Track already recorded %s" % item['track']['title'])
             return {'dropped', item['track']['title']}
             # raise DropItem()
             break
@@ -57,7 +58,4 @@ class ArtistryPipeline(object):
 
         return item
 
-    def LogToFile(self, fileName, toWrite):
-        fh = open("LogFile.txt", "a")
-        fh.write(toWrite + '\n')
-        fh.close
+    

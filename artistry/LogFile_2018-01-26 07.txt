@@ -1,0 +1,130 @@
+WORKING ON: Jori Hulkkonen
+	 ||--+ 891 +--||  --- 76.9440000057 seconds --- 
+WORKING ON: Blue States
+	 ||--+ 892 +--||  --- 8.8900001049 seconds --- 
+WORKING ON: Nuspirit Helsinki
+	 ||--+ 893 +--||  --- 5.50499987602 seconds --- 
+WORKING ON: Capoeira Twins
+	 ||--+ 894 +--||  --- 7.32699990273 seconds --- 
+WORKING ON: A:xus
+	 ||--+ 895 +--||  --- 7.07500004768 seconds --- 
+WORKING ON: Butti 49
+	 ||--+ 896 +--||  --- 6.69200015068 seconds --- 
+WORKING ON: Paul Lancaster
+	 ||--+ 897 +--||  --- 1.9929997921 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 898 +--||  --- 0.567000150681 seconds --- 
+WORKING ON: LNR
+	 ||--+ 899 +--||  --- 3.3259999752 seconds --- 
+WORKING ON: Dark Clark
+	 ||--+ 900 +--||  --- 1.41499996185 seconds --- 
+WORKING ON: Inland Knights
+	 ||--+ 901 +--||  --- 75.7160000801 seconds --- 
+WORKING ON: Antenna
+	 ||--+ 902 +--||  --- 4.91899991035 seconds --- 
+WORKING ON: Buddahsez Everdelicious
+	 ||--+ 903 +--||  --- 1.0529999733 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 904 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: Protribe
+	 ||--+ 905 +--||  --- 1.4279999733 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 906 +--||  --- 0.577000141144 seconds --- 
+WORKING ON: Kemal
+	 ||--+ 907 +--||  --- 20.2929999828 seconds --- 
+WORKING ON: Kiko
+	 ||--+ 908 +--||  --- 86.128000021 seconds --- 
+WORKING ON: Pyro
+	 ||--+ 909 +--||  --- 7.24899983406 seconds --- 
+WORKING ON: Psidream
+	 ||--+ 910 +--||  --- 12.8860001564 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 911 +--||  --- 0.659999847412 seconds --- 
+WORKING ON: SKC
+	 ||--+ 912 +--||  --- 9.36500000954 seconds --- 
+WORKING ON: Noisia
+	 ||--+ 913 +--||  --- 65.0840001106 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 914 +--||  --- 0.639999866486 seconds --- 
+WORKING ON: Terminal Velocity
+	 ||--+ 915 +--||  --- 2.78000020981 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 916 +--||  --- 0.588999986649 seconds --- 
+WORKING ON: Solaplexus
+	 ||--+ 917 +--||  --- 1.03600001335 seconds --- 
+WORKING ON: Kabuki
+	 ||--+ 918 +--||  --- 13.3109998703 seconds --- 
+WORKING ON: Kasha
+	 ||--+ 919 +--||  --- 1.20200014114 seconds --- 
+WORKING ON: Stone Drive
+	 ||--+ 920 +--||  --- 0.976999998093 seconds --- 
+WORKING ON: Cosmic Jerk
+	 ||--+ 921 +--||  --- 1.03399991989 seconds --- 
+WORKING ON: Hedrock Valley Beats
+	 ||--+ 922 +--||  --- 1.86500000954 seconds --- 
+WORKING ON: Tek Ed
+	 ||--+ 923 +--||  --- 1.10400009155 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 924 +--||  --- 0.72000002861 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 925 +--||  --- 0.669999837875 seconds --- 
+WORKING ON: Gecko
+	 ||--+ 926 +--||  --- 7.47000002861 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 927 +--||  --- 0.625 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 928 +--||  --- 0.631999969482 seconds --- 
+WORKING ON: Sicknote
+	 ||--+ 929 +--||  --- 2.22600007057 seconds --- 
+WORKING ON: Distortionz
+	 ||--+ 930 +--||  --- 2.69099998474 seconds --- 
+WORKING ON: Quest
+	 ||--+ 931 +--||  --- 34.6340000629 seconds --- 
+WORKING ON: Ben Coupland
+	 ||--+ 932 +--||  --- 2.44199991226 seconds --- 
+WORKING ON: Elizabeth Troy
+	 ||--+ 933 +--||  --- 2.26300001144 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 934 +--||  --- 0.693000078201 seconds --- 
+WORKING ON: Danny C
+	 ||--+ 935 +--||  --- 8.77799987793 seconds --- 
+WORKING ON: Evil Nine
+	 ||--+ 936 +--||  --- 29.3430001736 seconds --- 
+WORKING ON: The Funk Monster
+	 ||--+ 937 +--||  --- 1.72599983215 seconds --- 
+WORKING ON: The Bluefoot Project
+	 ||--+ 938 +--||  --- 0.988000154495 seconds --- 
+WORKING ON: Special K
+	 ||--+ 939 +--||  --- 3.80199980736 seconds --- 
+WORKING ON: LBJ
+	 ||--+ 940 +--||  --- 8.46600008011 seconds --- 
+WORKING ON: Free Energy
+	 ||--+ 941 +--||  --- 3.05800008774 seconds --- 
+WORKING ON: Projekt: PM
+	 ||--+ 942 +--||  --- 1.70899987221 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 943 +--||  --- 0.616000175476 seconds --- 
+WORKING ON: Blue Boy
+	 ||--+ 944 +--||  --- 3.52300000191 seconds --- 
+WORKING ON: DJ Deep
+	 ||--+ 945 +--||  --- 12.3019998074 seconds --- 
+WORKING ON: Wamdue Kids
+	 ||--+ 946 +--||  --- 3.74300003052 seconds --- 
+WORKING ON: Dino &amp; Terry
+	 ||--+ 947 +--||  --- 5.38000011444 seconds --- 
+WORKING ON: Mazi
+	 ||--+ 948 +--||  --- 14.763999939 seconds --- 
+WORKING ON: Tony Thomas
+	 ||--+ 949 +--||  --- 358.628000021 seconds --- 
+WORKING ON: Soul Providers
+	 ||--+ 950 +--||  --- 7.41799998283 seconds --- 
+WORKING ON: Kevin Yost
+	 ||--+ 951 +--||  --- 202.984999895 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 952 +--||  --- 0.657999992371 seconds --- 
+WORKING ON: Straight No Chaser
+	 ||--+ 953 +--||  --- 1.79200005531 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 954 +--||  --- 0.660000085831 seconds --- 
+WORKING ON: Aquanauts
+	 ||--+ 955 +--||  --- 2.81900000572 seconds --- 
