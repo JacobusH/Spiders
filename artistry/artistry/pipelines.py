@@ -52,9 +52,13 @@ class ArtistryPipeline(object):
 
         if not exists:
             coll_ref = self.db.collection(collName)
-            coll_ref.add(
-                item['track'],
-            )
+            try:
+                coll_ref.add(
+                    item['track'],
+                )
+            except Exception as e:
+                print e.message
+                #  spider.close_spider
 
         return item
 
