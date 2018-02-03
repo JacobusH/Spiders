@@ -20,7 +20,7 @@ class ArtistspiderSpider(scrapy.Spider):
         super(ArtistspiderSpider, self).__init__(*args, **kwargs)
         now = datetime.datetime.now()
         self.leDate = now.strftime("%Y-%m-%d %H")
-        self.filename = "LogFile_%s.txt" % self.leDate
+        self.logFilename = "LogFile_%s.txt" % self.leDate
         self.last_time = time.time()
         self.getStartURL()
         
@@ -65,10 +65,11 @@ class ArtistspiderSpider(scrapy.Spider):
         next_idx += 1
         next_url = 'http://beatport.com/artist/placeholder/%d/tracks' % next_idx
         
-        fh = open(self.filename, "a")
+        fh = open(self.logFilename, "a")
         fh.write('WORKING ON: %s' % self.artistName + '\n')
         fh.write("\t ||--+ %d +--||  --- %s seconds --- \n" % (next_idx, time.time() - self.last_time))
         fh.close
+        # self.saveStartURL(next_idx)
         self.last_time = time.time()
         
         return scrapy.Request(resp.urljoin(next_url))
@@ -77,4 +78,10 @@ class ArtistspiderSpider(scrapy.Spider):
         fh = open("StartURL.txt", "r")
         start_idx = int(fh.readline())
         self.start_urls = ['https://www.beatport.com/artist/placeholder/%d/tracks' % start_idx]
+        fh.close
+
+    def saveStartURL(self, newStartIdx):
+        fh = open("StartURL.txt", "r")
+        lines = fh.read().splitlines()
+        lines[0] = newStartIdx
         fh.close
