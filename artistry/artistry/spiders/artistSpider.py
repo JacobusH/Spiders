@@ -39,7 +39,7 @@ class ArtistspiderSpider(scrapy.Spider):
             trackLabels     = track.xpath("normalize-space(.//p[@class='buk-track-labels'])").extract_first()
             trackGenre      = track.xpath("normalize-space(.//p[@class='buk-track-genre'])").extract_first()
             trackKey        = track.xpath("normalize-space(.//p[@class='buk-track-key'])").extract_first()
-            trackReleaseDate = track.xpath("normalize-space(.//p[@class='buk-track-releaseDate'])").extract_first()
+            trackReleaseDate = track.xpath("normalize-space(.//p[@class='buk-track-released'])").extract_first()
             
             item['track'] = {
               u'id':        remove_tags(uuid.uuid4().hex),

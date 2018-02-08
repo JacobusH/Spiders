@@ -58,7 +58,7 @@ class ArtistryPipeline(object):
                 )
             except Exception as e:
                 print e.message
-                #  spider.close_spider
+                spider.close_spider
 
         return item
 
