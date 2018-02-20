@@ -43,11 +43,11 @@ class ArtistspiderSpider(scrapy.Spider):
             
             item['track'] = {
               u'id':        remove_tags(uuid.uuid4().hex),
-              u'title':     remove_tags(trackTitle),
-              u'artists':   remove_tags(trackArtists),
-              u'remixers':  remove_tags(trackRemixers),
-              u'labels':    remove_tags(trackLabels),
-              u'genre':     remove_tags(trackGenre),
+              u'title':     remove_tags(trackTitle).replace("\\", "|"),
+              u'artists':   remove_tags(trackArtists).replace("\\", "|"),
+              u'remixers':  remove_tags(trackRemixers).replace("\\", "|"),
+              u'labels':    remove_tags(trackLabels).replace("\\", "|"),
+              u'genre':     remove_tags(trackGenre).replace("\\", "|"),
               u'key':       remove_tags(trackKey),
               u'releaseDate': remove_tags(trackReleaseDate),
             }
@@ -66,8 +66,8 @@ class ArtistspiderSpider(scrapy.Spider):
         next_url = 'http://beatport.com/artist/placeholder/%d/tracks' % next_idx
         
         fh = open(self.logFilename, "a")
-        fh.write('WORKING ON: %s' % self.artistName + '\n')
-        fh.write("\t ||--+ %d +--||  --- %s seconds --- \n" % (next_idx, time.time() - self.last_time))
+        fh.write('WORKING ON: %s' % self.artistName.encode('utf-8') + '\n')
+        fh.write("\t ||--+ %d +--||  --- %s seconds --- \n" % (next_idx - 1, time.time() - self.last_time))
         fh.close
         # self.saveStartURL(next_idx)
         self.last_time = time.time()
