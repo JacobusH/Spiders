@@ -1,0 +1,4286 @@
+WORKING ON: Jazz Connection
+	 ||--+ 33559 +--||  --- 10.0230000019 seconds --- 
+WORKING ON: Cafe Americaine
+	 ||--+ 33560 +--||  --- 49.868999958 seconds --- 
+WORKING ON: Sofa Sweeper
+	 ||--+ 33561 +--||  --- 6.87199997902 seconds --- 
+WORKING ON: Calido
+	 ||--+ 33562 +--||  --- 4.52999997139 seconds --- 
+WORKING ON: Frank Borell
+	 ||--+ 33563 +--||  --- 79.3410000801 seconds --- 
+WORKING ON: Skysurfer
+	 ||--+ 33564 +--||  --- 17.5299999714 seconds --- 
+WORKING ON: Silent Voices
+	 ||--+ 33565 +--||  --- 7.5720000267 seconds --- 
+WORKING ON: In Credo
+	 ||--+ 33566 +--||  --- 18.3329999447 seconds --- 
+WORKING ON: Airstream
+	 ||--+ 33567 +--||  --- 10.0580000877 seconds --- 
+WORKING ON: Jason Tyrello
+	 ||--+ 33568 +--||  --- 7.38899993896 seconds --- 
+WORKING ON: Kid Coconutz
+	 ||--+ 33569 +--||  --- 9.64800000191 seconds --- 
+WORKING ON: Skyway
+	 ||--+ 33570 +--||  --- 10.6579999924 seconds --- 
+WORKING ON: Patrick Marsh
+	 ||--+ 33571 +--||  --- 13.2190001011 seconds --- 
+WORKING ON: Michael Steep
+	 ||--+ 33572 +--||  --- 2.6289999485 seconds --- 
+WORKING ON: Citrus Jam
+	 ||--+ 33573 +--||  --- 14.003000021 seconds --- 
+WORKING ON: Deepartur
+	 ||--+ 33574 +--||  --- 1.06999993324 seconds --- 
+WORKING ON: Chillwalker
+	 ||--+ 33575 +--||  --- 25.385999918 seconds --- 
+WORKING ON: Deeparture
+	 ||--+ 33576 +--||  --- 8.82500004768 seconds --- 
+WORKING ON: The Man Behind C.
+	 ||--+ 33577 +--||  --- 25.6870000362 seconds --- 
+WORKING ON: Noise Boyz
+	 ||--+ 33578 +--||  --- 35.3429999352 seconds --- 
+WORKING ON: Clublife
+	 ||--+ 33579 +--||  --- 9.09300017357 seconds --- 
+WORKING ON: Eivizzards
+	 ||--+ 33580 +--||  --- 4.10299992561 seconds --- 
+WORKING ON: Orange Music
+	 ||--+ 33581 +--||  --- 16.6519999504 seconds --- 
+WORKING ON: Skindive Inc.
+	 ||--+ 33582 +--||  --- 9.36199998856 seconds --- 
+WORKING ON: Phil Kinley
+	 ||--+ 33583 +--||  --- 21.1540000439 seconds --- 
+WORKING ON: Chris Kent
+	 ||--+ 33584 +--||  --- 1.95199990273 seconds --- 
+WORKING ON: Dessert Tunes
+	 ||--+ 33585 +--||  --- 2.97900009155 seconds --- 
+WORKING ON: Sunseeker
+	 ||--+ 33586 +--||  --- 6.13899993896 seconds --- 
+WORKING ON: Brain 18
+	 ||--+ 33587 +--||  --- 1.10800004005 seconds --- 
+WORKING ON: Brain 19
+	 ||--+ 33588 +--||  --- 1.02600002289 seconds --- 
+WORKING ON: Brain 20
+	 ||--+ 33589 +--||  --- 1.30399990082 seconds --- 
+WORKING ON: Brain 21
+	 ||--+ 33590 +--||  --- 1.1400001049 seconds --- 
+WORKING ON: Brain 22
+	 ||--+ 33591 +--||  --- 1.78299999237 seconds --- 
+WORKING ON: Brain 23
+	 ||--+ 33592 +--||  --- 1.12700009346 seconds --- 
+WORKING ON: Brain 24
+	 ||--+ 33593 +--||  --- 1.02899980545 seconds --- 
+WORKING ON: Brain 25
+	 ||--+ 33594 +--||  --- 1.1740000248 seconds --- 
+WORKING ON: Brain 26
+	 ||--+ 33595 +--||  --- 1.09000015259 seconds --- 
+WORKING ON: Brain 27
+	 ||--+ 33596 +--||  --- 1.28199982643 seconds --- 
+WORKING ON: Brain 28
+	 ||--+ 33597 +--||  --- 1.09600019455 seconds --- 
+WORKING ON: Brain 29
+	 ||--+ 33598 +--||  --- 1.02499985695 seconds --- 
+WORKING ON: Brain 30
+	 ||--+ 33599 +--||  --- 1.04299998283 seconds --- 
+WORKING ON: Brain 31
+	 ||--+ 33600 +--||  --- 1.24399995804 seconds --- 
+WORKING ON: Brain 32
+	 ||--+ 33601 +--||  --- 1.16400003433 seconds --- 
+WORKING ON: Ray Clarke
+	 ||--+ 33602 +--||  --- 15.3010001183 seconds --- 
+WORKING ON: Flam
+	 ||--+ 33603 +--||  --- 1.9240000248 seconds --- 
+WORKING ON: Hugo Cipres
+	 ||--+ 33604 +--||  --- 5.22799992561 seconds --- 
+WORKING ON: P-Jay
+	 ||--+ 33605 +--||  --- 8.06900000572 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33606 +--||  --- 0.678999900818 seconds --- 
+WORKING ON: Anthony Sanfilippo
+	 ||--+ 33607 +--||  --- 1.15900015831 seconds --- 
+WORKING ON: Spy Hop
+	 ||--+ 33608 +--||  --- 0.99799990654 seconds --- 
+WORKING ON: Paul Rocca
+	 ||--+ 33609 +--||  --- 1.27999997139 seconds --- 
+WORKING ON: Mindtrix
+	 ||--+ 33610 +--||  --- 3.07500004768 seconds --- 
+WORKING ON: Her Space Holiday
+	 ||--+ 33611 +--||  --- 1.14599990845 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33612 +--||  --- 0.65700006485 seconds --- 
+WORKING ON: Arab Strap
+	 ||--+ 33613 +--||  --- 1.13499999046 seconds --- 
+WORKING ON: The Album Leaf
+	 ||--+ 33614 +--||  --- 4.77699995041 seconds --- 
+WORKING ON: Super Furry Animals
+	 ||--+ 33615 +--||  --- 2.58200001717 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33616 +--||  --- 0.640000104904 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33617 +--||  --- 0.642999887466 seconds --- 
+WORKING ON: Marco Torriero
+	 ||--+ 33618 +--||  --- 5.65600013733 seconds --- 
+WORKING ON: Rob Milo
+	 ||--+ 33619 +--||  --- 1.12199997902 seconds --- 
+WORKING ON: DJ Diferenz
+	 ||--+ 33620 +--||  --- 1.0 seconds --- 
+WORKING ON: Afroteque
+	 ||--+ 33621 +--||  --- 1.03399991989 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33622 +--||  --- 0.654000043869 seconds --- 
+WORKING ON: Shtanga
+	 ||--+ 33623 +--||  --- 1.02900004387 seconds --- 
+WORKING ON: Igor
+	 ||--+ 33624 +--||  --- 7.0680000782 seconds --- 
+WORKING ON: Dirty Deal
+	 ||--+ 33625 +--||  --- 3.51300001144 seconds --- 
+WORKING ON: Smacs
+	 ||--+ 33626 +--||  --- 18.9219999313 seconds --- 
+WORKING ON: Patrick Kong
+	 ||--+ 33627 +--||  --- 18.8190000057 seconds --- 
+WORKING ON: Mark Stent
+	 ||--+ 33628 +--||  --- 30.7179999352 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33629 +--||  --- 0.663000106812 seconds --- 
+WORKING ON: R-Slane
+	 ||--+ 33630 +--||  --- 5.71299982071 seconds --- 
+WORKING ON: Julien Merros
+	 ||--+ 33631 +--||  --- 1.03100013733 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33632 +--||  --- 0.644000053406 seconds --- 
+WORKING ON: Soha
+	 ||--+ 33633 +--||  --- 19.4110000134 seconds --- 
+WORKING ON: Ultima C
+	 ||--+ 33634 +--||  --- 5.37199997902 seconds --- 
+WORKING ON: House Tribe
+	 ||--+ 33635 +--||  --- 1.14499998093 seconds --- 
+WORKING ON: El Santero
+	 ||--+ 33636 +--||  --- 1.30099987984 seconds --- 
+WORKING ON: DJ Lucho
+	 ||--+ 33637 +--||  --- 3.02800011635 seconds --- 
+WORKING ON: The Rio Deal
+	 ||--+ 33638 +--||  --- 1.17199993134 seconds --- 
+WORKING ON: Percussion Exchange
+	 ||--+ 33639 +--||  --- 1.0759999752 seconds --- 
+WORKING ON: Ray Abraxas
+	 ||--+ 33640 +--||  --- 2.20700001717 seconds --- 
+WORKING ON: The Body Shakers
+	 ||--+ 33641 +--||  --- 1.85700011253 seconds --- 
+WORKING ON: Root 33
+	 ||--+ 33642 +--||  --- 1.0039999485 seconds --- 
+WORKING ON: The RL Project
+	 ||--+ 33643 +--||  --- 1.68899989128 seconds --- 
+WORKING ON: Lord G
+	 ||--+ 33644 +--||  --- 4.07700014114 seconds --- 
+WORKING ON: BAMF
+	 ||--+ 33645 +--||  --- 1.61899995804 seconds --- 
+WORKING ON: Kim Leoni
+	 ||--+ 33646 +--||  --- 15.9329998493 seconds --- 
+WORKING ON: D.O.C. Project
+	 ||--+ 33647 +--||  --- 1.75900006294 seconds --- 
+WORKING ON: Seeds &amp; Stems
+	 ||--+ 33648 +--||  --- 1.26399993896 seconds --- 
+WORKING ON: Darwich
+	 ||--+ 33649 +--||  --- 4.70700001717 seconds --- 
+WORKING ON: Ultraworld
+	 ||--+ 33650 +--||  --- 2.22699999809 seconds --- 
+WORKING ON: Juice &amp; Co.
+	 ||--+ 33651 +--||  --- 1.52600002289 seconds --- 
+WORKING ON: Eddie Perez
+	 ||--+ 33652 +--||  --- 1.99300003052 seconds --- 
+WORKING ON: Kriss Spirit
+	 ||--+ 33653 +--||  --- 1.19499993324 seconds --- 
+WORKING ON: DiCristino
+	 ||--+ 33654 +--||  --- 76.2610001564 seconds --- 
+WORKING ON: Lenny D
+	 ||--+ 33655 +--||  --- 2.86699986458 seconds --- 
+WORKING ON: Soul Sensation
+	 ||--+ 33656 +--||  --- 1.82100009918 seconds --- 
+WORKING ON: Dee-Lucious
+	 ||--+ 33657 +--||  --- 2.2349998951 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33658 +--||  --- 0.663000106812 seconds --- 
+WORKING ON: Mark Versluis
+	 ||--+ 33659 +--||  --- 6.89499998093 seconds --- 
+WORKING ON: Panoramic
+	 ||--+ 33660 +--||  --- 1.2009999752 seconds --- 
+WORKING ON: Trauma
+	 ||--+ 33661 +--||  --- 22.0169999599 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33662 +--||  --- 0.713999986649 seconds --- 
+WORKING ON: Full Swing
+	 ||--+ 33663 +--||  --- 3.46700000763 seconds --- 
+WORKING ON: Sun Sun Sun
+	 ||--+ 33664 +--||  --- 1.18700003624 seconds --- 
+WORKING ON: Oliva &amp; Prioli
+	 ||--+ 33665 +--||  --- 4.57700014114 seconds --- 
+WORKING ON: M&amp;S
+	 ||--+ 33666 +--||  --- 12.0569999218 seconds --- 
+WORKING ON: Girl Next Door
+	 ||--+ 33667 +--||  --- 1.19099998474 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33668 +--||  --- 0.691999912262 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33669 +--||  --- 0.708000183105 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33670 +--||  --- 0.638999938965 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33671 +--||  --- 0.690999984741 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33672 +--||  --- 0.698999881744 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33673 +--||  --- 0.715000152588 seconds --- 
+WORKING ON: B Crew
+	 ||--+ 33674 +--||  --- 0.802000045776 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33675 +--||  --- 0.628999948502 seconds --- 
+WORKING ON: Jason Patrick
+	 ||--+ 33676 +--||  --- 10.8020000458 seconds --- 
+WORKING ON: Mr. Goodbar
+	 ||--+ 33677 +--||  --- 1.49399995804 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33678 +--||  --- 0.740000009537 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33679 +--||  --- 0.691999912262 seconds --- 
+WORKING ON: House Of Abraxas
+	 ||--+ 33680 +--||  --- 2.27099990845 seconds --- 
+WORKING ON: AP-9
+	 ||--+ 33681 +--||  --- 8.45300006866 seconds --- 
+WORKING ON: Jessica
+	 ||--+ 33682 +--||  --- 6.91199994087 seconds --- 
+WORKING ON: Mark Sparks
+	 ||--+ 33683 +--||  --- 1.15000009537 seconds --- 
+WORKING ON: Lil C-Style
+	 ||--+ 33684 +--||  --- 6.71499991417 seconds --- 
+WORKING ON: T Wood
+	 ||--+ 33685 +--||  --- 1.56500005722 seconds --- 
+WORKING ON: R Beta
+	 ||--+ 33686 +--||  --- 1.1890001297 seconds --- 
+WORKING ON: Magnificent
+	 ||--+ 33687 +--||  --- 6.55199980736 seconds --- 
+WORKING ON: King Freako
+	 ||--+ 33688 +--||  --- 1.2009999752 seconds --- 
+WORKING ON: Urban Medicine
+	 ||--+ 33689 +--||  --- 1.1360001564 seconds --- 
+WORKING ON: Adam Jace
+	 ||--+ 33690 +--||  --- 14.6349999905 seconds --- 
+WORKING ON: Flying Lotus
+	 ||--+ 33691 +--||  --- 35.4549999237 seconds --- 
+WORKING ON: Sheyba
+	 ||--+ 33692 +--||  --- 2.26399993896 seconds --- 
+WORKING ON: Ad. Mark
+	 ||--+ 33693 +--||  --- 3.99100017548 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33694 +--||  --- 0.830999851227 seconds --- 
+WORKING ON: True Lies
+	 ||--+ 33695 +--||  --- 15.6400001049 seconds --- 
+WORKING ON: Bel Canto
+	 ||--+ 33696 +--||  --- 3.97199988365 seconds --- 
+WORKING ON: Wavepilots
+	 ||--+ 33697 +--||  --- 2.98199987411 seconds --- 
+WORKING ON: Aneuria
+	 ||--+ 33698 +--||  --- 11.6870000362 seconds --- 
+WORKING ON: Brad Holland
+	 ||--+ 33699 +--||  --- 8.71900010109 seconds --- 
+WORKING ON: Adore &amp; Devote
+	 ||--+ 33700 +--||  --- 1.74399995804 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33701 +--||  --- 0.695999860764 seconds --- 
+WORKING ON: Breadren
+	 ||--+ 33702 +--||  --- 2.17600011826 seconds --- 
+WORKING ON: Price
+	 ||--+ 33703 +--||  --- 10.1779999733 seconds --- 
+WORKING ON: Klopfgeister
+	 ||--+ 33704 +--||  --- 23.7209999561 seconds --- 
+WORKING ON: Insense
+	 ||--+ 33705 +--||  --- 13.1849999428 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33706 +--||  --- 0.708000183105 seconds --- 
+WORKING ON: Simple Minds
+	 ||--+ 33707 +--||  --- 4.10699987411 seconds --- 
+WORKING ON: X-Avia
+	 ||--+ 33708 +--||  --- 3.04299998283 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33709 +--||  --- 0.664999961853 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33710 +--||  --- 0.646000146866 seconds --- 
+WORKING ON: Raze
+	 ||--+ 33711 +--||  --- 11.0249998569 seconds --- 
+WORKING ON: The Connection
+	 ||--+ 33712 +--||  --- 7.72800016403 seconds --- 
+WORKING ON: Tito B.
+	 ||--+ 33713 +--||  --- 5.1819999218 seconds --- 
+WORKING ON: YS
+	 ||--+ 33714 +--||  --- 2.63499999046 seconds --- 
+WORKING ON: Chino Montana
+	 ||--+ 33715 +--||  --- 4.88300013542 seconds --- 
+WORKING ON: Big Tone
+	 ||--+ 33716 +--||  --- 41.6579999924 seconds --- 
+WORKING ON: Goldtoes
+	 ||--+ 33717 +--||  --- 3.94699978828 seconds --- 
+WORKING ON: Davina
+	 ||--+ 33718 +--||  --- 31.9880001545 seconds --- 
+WORKING ON: Eight:Ball
+	 ||--+ 33719 +--||  --- 1.46899986267 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33720 +--||  --- 0.736999988556 seconds --- 
+WORKING ON: Alexander Hope
+	 ||--+ 33721 +--||  --- 3.22600007057 seconds --- 
+WORKING ON: Roots
+	 ||--+ 33722 +--||  --- 2.88599991798 seconds --- 
+WORKING ON: Anderson Soares
+	 ||--+ 33723 +--||  --- 2.34700012207 seconds --- 
+WORKING ON: Sesso Matto
+	 ||--+ 33724 +--||  --- 1.41100001335 seconds --- 
+WORKING ON: Sparque
+	 ||--+ 33725 +--||  --- 3.625 seconds --- 
+WORKING ON: B.T. (Brenda Taylor)
+	 ||--+ 33726 +--||  --- 2.17100000381 seconds --- 
+WORKING ON: Marty Thomas
+	 ||--+ 33727 +--||  --- 2.67299985886 seconds --- 
+WORKING ON: North End
+	 ||--+ 33728 +--||  --- 2.74500012398 seconds --- 
+WORKING ON: Barbara Mason
+	 ||--+ 33729 +--||  --- 32.1770000458 seconds --- 
+WORKING ON: Taana Gardner
+	 ||--+ 33730 +--||  --- 19.9299998283 seconds --- 
+WORKING ON: Billy Nichols
+	 ||--+ 33731 +--||  --- 3.01200008392 seconds --- 
+WORKING ON: B+
+	 ||--+ 33732 +--||  --- 4.56699991226 seconds --- 
+WORKING ON: Timmy Regisford
+	 ||--+ 33733 +--||  --- 48.5560002327 seconds --- 
+WORKING ON: Raw Silk
+	 ||--+ 33734 +--||  --- 3.98699998856 seconds --- 
+WORKING ON: DJ Marley Marl
+	 ||--+ 33735 +--||  --- 1.1289999485 seconds --- 
+WORKING ON: Loose Joints
+	 ||--+ 33736 +--||  --- 4.86999988556 seconds --- 
+WORKING ON: Carl Bean
+	 ||--+ 33737 +--||  --- 2.57500004768 seconds --- 
+WORKING ON: Larry Levan
+	 ||--+ 33738 +--||  --- 4.41199994087 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33739 +--||  --- 0.5640001297 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33740 +--||  --- 0.567999839783 seconds --- 
+WORKING ON: Timothy Shumaker
+	 ||--+ 33741 +--||  --- 1.16900014877 seconds --- 
+WORKING ON: Yerba Buena
+	 ||--+ 33742 +--||  --- 2.6819999218 seconds --- 
+WORKING ON: Inside The Sun
+	 ||--+ 33743 +--||  --- 1.5720000267 seconds --- 
+WORKING ON: Ian Friday
+	 ||--+ 33744 +--||  --- 12.7860000134 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33745 +--||  --- 0.617000102997 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33746 +--||  --- 0.563999891281 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33747 +--||  --- 0.588000059128 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33748 +--||  --- 0.585999965668 seconds --- 
+WORKING ON: James Ratcliff
+	 ||--+ 33749 +--||  --- 1.55599999428 seconds --- 
+WORKING ON: The Reunion Project
+	 ||--+ 33750 +--||  --- 1.55200004578 seconds --- 
+WORKING ON: The Disco Kidz
+	 ||--+ 33751 +--||  --- 1.17199993134 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33752 +--||  --- 0.584000110626 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33753 +--||  --- 0.572999954224 seconds --- 
+WORKING ON: MCW
+	 ||--+ 33754 +--||  --- 5.00699996948 seconds --- 
+WORKING ON: VS
+	 ||--+ 33755 +--||  --- 5.76900005341 seconds --- 
+WORKING ON: Twizzler
+	 ||--+ 33756 +--||  --- 1.8639998436 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33757 +--||  --- 0.565999984741 seconds --- 
+WORKING ON: Deriwer
+	 ||--+ 33758 +--||  --- 17.5110001564 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33759 +--||  --- 0.651000022888 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33760 +--||  --- 0.646999835968 seconds --- 
+WORKING ON: iPop
+	 ||--+ 33761 +--||  --- 0.976000070572 seconds --- 
+WORKING ON: Vincent Valler
+	 ||--+ 33762 +--||  --- 21.3680000305 seconds --- 
+WORKING ON: Nik Lorusso
+	 ||--+ 33763 +--||  --- 1.23399996758 seconds --- 
+WORKING ON: Kid Prophet
+	 ||--+ 33764 +--||  --- 1.0039999485 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33765 +--||  --- 0.568000078201 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33766 +--||  --- 0.559000015259 seconds --- 
+WORKING ON: Uncle Abner
+	 ||--+ 33767 +--||  --- 2.02999997139 seconds --- 
+WORKING ON: Sisco
+	 ||--+ 33768 +--||  --- 4.35400009155 seconds --- 
+WORKING ON: Ricardo Ferro
+	 ||--+ 33769 +--||  --- 1.90699982643 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33770 +--||  --- 0.570000171661 seconds --- 
+WORKING ON: Bordo
+	 ||--+ 33771 +--||  --- 7.19799995422 seconds --- 
+WORKING ON: Bufalo
+	 ||--+ 33772 +--||  --- 5.98300004005 seconds --- 
+WORKING ON: D-Deck
+	 ||--+ 33773 +--||  --- 73.0230000019 seconds --- 
+WORKING ON: Astraglide
+	 ||--+ 33774 +--||  --- 142.773000002 seconds --- 
+WORKING ON: Cortney Tidwell
+	 ||--+ 33775 +--||  --- 2.9279999733 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33776 +--||  --- 0.585999965668 seconds --- 
+WORKING ON: Joseph Capriati
+	 ||--+ 33777 +--||  --- 34.1819999218 seconds --- 
+WORKING ON: Pax Royale
+	 ||--+ 33778 +--||  --- 2.04299998283 seconds --- 
+WORKING ON: Anquah
+	 ||--+ 33779 +--||  --- 1.00600004196 seconds --- 
+WORKING ON: Spin Science
+	 ||--+ 33780 +--||  --- 29.6670000553 seconds --- 
+WORKING ON: ROTD
+	 ||--+ 33781 +--||  --- 1.70399999619 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33782 +--||  --- 0.573999881744 seconds --- 
+WORKING ON: The Chosen Few
+	 ||--+ 33783 +--||  --- 6.35500001907 seconds --- 
+WORKING ON: Kingpin Cartel
+	 ||--+ 33784 +--||  --- 3.87400007248 seconds --- 
+WORKING ON: AJI
+	 ||--+ 33785 +--||  --- 1.05900001526 seconds --- 
+WORKING ON: The Revolving Eyes
+	 ||--+ 33786 +--||  --- 1.02499985695 seconds --- 
+WORKING ON: Nimrod
+	 ||--+ 33787 +--||  --- 1.96300005913 seconds --- 
+WORKING ON: Woka
+	 ||--+ 33788 +--||  --- 1.40799999237 seconds --- 
+WORKING ON: Cloudkickers
+	 ||--+ 33789 +--||  --- 1.91400003433 seconds --- 
+WORKING ON: Harper
+	 ||--+ 33790 +--||  --- 1.95499992371 seconds --- 
+WORKING ON: Electric 9
+	 ||--+ 33791 +--||  --- 2.97699999809 seconds --- 
+WORKING ON: Elektrosystema
+	 ||--+ 33792 +--||  --- 1.56100010872 seconds --- 
+WORKING ON: Zero Cash
+	 ||--+ 33793 +--||  --- 23.1549999714 seconds --- 
+WORKING ON: DJ Wask
+	 ||--+ 33794 +--||  --- 12.0360000134 seconds --- 
+WORKING ON: Electrix 4
+	 ||--+ 33795 +--||  --- 1.16100001335 seconds --- 
+WORKING ON: Freakygroove
+	 ||--+ 33796 +--||  --- 1.36800003052 seconds --- 
+WORKING ON: Salinas Dub
+	 ||--+ 33797 +--||  --- 2.76499986649 seconds --- 
+WORKING ON: Da Face
+	 ||--+ 33798 +--||  --- 2.1740000248 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33799 +--||  --- 0.654000043869 seconds --- 
+WORKING ON: Tobe Pecine
+	 ||--+ 33800 +--||  --- 7.67600011826 seconds --- 
+WORKING ON: Ednah Holt
+	 ||--+ 33801 +--||  --- 2.02699995041 seconds --- 
+WORKING ON: NYC Peech Boys
+	 ||--+ 33802 +--||  --- 10.4900000095 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33803 +--||  --- 0.753999948502 seconds --- 
+WORKING ON: Kinky Eye
+	 ||--+ 33804 +--||  --- 1.77100014687 seconds --- 
+WORKING ON: Dave M
+	 ||--+ 33805 +--||  --- 8.45399999619 seconds --- 
+WORKING ON: Soul Switch
+	 ||--+ 33806 +--||  --- 6.66199994087 seconds --- 
+WORKING ON: Michael K
+	 ||--+ 33807 +--||  --- 8.20399999619 seconds --- 
+WORKING ON: Blue Cheese
+	 ||--+ 33808 +--||  --- 2.757999897 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33809 +--||  --- 0.624000072479 seconds --- 
+WORKING ON: Dancelwerk
+	 ||--+ 33810 +--||  --- 7.83500003815 seconds --- 
+WORKING ON: The House Brother
+	 ||--+ 33811 +--||  --- 2.0150001049 seconds --- 
+WORKING ON: L.R.F.
+	 ||--+ 33812 +--||  --- 2.25999999046 seconds --- 
+WORKING ON: Soulstation
+	 ||--+ 33813 +--||  --- 2.15799999237 seconds --- 
+WORKING ON: Floorphilla
+	 ||--+ 33814 +--||  --- 7.44499993324 seconds --- 
+WORKING ON: Capoeira
+	 ||--+ 33815 +--||  --- 1.93899989128 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33816 +--||  --- 0.575999975204 seconds --- 
+WORKING ON: Menina Baiana
+	 ||--+ 33817 +--||  --- 1.85600018501 seconds --- 
+WORKING ON: Danny Francesconi
+	 ||--+ 33818 +--||  --- 1.01600003242 seconds --- 
+WORKING ON: Joi
+	 ||--+ 33819 +--||  --- 5.65499997139 seconds --- 
+WORKING ON: Ivan Mastermix
+	 ||--+ 33820 +--||  --- 5.6819999218 seconds --- 
+WORKING ON: Robert Fisher
+	 ||--+ 33821 +--||  --- 2.19200015068 seconds --- 
+WORKING ON: Una
+	 ||--+ 33822 +--||  --- 25.0829999447 seconds --- 
+WORKING ON: Freak Do Brazil
+	 ||--+ 33823 +--||  --- 8.61500000954 seconds --- 
+WORKING ON: Vladimir Cetkar
+	 ||--+ 33824 +--||  --- 1.78600001335 seconds --- 
+WORKING ON: Re-Touch
+	 ||--+ 33825 +--||  --- 1.09999990463 seconds --- 
+WORKING ON: Lavagance
+	 ||--+ 33826 +--||  --- 2.50300002098 seconds --- 
+WORKING ON: Elvis Perkins
+	 ||--+ 33827 +--||  --- 5.97099995613 seconds --- 
+WORKING ON: West End
+	 ||--+ 33828 +--||  --- 2.91000008583 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33829 +--||  --- 0.631999969482 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33830 +--||  --- 0.611999988556 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33831 +--||  --- 0.565999984741 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33832 +--||  --- 0.625999927521 seconds --- 
+WORKING ON: Kurtis
+	 ||--+ 33833 +--||  --- 2.51400017738 seconds --- 
+WORKING ON: Model
+	 ||--+ 33834 +--||  --- 2.5649998188 seconds --- 
+WORKING ON: Wolf &amp; Cub
+	 ||--+ 33835 +--||  --- 3.08800005913 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33836 +--||  --- 0.617000102997 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33837 +--||  --- 0.572000026703 seconds --- 
+WORKING ON: Brutal Bill Marquez
+	 ||--+ 33838 +--||  --- 2.39100003242 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33839 +--||  --- 0.557999849319 seconds --- 
+WORKING ON: KenDog
+	 ||--+ 33840 +--||  --- 3.96900010109 seconds --- 
+WORKING ON: Q-IC &amp; Friends
+	 ||--+ 33841 +--||  --- 1.14999985695 seconds --- 
+WORKING ON: Chris Staropoli
+	 ||--+ 33842 +--||  --- 37.4700000286 seconds --- 
+WORKING ON: Zack Cure
+	 ||--+ 33843 +--||  --- 1.11400008202 seconds --- 
+WORKING ON: George Rivera
+	 ||--+ 33844 +--||  --- 8.57399988174 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33845 +--||  --- 3.7570002079 seconds --- 
+WORKING ON: United Funk Pilots
+	 ||--+ 33846 +--||  --- 5.09200000763 seconds --- 
+WORKING ON: Vice Tribes
+	 ||--+ 33847 +--||  --- 2.12199997902 seconds --- 
+WORKING ON: Disko
+	 ||--+ 33848 +--||  --- 1.15299987793 seconds --- 
+WORKING ON: The Libra Connection
+	 ||--+ 33849 +--||  --- 1.06299996376 seconds --- 
+WORKING ON: Lucci
+	 ||--+ 33850 +--||  --- 2.3710000515 seconds --- 
+WORKING ON: D-3
+	 ||--+ 33851 +--||  --- 1.15899991989 seconds --- 
+WORKING ON: So Pure
+	 ||--+ 33852 +--||  --- 1.8029999733 seconds --- 
+WORKING ON: Albert Cabrea
+	 ||--+ 33853 +--||  --- 1.14700007439 seconds --- 
+WORKING ON: Pull
+	 ||--+ 33854 +--||  --- 3.20900011063 seconds --- 
+WORKING ON: Hernan Santiago
+	 ||--+ 33855 +--||  --- 3.85800004005 seconds --- 
+WORKING ON: Becca
+	 ||--+ 33856 +--||  --- 17.4869999886 seconds --- 
+WORKING ON: Jung
+	 ||--+ 33857 +--||  --- 3.10799980164 seconds --- 
+WORKING ON: Fetish 69
+	 ||--+ 33858 +--||  --- 3.10300016403 seconds --- 
+WORKING ON: Abundance
+	 ||--+ 33859 +--||  --- 3.92700004578 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33860 +--||  --- 0.601999998093 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33861 +--||  --- 0.611999988556 seconds --- 
+WORKING ON: Bert
+	 ||--+ 33862 +--||  --- 11.635999918 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33863 +--||  --- 0.62700009346 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33864 +--||  --- 0.578999996185 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33865 +--||  --- 0.565999984741 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33866 +--||  --- 0.589999914169 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33867 +--||  --- 0.598999977112 seconds --- 
+WORKING ON: OmenOm
+	 ||--+ 33868 +--||  --- 5.01300001144 seconds --- 
+WORKING ON: Jere
+	 ||--+ 33869 +--||  --- 1.17700004578 seconds --- 
+WORKING ON: DJ Manz
+	 ||--+ 33870 +--||  --- 1.67700004578 seconds --- 
+WORKING ON: Magic P
+	 ||--+ 33871 +--||  --- 0.998999834061 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33872 +--||  --- 0.592000007629 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33873 +--||  --- 0.603000164032 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33874 +--||  --- 0.606999874115 seconds --- 
+WORKING ON: DJ Issac S
+	 ||--+ 33875 +--||  --- 1.26900005341 seconds --- 
+WORKING ON: Tea Party
+	 ||--+ 33876 +--||  --- 1.14700007439 seconds --- 
+WORKING ON: DK
+	 ||--+ 33877 +--||  --- 25.1239998341 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33878 +--||  --- 0.621000051498 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33879 +--||  --- 0.584000110626 seconds --- 
+WORKING ON: Manchildblack
+	 ||--+ 33880 +--||  --- 4.54399991035 seconds --- 
+WORKING ON: Kelly Noland
+	 ||--+ 33881 +--||  --- 3.0039999485 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33882 +--||  --- 0.700000047684 seconds --- 
+WORKING ON: Orquesm
+	 ||--+ 33883 +--||  --- 25.8229999542 seconds --- 
+WORKING ON: Jillian Kiggins
+	 ||--+ 33884 +--||  --- 1.87700009346 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33885 +--||  --- 0.569000005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33886 +--||  --- 0.572999954224 seconds --- 
+WORKING ON: Michael Healey
+	 ||--+ 33887 +--||  --- 1.38199996948 seconds --- 
+WORKING ON: Daniel Dubb
+	 ||--+ 33888 +--||  --- 34.7869999409 seconds --- 
+WORKING ON: Glender
+	 ||--+ 33889 +--||  --- 63.5920000076 seconds --- 
+WORKING ON: NVG
+	 ||--+ 33890 +--||  --- 4.01800012589 seconds --- 
+WORKING ON: Scot Project
+	 ||--+ 33891 +--||  --- 22.6629998684 seconds --- 
+WORKING ON: A&amp;F Project
+	 ||--+ 33892 +--||  --- 1.17000007629 seconds --- 
+WORKING ON: Friends Of Street Parade
+	 ||--+ 33893 +--||  --- 0.973999977112 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33894 +--||  --- 0.600000143051 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33895 +--||  --- 0.641999959946 seconds --- 
+WORKING ON: Didi
+	 ||--+ 33896 +--||  --- 4.59599995613 seconds --- 
+WORKING ON: Falk Derhardt
+	 ||--+ 33897 +--||  --- 1.70799994469 seconds --- 
+WORKING ON: Sole Unity
+	 ||--+ 33898 +--||  --- 2.89400005341 seconds --- 
+WORKING ON: Peter Lindkvist
+	 ||--+ 33899 +--||  --- 1.40000009537 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33900 +--||  --- 0.676999807358 seconds --- 
+WORKING ON: Basic Implant
+	 ||--+ 33901 +--||  --- 14.6540000439 seconds --- 
+WORKING ON: Baruka
+	 ||--+ 33902 +--||  --- 0.979000091553 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33903 +--||  --- 0.5609998703 seconds --- 
+WORKING ON: Lattenheim
+	 ||--+ 33904 +--||  --- 5.66300010681 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33905 +--||  --- 0.701999902725 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33906 +--||  --- 0.582999944687 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33907 +--||  --- 0.592000007629 seconds --- 
+WORKING ON: Zarah Konnor
+	 ||--+ 33908 +--||  --- 3.5 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33909 +--||  --- 0.611999988556 seconds --- 
+WORKING ON: Roman Zawodny
+	 ||--+ 33910 +--||  --- 29.737000227 seconds --- 
+WORKING ON: Tod Livingstone
+	 ||--+ 33911 +--||  --- 3.22799992561 seconds --- 
+WORKING ON: Brian Taaffe
+	 ||--+ 33912 +--||  --- 7.16899991035 seconds --- 
+WORKING ON: Digital Filth
+	 ||--+ 33913 +--||  --- 5.21399998665 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33914 +--||  --- 0.608000040054 seconds --- 
+WORKING ON: Fx
+	 ||--+ 33915 +--||  --- 3.34599995613 seconds --- 
+WORKING ON: Sting-B
+	 ||--+ 33916 +--||  --- 1.61199998856 seconds --- 
+WORKING ON: Bleep
+	 ||--+ 33917 +--||  --- 6.9390001297 seconds --- 
+WORKING ON: Spacer
+	 ||--+ 33918 +--||  --- 2.94000005722 seconds --- 
+WORKING ON: Aural Expansion
+	 ||--+ 33919 +--||  --- 2.56199979782 seconds --- 
+WORKING ON: Phosphorus
+	 ||--+ 33920 +--||  --- 0.960000038147 seconds --- 
+WORKING ON: Circadian Rhythms
+	 ||--+ 33921 +--||  --- 2.86199998856 seconds --- 
+WORKING ON: Q-Moog
+	 ||--+ 33922 +--||  --- 3.51699995995 seconds --- 
+WORKING ON: Tao
+	 ||--+ 33923 +--||  --- 6.37300014496 seconds --- 
+WORKING ON: Auto Repeat
+	 ||--+ 33924 +--||  --- 3.02200007439 seconds --- 
+WORKING ON: Meira Asher
+	 ||--+ 33925 +--||  --- 1.27699995041 seconds --- 
+WORKING ON: Bruce Aisher
+	 ||--+ 33926 +--||  --- 11.253000021 seconds --- 
+WORKING ON: G-Stylz
+	 ||--+ 33927 +--||  --- 1.77199983597 seconds --- 
+WORKING ON: Flamingo
+	 ||--+ 33928 +--||  --- 3.67600011826 seconds --- 
+WORKING ON: XL
+	 ||--+ 33929 +--||  --- 4.96499991417 seconds --- 
+WORKING ON: Skwerl
+	 ||--+ 33930 +--||  --- 6.875 seconds --- 
+WORKING ON: Ron Gelfer
+	 ||--+ 33931 +--||  --- 3.13000011444 seconds --- 
+WORKING ON: Go Home Productions
+	 ||--+ 33932 +--||  --- 1.47599983215 seconds --- 
+WORKING ON: Francis Torres
+	 ||--+ 33933 +--||  --- 2.36199998856 seconds --- 
+WORKING ON: Damero
+	 ||--+ 33934 +--||  --- 2.79600000381 seconds --- 
+WORKING ON: NTA
+	 ||--+ 33935 +--||  --- 1.64100003242 seconds --- 
+WORKING ON: Johan Ilves
+	 ||--+ 33936 +--||  --- 13.6560001373 seconds --- 
+WORKING ON: Robo Noguchi
+	 ||--+ 33937 +--||  --- 1.06799983978 seconds --- 
+WORKING ON: Electric Soulside
+	 ||--+ 33938 +--||  --- 44.6130001545 seconds --- 
+WORKING ON: Fabian Bates
+	 ||--+ 33939 +--||  --- 7.53200006485 seconds --- 
+WORKING ON: Piemont
+	 ||--+ 33940 +--||  --- 89.7300000191 seconds --- 
+WORKING ON: Unity
+	 ||--+ 33941 +--||  --- 8.6139998436 seconds --- 
+WORKING ON: DJ Endow
+	 ||--+ 33942 +--||  --- 1.27300000191 seconds --- 
+WORKING ON: Rick Snel
+	 ||--+ 33943 +--||  --- 5.95500016212 seconds --- 
+WORKING ON: Fiction Machine
+	 ||--+ 33944 +--||  --- 1.01300001144 seconds --- 
+WORKING ON: Djazzy
+	 ||--+ 33945 +--||  --- 7.24199986458 seconds --- 
+WORKING ON: Gavin Stiles
+	 ||--+ 33946 +--||  --- 4.68200016022 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33947 +--||  --- 0.588999986649 seconds --- 
+WORKING ON: Leela James
+	 ||--+ 33948 +--||  --- 0.978999853134 seconds --- 
+WORKING ON: Kelly D
+	 ||--+ 33949 +--||  --- 3.65400004387 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33950 +--||  --- 0.585000038147 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33951 +--||  --- 0.671999931335 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33952 +--||  --- 0.661000013351 seconds --- 
+WORKING ON: Meow
+	 ||--+ 33953 +--||  --- 2.42600011826 seconds --- 
+WORKING ON: 5alad
+	 ||--+ 33954 +--||  --- 3.34099984169 seconds --- 
+WORKING ON: Mike Epic
+	 ||--+ 33955 +--||  --- 2.39499998093 seconds --- 
+WORKING ON: Etruria
+	 ||--+ 33956 +--||  --- 1.14200019836 seconds --- 
+WORKING ON: Akira Kayosa
+	 ||--+ 33957 +--||  --- 38.8059999943 seconds --- 
+WORKING ON: DR3K
+	 ||--+ 33958 +--||  --- 1.80399990082 seconds --- 
+WORKING ON: Alex Bass
+	 ||--+ 33959 +--||  --- 1.12999987602 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33960 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: No Context
+	 ||--+ 33961 +--||  --- 2.53700017929 seconds --- 
+WORKING ON: Hand On Throat
+	 ||--+ 33962 +--||  --- 1.43799996376 seconds --- 
+WORKING ON: Unisex &amp; Jaume
+	 ||--+ 33963 +--||  --- 0.751999855042 seconds --- 
+WORKING ON: DJ I.C.O.N.
+	 ||--+ 33964 +--||  --- 1.11800003052 seconds --- 
+WORKING ON: DJ Ruthless
+	 ||--+ 33965 +--||  --- 2.80500006676 seconds --- 
+WORKING ON: 3 Monkeys On K
+	 ||--+ 33966 +--||  --- 0.84299993515 seconds --- 
+WORKING ON: Mokkas
+	 ||--+ 33967 +--||  --- 0.796000003815 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33968 +--||  --- 0.62700009346 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33969 +--||  --- 0.575999975204 seconds --- 
+WORKING ON: Dark Cat
+	 ||--+ 33970 +--||  --- 7.09299993515 seconds --- 
+WORKING ON: GXR
+	 ||--+ 33971 +--||  --- 4.0150001049 seconds --- 
+WORKING ON: Gramophonedzie
+	 ||--+ 33972 +--||  --- 50.4189999104 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33973 +--||  --- 0.667000055313 seconds --- 
+WORKING ON: Listener
+	 ||--+ 33974 +--||  --- 4.45499992371 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33975 +--||  --- 0.575999975204 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33976 +--||  --- 0.636000156403 seconds --- 
+WORKING ON: Sven Van Hees
+	 ||--+ 33977 +--||  --- 31.2479999065 seconds --- 
+WORKING ON: Ryan Dent
+	 ||--+ 33978 +--||  --- 2.06700015068 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33979 +--||  --- 0.576999902725 seconds --- 
+WORKING ON: Atlantic Tribe
+	 ||--+ 33980 +--||  --- 4.55399990082 seconds --- 
+WORKING ON: Special Collector's Edition
+	 ||--+ 33981 +--||  --- 2.57400012016 seconds --- 
+WORKING ON: Get On &amp; Ride It
+	 ||--+ 33982 +--||  --- 1.20499992371 seconds --- 
+WORKING ON: Andre Afram Asmar
+	 ||--+ 33983 +--||  --- 11.7170000076 seconds --- 
+WORKING ON: Opus
+	 ||--+ 33984 +--||  --- 4.65199995041 seconds --- 
+WORKING ON: Scientific American
+	 ||--+ 33985 +--||  --- 3.31599998474 seconds --- 
+WORKING ON: Tomas Hedberg
+	 ||--+ 33986 +--||  --- 20.9050002098 seconds --- 
+WORKING ON: Lexicon
+	 ||--+ 33987 +--||  --- 7.55899977684 seconds --- 
+WORKING ON: Denard Henry
+	 ||--+ 33988 +--||  --- 3.00100016594 seconds --- 
+WORKING ON: Icon
+	 ||--+ 33989 +--||  --- 16.628000021 seconds --- 
+WORKING ON: V.O.F.
+	 ||--+ 33990 +--||  --- 1.34899997711 seconds --- 
+WORKING ON: Rotorik
+	 ||--+ 33991 +--||  --- 3.73000001907 seconds --- 
+WORKING ON: Tesox
+	 ||--+ 33992 +--||  --- 6.84399986267 seconds --- 
+WORKING ON: Kimoto Lopez
+	 ||--+ 33993 +--||  --- 1.23500013351 seconds --- 
+WORKING ON: C Real
+	 ||--+ 33994 +--||  --- 1.82500004768 seconds --- 
+WORKING ON: Rapture
+	 ||--+ 33995 +--||  --- 6.25699996948 seconds --- 
+WORKING ON: Flim
+	 ||--+ 33996 +--||  --- 17.5389997959 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 33997 +--||  --- 0.946000099182 seconds --- 
+WORKING ON: Stereobrains
+	 ||--+ 33998 +--||  --- 2.71000003815 seconds --- 
+WORKING ON: Profanation
+	 ||--+ 33999 +--||  --- 1.52200007439 seconds --- 
+WORKING ON: Louis La Roche (Superstar Recordings)
+	 ||--+ 34000 +--||  --- 1.20199990273 seconds --- 
+WORKING ON: Ol
+	 ||--+ 34001 +--||  --- 15.3570001125 seconds --- 
+WORKING ON: Das Glow
+	 ||--+ 34002 +--||  --- 9.9509999752 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34003 +--||  --- 0.721999883652 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34004 +--||  --- 0.575000047684 seconds --- 
+WORKING ON: Andrea Martini
+	 ||--+ 34005 +--||  --- 26.7860000134 seconds --- 
+WORKING ON: Marco Grandolfo
+	 ||--+ 34006 +--||  --- 1.49699997902 seconds --- 
+WORKING ON: Audiokinetiks
+	 ||--+ 34007 +--||  --- 4.17700004578 seconds --- 
+WORKING ON: Paul Hartnoll
+	 ||--+ 34008 +--||  --- 3.40400004387 seconds --- 
+WORKING ON: Baxter Baxter
+	 ||--+ 34009 +--||  --- 4.48599982262 seconds --- 
+WORKING ON: Scrap
+	 ||--+ 34010 +--||  --- 5.68099999428 seconds --- 
+WORKING ON: DJ Kuffar
+	 ||--+ 34011 +--||  --- 2.23000001907 seconds --- 
+WORKING ON: Connected
+	 ||--+ 34012 +--||  --- 11.9230000973 seconds --- 
+WORKING ON: Brian Cody
+	 ||--+ 34013 +--||  --- 1.77900004387 seconds --- 
+WORKING ON: Daniele Ravaioli
+	 ||--+ 34014 +--||  --- 63.3099999428 seconds --- 
+WORKING ON: Fannypack
+	 ||--+ 34015 +--||  --- 2.75 seconds --- 
+WORKING ON: M.A.P.
+	 ||--+ 34016 +--||  --- 1.55099987984 seconds --- 
+WORKING ON: Maximillian Skiba
+	 ||--+ 34017 +--||  --- 1.11500000954 seconds --- 
+WORKING ON: Sydney Roy
+	 ||--+ 34018 +--||  --- 6.05800008774 seconds --- 
+WORKING ON: Hairy Diamond
+	 ||--+ 34019 +--||  --- 1.62299990654 seconds --- 
+WORKING ON: Supakings
+	 ||--+ 34020 +--||  --- 1.04200005531 seconds --- 
+WORKING ON: Headcleaner
+	 ||--+ 34021 +--||  --- 0.992000102997 seconds --- 
+WORKING ON: Royal Appointment
+	 ||--+ 34022 +--||  --- 1.11099982262 seconds --- 
+WORKING ON: World Of Apples
+	 ||--+ 34023 +--||  --- 1.40300011635 seconds --- 
+WORKING ON: The Detroit Escalator Co.
+	 ||--+ 34024 +--||  --- 6.01900005341 seconds --- 
+WORKING ON: Earthbound
+	 ||--+ 34025 +--||  --- 1.90499997139 seconds --- 
+WORKING ON: Supadread
+	 ||--+ 34026 +--||  --- 0.986999988556 seconds --- 
+WORKING ON: Chris Count
+	 ||--+ 34027 +--||  --- 51.2490000725 seconds --- 
+WORKING ON: Marc Dirkmann
+	 ||--+ 34028 +--||  --- 1.20899987221 seconds --- 
+WORKING ON: Carl Hanaghan
+	 ||--+ 34029 +--||  --- 36.3090000153 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34030 +--||  --- 0.601999998093 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34031 +--||  --- 0.608999967575 seconds --- 
+WORKING ON: Boss
+	 ||--+ 34032 +--||  --- 19.248000145 seconds --- 
+WORKING ON: Andres Andreas
+	 ||--+ 34033 +--||  --- 1.10899996758 seconds --- 
+WORKING ON: Jouni Alkio
+	 ||--+ 34034 +--||  --- 0.967000007629 seconds --- 
+WORKING ON: Miggs
+	 ||--+ 34035 +--||  --- 1.65100002289 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34036 +--||  --- 0.625 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34037 +--||  --- 0.643999814987 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34038 +--||  --- 0.628000020981 seconds --- 
+WORKING ON: DJ Nastee Nev
+	 ||--+ 34039 +--||  --- 1.13300013542 seconds --- 
+WORKING ON: Muzagene
+	 ||--+ 34040 +--||  --- 1.28299999237 seconds --- 
+WORKING ON: Anders
+	 ||--+ 34041 +--||  --- 22.4909999371 seconds --- 
+WORKING ON: Melani
+	 ||--+ 34042 +--||  --- 2.91199994087 seconds --- 
+WORKING ON: Scott Cooper
+	 ||--+ 34043 +--||  --- 9.08599996567 seconds --- 
+WORKING ON: Holm
+	 ||--+ 34044 +--||  --- 1.48000001907 seconds --- 
+WORKING ON: Andersen
+	 ||--+ 34045 +--||  --- 1.61600017548 seconds --- 
+WORKING ON: Motion Drive
+	 ||--+ 34046 +--||  --- 21.8059999943 seconds --- 
+WORKING ON: Del Mar
+	 ||--+ 34047 +--||  --- 3.02099990845 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34048 +--||  --- 0.654000043869 seconds --- 
+WORKING ON: Marc Flaque
+	 ||--+ 34049 +--||  --- 12.8309998512 seconds --- 
+WORKING ON: Mr. Mau
+	 ||--+ 34050 +--||  --- 6.09700012207 seconds --- 
+WORKING ON: Simon Duffy
+	 ||--+ 34051 +--||  --- 5.63800001144 seconds --- 
+WORKING ON: Low Pressure System
+	 ||--+ 34052 +--||  --- 1.34500002861 seconds --- 
+WORKING ON: Violeta
+	 ||--+ 34053 +--||  --- 3.87199997902 seconds --- 
+WORKING ON: Dirty Tapes
+	 ||--+ 34054 +--||  --- 1.17100000381 seconds --- 
+WORKING ON: Superbuddah
+	 ||--+ 34055 +--||  --- 0.989000082016 seconds --- 
+WORKING ON: The Alpine
+	 ||--+ 34056 +--||  --- 1.02399992943 seconds --- 
+WORKING ON: Erasure
+	 ||--+ 34057 +--||  --- 32.0320000648 seconds --- 
+WORKING ON: Dave Leatherman
+	 ||--+ 34058 +--||  --- 10.8259999752 seconds --- 
+WORKING ON: Andrew Chibale
+	 ||--+ 34059 +--||  --- 48.3120000362 seconds --- 
+WORKING ON: Leon Du Star
+	 ||--+ 34060 +--||  --- 6.34399986267 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34061 +--||  --- 0.685000181198 seconds --- 
+WORKING ON: Fumix
+	 ||--+ 34062 +--||  --- 1.41499996185 seconds --- 
+WORKING ON: Maxime Dangles
+	 ||--+ 34063 +--||  --- 47.4519999027 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34064 +--||  --- 0.684000015259 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34065 +--||  --- 0.661000013351 seconds --- 
+WORKING ON: Teo Moss
+	 ||--+ 34066 +--||  --- 88.2990000248 seconds --- 
+WORKING ON: Szade
+	 ||--+ 34067 +--||  --- 1.69000005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34068 +--||  --- 0.731999874115 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34069 +--||  --- 0.669000148773 seconds --- 
+WORKING ON: Cosmo Vitelli
+	 ||--+ 34070 +--||  --- 14.9649999142 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34071 +--||  --- 0.701999902725 seconds --- 
+WORKING ON: Stan
+	 ||--+ 34072 +--||  --- 11.9420001507 seconds --- 
+WORKING ON: Oris Jay
+	 ||--+ 34073 +--||  --- 9.02399992943 seconds --- 
+WORKING ON: Cuban Sluts
+	 ||--+ 34074 +--||  --- 2.34200000763 seconds --- 
+WORKING ON: Mange Le Funk
+	 ||--+ 34075 +--||  --- 5.08000016212 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34076 +--||  --- 0.760999917984 seconds --- 
+WORKING ON: BOTOX
+	 ||--+ 34077 +--||  --- 1.7009999752 seconds --- 
+WORKING ON: Special Units
+	 ||--+ 34078 +--||  --- 1.51999998093 seconds --- 
+WORKING ON: Audionova
+	 ||--+ 34079 +--||  --- 6.50200009346 seconds --- 
+WORKING ON: Isaac James
+	 ||--+ 34080 +--||  --- 3.1859998703 seconds --- 
+WORKING ON: Demolition Man
+	 ||--+ 34081 +--||  --- 6.18300008774 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34082 +--||  --- 0.732000112534 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34083 +--||  --- 0.660999774933 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34084 +--||  --- 0.682000160217 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34085 +--||  --- 0.690999984741 seconds --- 
+WORKING ON: Andre Dalcan
+	 ||--+ 34086 +--||  --- 1.49900007248 seconds --- 
+WORKING ON: Rebuilt
+	 ||--+ 34087 +--||  --- 1.31599998474 seconds --- 
+WORKING ON: Clan Greco
+	 ||--+ 34088 +--||  --- 20.9110000134 seconds --- 
+WORKING ON: Stockholm Cyclo
+	 ||--+ 34089 +--||  --- 11.0469999313 seconds --- 
+WORKING ON: Punx
+	 ||--+ 34090 +--||  --- 4.20199990273 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34091 +--||  --- 0.703000068665 seconds --- 
+WORKING ON: Backside 5/0
+	 ||--+ 34092 +--||  --- 1.01699995995 seconds --- 
+WORKING ON: Frank Tomiczek
+	 ||--+ 34093 +--||  --- 2.38800001144 seconds --- 
+WORKING ON: Gastek
+	 ||--+ 34094 +--||  --- 21.1010000706 seconds --- 
+WORKING ON: Infomatix
+	 ||--+ 34095 +--||  --- 1.81500005722 seconds --- 
+WORKING ON: Genlog
+	 ||--+ 34096 +--||  --- 4.5 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34097 +--||  --- 0.668999910355 seconds --- 
+WORKING ON: Raul Mezcolanza
+	 ||--+ 34098 +--||  --- 112.894000053 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34099 +--||  --- 0.697000026703 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34100 +--||  --- 0.704999923706 seconds --- 
+WORKING ON: Marcus Layton
+	 ||--+ 34101 +--||  --- 4.48399996758 seconds --- 
+WORKING ON: Civil Engine
+	 ||--+ 34102 +--||  --- 1.27200007439 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34103 +--||  --- 0.639999866486 seconds --- 
+WORKING ON: Cumulus
+	 ||--+ 34104 +--||  --- 2.29400014877 seconds --- 
+WORKING ON: Gianluca Ghezzi
+	 ||--+ 34105 +--||  --- 2.31900000572 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34106 +--||  --- 0.62099981308 seconds --- 
+WORKING ON: Laurine Frost
+	 ||--+ 34107 +--||  --- 8.37300014496 seconds --- 
+WORKING ON: Holger Brauns
+	 ||--+ 34108 +--||  --- 32.2990000248 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34109 +--||  --- 0.692999839783 seconds --- 
+WORKING ON: Arne Weinberg
+	 ||--+ 34110 +--||  --- 10.0950000286 seconds --- 
+WORKING ON: Andrey Burtaev
+	 ||--+ 34111 +--||  --- 5.63800001144 seconds --- 
+WORKING ON: The Klubbheads
+	 ||--+ 34112 +--||  --- 1.6890001297 seconds --- 
+WORKING ON: Villain Accelerate
+	 ||--+ 34113 +--||  --- 4.25999999046 seconds --- 
+WORKING ON: Nibor
+	 ||--+ 34114 +--||  --- 2.60899996758 seconds --- 
+WORKING ON: Neutrino
+	 ||--+ 34115 +--||  --- 7.21899986267 seconds --- 
+WORKING ON: Jens Zimmermann
+	 ||--+ 34116 +--||  --- 14.6450002193 seconds --- 
+WORKING ON: Octavius
+	 ||--+ 34117 +--||  --- 4.1179997921 seconds --- 
+WORKING ON: Moba Sound
+	 ||--+ 34118 +--||  --- 15.131000042 seconds --- 
+WORKING ON: Nea Posey
+	 ||--+ 34119 +--||  --- 1.78500008583 seconds --- 
+WORKING ON: Antimc
+	 ||--+ 34120 +--||  --- 4.85699987411 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34121 +--||  --- 0.651000022888 seconds --- 
+WORKING ON: Faz Philly
+	 ||--+ 34122 +--||  --- 1.10300016403 seconds --- 
+WORKING ON: Thavius Beck
+	 ||--+ 34123 +--||  --- 18.0789999962 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34124 +--||  --- 0.682999849319 seconds --- 
+WORKING ON: Clue To Kalo
+	 ||--+ 34125 +--||  --- 1.44900012016 seconds --- 
+WORKING ON: Boy Wunder
+	 ||--+ 34126 +--||  --- 1.14100003242 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34127 +--||  --- 0.661999940872 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34128 +--||  --- 0.641999959946 seconds --- 
+WORKING ON: Merengue
+	 ||--+ 34129 +--||  --- 1.45799994469 seconds --- 
+WORKING ON: La Factoria
+	 ||--+ 34130 +--||  --- 1.2610001564 seconds --- 
+WORKING ON: Larock
+	 ||--+ 34131 +--||  --- 1.00899982452 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34132 +--||  --- 0.65700006485 seconds --- 
+WORKING ON: Franco Martenelli
+	 ||--+ 34133 +--||  --- 1.13199996948 seconds --- 
+WORKING ON: Ying Yang
+	 ||--+ 34134 +--||  --- 1.33700013161 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34135 +--||  --- 0.629999876022 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34136 +--||  --- 0.631999969482 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34137 +--||  --- 0.649999856949 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34138 +--||  --- 0.680999994278 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34139 +--||  --- 0.648999929428 seconds --- 
+WORKING ON: D.C.
+	 ||--+ 34140 +--||  --- 1.57800006866 seconds --- 
+WORKING ON: Trace
+	 ||--+ 34141 +--||  --- 5.73699998856 seconds --- 
+WORKING ON: Sleeper
+	 ||--+ 34142 +--||  --- 17.0910000801 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34143 +--||  --- 0.677999973297 seconds --- 
+WORKING ON: Dose One
+	 ||--+ 34144 +--||  --- 1.18700003624 seconds --- 
+WORKING ON: Yann Kriss
+	 ||--+ 34145 +--||  --- 4.82800006866 seconds --- 
+WORKING ON: Curse Ov Dialect
+	 ||--+ 34146 +--||  --- 9.04199981689 seconds --- 
+WORKING ON: Treasure Room
+	 ||--+ 34147 +--||  --- 4.51999998093 seconds --- 
+WORKING ON: Iago De La Vega
+	 ||--+ 34148 +--||  --- 8.13499999046 seconds --- 
+WORKING ON: Hug
+	 ||--+ 34149 +--||  --- 8.1970000267 seconds --- 
+WORKING ON: Jay Men
+	 ||--+ 34150 +--||  --- 1.26300001144 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34151 +--||  --- 0.649000167847 seconds --- 
+WORKING ON: R.A.F.
+	 ||--+ 34152 +--||  --- 4.85399985313 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34153 +--||  --- 0.758000135422 seconds --- 
+WORKING ON: Fargetta
+	 ||--+ 34154 +--||  --- 8.3599998951 seconds --- 
+WORKING ON: Motiivi Tuntematon
+	 ||--+ 34155 +--||  --- 1.58800005913 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34156 +--||  --- 0.668999910355 seconds --- 
+WORKING ON: Solid-m
+	 ||--+ 34157 +--||  --- 2.17200016975 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34158 +--||  --- 0.677999973297 seconds --- 
+WORKING ON: Steve Nocerino
+	 ||--+ 34159 +--||  --- 16.6559998989 seconds --- 
+WORKING ON: Rula
+	 ||--+ 34160 +--||  --- 1.1970000267 seconds --- 
+WORKING ON: RSL
+	 ||--+ 34161 +--||  --- 1.78799986839 seconds --- 
+WORKING ON: Manuel Sofia
+	 ||--+ 34162 +--||  --- 6.23000001907 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34163 +--||  --- 0.700000047684 seconds --- 
+WORKING ON: The Base Boys
+	 ||--+ 34164 +--||  --- 4.35100007057 seconds --- 
+WORKING ON: Sech Proj.
+	 ||--+ 34165 +--||  --- 1.70000004768 seconds --- 
+WORKING ON: Vinylovers
+	 ||--+ 34166 +--||  --- 2.35699987411 seconds --- 
+WORKING ON: Spielberg
+	 ||--+ 34167 +--||  --- 0.809000015259 seconds --- 
+WORKING ON: Johnny Future
+	 ||--+ 34168 +--||  --- 1.4880001545 seconds --- 
+WORKING ON: Joachim J.
+	 ||--+ 34169 +--||  --- 9.32299995422 seconds --- 
+WORKING ON: And-E
+	 ||--+ 34170 +--||  --- 5.15799999237 seconds --- 
+WORKING ON: Pennington
+	 ||--+ 34171 +--||  --- 3.75899982452 seconds --- 
+WORKING ON: Gow
+	 ||--+ 34172 +--||  --- 8.97400021553 seconds --- 
+WORKING ON: DJ Massimo Pepe
+	 ||--+ 34173 +--||  --- 1.92199993134 seconds --- 
+WORKING ON: Lucas Romagnuolo
+	 ||--+ 34174 +--||  --- 2.22099995613 seconds --- 
+WORKING ON: Tiffany
+	 ||--+ 34175 +--||  --- 12.2980000973 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34176 +--||  --- 0.691999912262 seconds --- 
+WORKING ON: Yilmaz Altanhan
+	 ||--+ 34177 +--||  --- 2.22200012207 seconds --- 
+WORKING ON: Jewish Monkeys
+	 ||--+ 34178 +--||  --- 0.889999866486 seconds --- 
+WORKING ON: Boris Alexander
+	 ||--+ 34179 +--||  --- 11.9189999104 seconds --- 
+WORKING ON: Labtekwon
+	 ||--+ 34180 +--||  --- 1.04700016975 seconds --- 
+WORKING ON: Funkellers
+	 ||--+ 34181 +--||  --- 13.3399999142 seconds --- 
+WORKING ON: Mystic Chords Of Memory
+	 ||--+ 34182 +--||  --- 1.13800001144 seconds --- 
+WORKING ON: Vincent Floyd
+	 ||--+ 34183 +--||  --- 5.38599991798 seconds --- 
+WORKING ON: Sergio Del Rio
+	 ||--+ 34184 +--||  --- 3.89100003242 seconds --- 
+WORKING ON: Mark C
+	 ||--+ 34185 +--||  --- 9.16900014877 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34186 +--||  --- 0.662999868393 seconds --- 
+WORKING ON: Una Slim
+	 ||--+ 34187 +--||  --- 2.01900005341 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34188 +--||  --- 0.802999973297 seconds --- 
+WORKING ON: Phil T. Project
+	 ||--+ 34189 +--||  --- 1.26800012589 seconds --- 
+WORKING ON: Twin Pitch
+	 ||--+ 34190 +--||  --- 3.21199989319 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34191 +--||  --- 0.618999958038 seconds --- 
+WORKING ON: Pete Voyager
+	 ||--+ 34192 +--||  --- 1.57700014114 seconds --- 
+WORKING ON: DJ Threejay
+	 ||--+ 34193 +--||  --- 7.15799999237 seconds --- 
+WORKING ON: Jero
+	 ||--+ 34194 +--||  --- 1.74000000954 seconds --- 
+WORKING ON: Cisco F.
+	 ||--+ 34195 +--||  --- 1.13399982452 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34196 +--||  --- 0.669000148773 seconds --- 
+WORKING ON: Abigail Bailey
+	 ||--+ 34197 +--||  --- 54.0429999828 seconds --- 
+WORKING ON: Amador &amp; Carrillo
+	 ||--+ 34198 +--||  --- 1.09399986267 seconds --- 
+WORKING ON: Kenneth Rossetti
+	 ||--+ 34199 +--||  --- 1.92300009727 seconds --- 
+WORKING ON: Don Bosco
+	 ||--+ 34200 +--||  --- 1.70000004768 seconds --- 
+WORKING ON: Luca Cucchetti
+	 ||--+ 34201 +--||  --- 5.18499994278 seconds --- 
+WORKING ON: Generation3
+	 ||--+ 34202 +--||  --- 1.76799988747 seconds --- 
+WORKING ON: Rivaz Barbie
+	 ||--+ 34203 +--||  --- 1.29300022125 seconds --- 
+WORKING ON: Mowo
+	 ||--+ 34204 +--||  --- 6.23199987411 seconds --- 
+WORKING ON: KC Jackson
+	 ||--+ 34205 +--||  --- 2.18300008774 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34206 +--||  --- 0.65499997139 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34207 +--||  --- 0.637000083923 seconds --- 
+WORKING ON: Makina
+	 ||--+ 34208 +--||  --- 8.5649998188 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34209 +--||  --- 0.681000232697 seconds --- 
+WORKING ON: KK-The-I???
+	 ||--+ 34210 +--||  --- 1.50699996948 seconds --- 
+WORKING ON: A Commercial Hippy
+	 ||--+ 34211 +--||  --- 1.04499983788 seconds --- 
+WORKING ON: Lymbyc Systym
+	 ||--+ 34212 +--||  --- 1.15400004387 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34213 +--||  --- 0.643000125885 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34214 +--||  --- 0.643999814987 seconds --- 
+WORKING ON: Gonzoe
+	 ||--+ 34215 +--||  --- 3.84200000763 seconds --- 
+WORKING ON: Husalh
+	 ||--+ 34216 +--||  --- 1.01999998093 seconds --- 
+WORKING ON: Fed-X
+	 ||--+ 34217 +--||  --- 1.68600010872 seconds --- 
+WORKING ON: Lil Cyco
+	 ||--+ 34218 +--||  --- 1.06999993324 seconds --- 
+WORKING ON: Doc Holliday
+	 ||--+ 34219 +--||  --- 1.16900014877 seconds --- 
+WORKING ON: Young Gasz
+	 ||--+ 34220 +--||  --- 1.49399995804 seconds --- 
+WORKING ON: Assassin
+	 ||--+ 34221 +--||  --- 26.756000042 seconds --- 
+WORKING ON: Southwest Committee
+	 ||--+ 34222 +--||  --- 1.02900004387 seconds --- 
+WORKING ON: Hex
+	 ||--+ 34223 +--||  --- 10.6870000362 seconds --- 
+WORKING ON: Playa 2 Tone
+	 ||--+ 34224 +--||  --- 1.14299988747 seconds --- 
+WORKING ON: Squeeze
+	 ||--+ 34225 +--||  --- 3.2460000515 seconds --- 
+WORKING ON: South Central Cartel
+	 ||--+ 34226 +--||  --- 1.3259999752 seconds --- 
+WORKING ON: DJ Mars
+	 ||--+ 34227 +--||  --- 2.86999988556 seconds --- 
+WORKING ON: Big Charlie Baxter
+	 ||--+ 34228 +--||  --- 1.31900000572 seconds --- 
+WORKING ON: K.A.H.
+	 ||--+ 34229 +--||  --- 1.03500008583 seconds --- 
+WORKING ON: Danita Coleman
+	 ||--+ 34230 +--||  --- 1.00300002098 seconds --- 
+WORKING ON: SD
+	 ||--+ 34231 +--||  --- 17.5499999523 seconds --- 
+WORKING ON: FNP
+	 ||--+ 34232 +--||  --- 2.65600013733 seconds --- 
+WORKING ON: DJ Noronha
+	 ||--+ 34233 +--||  --- 1.22699999809 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34234 +--||  --- 0.659999847412 seconds --- 
+WORKING ON: DJ Mack
+	 ||--+ 34235 +--||  --- 2.15100002289 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34236 +--||  --- 0.651000022888 seconds --- 
+WORKING ON: Lika
+	 ||--+ 34237 +--||  --- 2.93799996376 seconds --- 
+WORKING ON: Claudio Ferreira
+	 ||--+ 34238 +--||  --- 1.0640001297 seconds --- 
+WORKING ON: The Psalmist
+	 ||--+ 34239 +--||  --- 1.10099983215 seconds --- 
+WORKING ON: Triple-D
+	 ||--+ 34240 +--||  --- 1.57800006866 seconds --- 
+WORKING ON: Ikronix
+	 ||--+ 34241 +--||  --- 1.41199994087 seconds --- 
+WORKING ON: Deep Effect
+	 ||--+ 34242 +--||  --- 1.0680000782 seconds --- 
+WORKING ON: Matius
+	 ||--+ 34243 +--||  --- 2.10899996758 seconds --- 
+WORKING ON: Analysis
+	 ||--+ 34244 +--||  --- 2.30500006676 seconds --- 
+WORKING ON: Out Of This World
+	 ||--+ 34245 +--||  --- 1.15599989891 seconds --- 
+WORKING ON: Henk X
+	 ||--+ 34246 +--||  --- 1.08800005913 seconds --- 
+WORKING ON: Infinite-ID
+	 ||--+ 34247 +--||  --- 1.16799998283 seconds --- 
+WORKING ON: Keith Babinec
+	 ||--+ 34248 +--||  --- 1.75300002098 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34249 +--||  --- 0.628000020981 seconds --- 
+WORKING ON: Ashrock
+	 ||--+ 34250 +--||  --- 2.16599988937 seconds --- 
+WORKING ON: Taste &amp; Touch
+	 ||--+ 34251 +--||  --- 1.12800002098 seconds --- 
+WORKING ON: Solo
+	 ||--+ 34252 +--||  --- 21.9910001755 seconds --- 
+WORKING ON: Blake Reary
+	 ||--+ 34253 +--||  --- 5.96499991417 seconds --- 
+WORKING ON: Macam
+	 ||--+ 34254 +--||  --- 1.74000000954 seconds --- 
+WORKING ON: Force Of Habbit
+	 ||--+ 34255 +--||  --- 1.07800006866 seconds --- 
+WORKING ON: Prizim
+	 ||--+ 34256 +--||  --- 1.02300000191 seconds --- 
+WORKING ON: Rob Real
+	 ||--+ 34257 +--||  --- 6.52899980545 seconds --- 
+WORKING ON: Martin Kamaro
+	 ||--+ 34258 +--||  --- 1.76300001144 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34259 +--||  --- 0.900000095367 seconds --- 
+WORKING ON: Kentphonik
+	 ||--+ 34260 +--||  --- 3.54800009727 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34261 +--||  --- 0.774999856949 seconds --- 
+WORKING ON: Mattias Engvall
+	 ||--+ 34262 +--||  --- 3.27500009537 seconds --- 
+WORKING ON: Diabla Diezco
+	 ||--+ 34263 +--||  --- 2.15599989891 seconds --- 
+WORKING ON: Riotbot
+	 ||--+ 34264 +--||  --- 12.1410000324 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34265 +--||  --- 0.809000015259 seconds --- 
+WORKING ON: Parker Jones
+	 ||--+ 34266 +--||  --- 1.22600007057 seconds --- 
+WORKING ON: Junior &amp; Dee
+	 ||--+ 34267 +--||  --- 2.54600000381 seconds --- 
+WORKING ON: Junior
+	 ||--+ 34268 +--||  --- 25.3139998913 seconds --- 
+WORKING ON: SNO
+	 ||--+ 34269 +--||  --- 8.76800012589 seconds --- 
+WORKING ON: Dee
+	 ||--+ 34270 +--||  --- 20.9779999256 seconds --- 
+WORKING ON: Dereka
+	 ||--+ 34271 +--||  --- 1.24000000954 seconds --- 
+WORKING ON: Clue Kid
+	 ||--+ 34272 +--||  --- 1.27600002289 seconds --- 
+WORKING ON: The Admirals
+	 ||--+ 34273 +--||  --- 6.5490000248 seconds --- 
+WORKING ON: Skream
+	 ||--+ 34274 +--||  --- 49.3129999638 seconds --- 
+WORKING ON: DQ1
+	 ||--+ 34275 +--||  --- 2.05099987984 seconds --- 
+WORKING ON: Mark One
+	 ||--+ 34276 +--||  --- 12.1210000515 seconds --- 
+WORKING ON: Digital Mystikz
+	 ||--+ 34277 +--||  --- 5.04100012779 seconds --- 
+WORKING ON: Loefah
+	 ||--+ 34278 +--||  --- 5.37699985504 seconds --- 
+WORKING ON: Hijack
+	 ||--+ 34279 +--||  --- 21.3519999981 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34280 +--||  --- 0.703999996185 seconds --- 
+WORKING ON: P Dutty
+	 ||--+ 34281 +--||  --- 1.52399992943 seconds --- 
+WORKING ON: Random Trio
+	 ||--+ 34282 +--||  --- 5.30300021172 seconds --- 
+WORKING ON: Frequliser
+	 ||--+ 34283 +--||  --- 1.2009999752 seconds --- 
+WORKING ON: Plastic Vibe
+	 ||--+ 34284 +--||  --- 6.07500004768 seconds --- 
+WORKING ON: Mklome
+	 ||--+ 34285 +--||  --- 1.09699988365 seconds --- 
+WORKING ON: Khristain
+	 ||--+ 34286 +--||  --- 1.06200003624 seconds --- 
+WORKING ON: Fortu
+	 ||--+ 34287 +--||  --- 1.69799995422 seconds --- 
+WORKING ON: Krueger
+	 ||--+ 34288 +--||  --- 11.6559998989 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34289 +--||  --- 0.774000167847 seconds --- 
+WORKING ON: Harper &amp; Green
+	 ||--+ 34290 +--||  --- 6.79799985886 seconds --- 
+WORKING ON: Sangeet
+	 ||--+ 34291 +--||  --- 9.49800014496 seconds --- 
+WORKING ON: Sirgardino
+	 ||--+ 34292 +--||  --- 15.6879999638 seconds --- 
+WORKING ON: Rufuss
+	 ||--+ 34293 +--||  --- 8.05800008774 seconds --- 
+WORKING ON: Danny Garcia
+	 ||--+ 34294 +--||  --- 2.35499978065 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34295 +--||  --- 0.626000165939 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34296 +--||  --- 0.646999835968 seconds --- 
+WORKING ON: Heerhorst
+	 ||--+ 34297 +--||  --- 12.2970001698 seconds --- 
+WORKING ON: Meissner
+	 ||--+ 34298 +--||  --- 3.44599986076 seconds --- 
+WORKING ON: Soulcast
+	 ||--+ 34299 +--||  --- 12.0640001297 seconds --- 
+WORKING ON: IVF
+	 ||--+ 34300 +--||  --- 1.49399995804 seconds --- 
+WORKING ON: China Ro
+	 ||--+ 34301 +--||  --- 2.82100009918 seconds --- 
+WORKING ON: Black Phuture
+	 ||--+ 34302 +--||  --- 1.47699999809 seconds --- 
+WORKING ON: Soul Conspiracy
+	 ||--+ 34303 +--||  --- 13.4489998817 seconds --- 
+WORKING ON: Selco
+	 ||--+ 34304 +--||  --- 1.14199995995 seconds --- 
+WORKING ON: Rocco Caine
+	 ||--+ 34305 +--||  --- 21.8380000591 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34306 +--||  --- 0.670000076294 seconds --- 
+WORKING ON: Affective
+	 ||--+ 34307 +--||  --- 22.2860000134 seconds --- 
+WORKING ON: Sven Oliver
+	 ||--+ 34308 +--||  --- 2.6139998436 seconds --- 
+WORKING ON: DJ Pain 1
+	 ||--+ 34309 +--||  --- 4.21900010109 seconds --- 
+WORKING ON: Adam The Tree
+	 ||--+ 34310 +--||  --- 6.55599999428 seconds --- 
+WORKING ON: Sykes
+	 ||--+ 34311 +--||  --- 7.04600000381 seconds --- 
+WORKING ON: De Cleir
+	 ||--+ 34312 +--||  --- 1.78699994087 seconds --- 
+WORKING ON: The Jet Set
+	 ||--+ 34313 +--||  --- 1.29699993134 seconds --- 
+WORKING ON: DJ Freewind
+	 ||--+ 34314 +--||  --- 5.1970000267 seconds --- 
+WORKING ON: Urban Disidents
+	 ||--+ 34315 +--||  --- 2.75500011444 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34316 +--||  --- 0.674999952316 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34317 +--||  --- 0.641999959946 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34318 +--||  --- 0.667000055313 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34319 +--||  --- 0.684000015259 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34320 +--||  --- 0.635999917984 seconds --- 
+WORKING ON: Literon
+	 ||--+ 34321 +--||  --- 9.375 seconds --- 
+WORKING ON: DJ Hanz
+	 ||--+ 34322 +--||  --- 2.85700011253 seconds --- 
+WORKING ON: Peshek
+	 ||--+ 34323 +--||  --- 1.16400003433 seconds --- 
+WORKING ON: Akin
+	 ||--+ 34324 +--||  --- 7.70399999619 seconds --- 
+WORKING ON: Blakk Earth
+	 ||--+ 34325 +--||  --- 1.59499979019 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34326 +--||  --- 0.619000196457 seconds --- 
+WORKING ON: Sensurreal
+	 ||--+ 34327 +--||  --- 1.53600001335 seconds --- 
+WORKING ON: Bee Seven
+	 ||--+ 34328 +--||  --- 1.14699983597 seconds --- 
+WORKING ON: The Dark Raver
+	 ||--+ 34329 +--||  --- 2.21000003815 seconds --- 
+WORKING ON: Groove Bedroom
+	 ||--+ 34330 +--||  --- 1.16300010681 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34331 +--||  --- 0.657999992371 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34332 +--||  --- 0.639999866486 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34333 +--||  --- 0.643000125885 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34334 +--||  --- 0.631000041962 seconds --- 
+WORKING ON: Buzz Fuzz
+	 ||--+ 34335 +--||  --- 4.22599983215 seconds --- 
+WORKING ON: Bass D
+	 ||--+ 34336 +--||  --- 1.87400007248 seconds --- 
+WORKING ON: King Matthew
+	 ||--+ 34337 +--||  --- 2.64499998093 seconds --- 
+WORKING ON: Voiceprint
+	 ||--+ 34338 +--||  --- 2.99900007248 seconds --- 
+WORKING ON: Monoman
+	 ||--+ 34339 +--||  --- 34.2170000076 seconds --- 
+WORKING ON: Square Dimensione
+	 ||--+ 34340 +--||  --- 2.50999999046 seconds --- 
+WORKING ON: The Director
+	 ||--+ 34341 +--||  --- 1.19899988174 seconds --- 
+WORKING ON: Trox
+	 ||--+ 34342 +--||  --- 16.7710001469 seconds --- 
+WORKING ON: Owen
+	 ||--+ 34343 +--||  --- 4.97899985313 seconds --- 
+WORKING ON: Kynt
+	 ||--+ 34344 +--||  --- 12.4600000381 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34345 +--||  --- 0.696000099182 seconds --- 
+WORKING ON: Nikos Toscani
+	 ||--+ 34346 +--||  --- 18.6919999123 seconds --- 
+WORKING ON: Lexter
+	 ||--+ 34347 +--||  --- 15.9149999619 seconds --- 
+WORKING ON: Zuell
+	 ||--+ 34348 +--||  --- 5.59299993515 seconds --- 
+WORKING ON: The Verbrilli Sound
+	 ||--+ 34349 +--||  --- 7.92800021172 seconds --- 
+WORKING ON: Globo
+	 ||--+ 34350 +--||  --- 3.132999897 seconds --- 
+WORKING ON: Somnambulist
+	 ||--+ 34351 +--||  --- 4.07100009918 seconds --- 
+WORKING ON: Slab
+	 ||--+ 34352 +--||  --- 1.51499986649 seconds --- 
+WORKING ON: Hart &amp; Cox
+	 ||--+ 34353 +--||  --- 2.31299996376 seconds --- 
+WORKING ON: Transcendental Love Machine
+	 ||--+ 34354 +--||  --- 1.15499997139 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34355 +--||  --- 0.703000068665 seconds --- 
+WORKING ON: Monkey Maffia
+	 ||--+ 34356 +--||  --- 8.367000103 seconds --- 
+WORKING ON: The Big Eye
+	 ||--+ 34357 +--||  --- 1.11299991608 seconds --- 
+WORKING ON: Pilote Burst
+	 ||--+ 34358 +--||  --- 1.05999994278 seconds --- 
+WORKING ON: Girl Eats Boy
+	 ||--+ 34359 +--||  --- 2.74900007248 seconds --- 
+WORKING ON: Blue Frog
+	 ||--+ 34360 +--||  --- 1.26600003242 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34361 +--||  --- 0.68700003624 seconds --- 
+WORKING ON: Visti
+	 ||--+ 34362 +--||  --- 9.07699990273 seconds --- 
+WORKING ON: Meyland
+	 ||--+ 34363 +--||  --- 6.82500004768 seconds --- 
+WORKING ON: Madelin Zero
+	 ||--+ 34364 +--||  --- 10.8220000267 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34365 +--||  --- 0.662999868393 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34366 +--||  --- 0.647000074387 seconds --- 
+WORKING ON: As One
+	 ||--+ 34367 +--||  --- 9.06999993324 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34368 +--||  --- 0.68700003624 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34369 +--||  --- 0.658999919891 seconds --- 
+WORKING ON: DJ Babalu
+	 ||--+ 34370 +--||  --- 5.00500011444 seconds --- 
+WORKING ON: Rheitor
+	 ||--+ 34371 +--||  --- 5.31399989128 seconds --- 
+WORKING ON: Kwamey
+	 ||--+ 34372 +--||  --- 1.25200009346 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34373 +--||  --- 0.631000041962 seconds --- 
+WORKING ON: Perfect Unknown
+	 ||--+ 34374 +--||  --- 2.36800003052 seconds --- 
+WORKING ON: Stade
+	 ||--+ 34375 +--||  --- 5.84399986267 seconds --- 
+WORKING ON: Gawron Paris
+	 ||--+ 34376 +--||  --- 3.33100008965 seconds --- 
+WORKING ON: The Experiment
+	 ||--+ 34377 +--||  --- 2.25600004196 seconds --- 
+WORKING ON: Alternative Reality
+	 ||--+ 34378 +--||  --- 47.2849998474 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34379 +--||  --- 0.69000005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34380 +--||  --- 0.641999959946 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34381 +--||  --- 0.680000066757 seconds --- 
+WORKING ON: Ryan Elliott
+	 ||--+ 34382 +--||  --- 6.77099990845 seconds --- 
+WORKING ON: Metamatics
+	 ||--+ 34383 +--||  --- 16.1880002022 seconds --- 
+WORKING ON: Romeo Engine
+	 ||--+ 34384 +--||  --- 1.14800000191 seconds --- 
+WORKING ON: Master Dam
+	 ||--+ 34385 +--||  --- 8.00499987602 seconds --- 
+WORKING ON: Armin
+	 ||--+ 34386 +--||  --- 5.42000007629 seconds --- 
+WORKING ON: Informatix
+	 ||--+ 34387 +--||  --- 1.25099992752 seconds --- 
+WORKING ON: Grok
+	 ||--+ 34388 +--||  --- 9.57899999619 seconds --- 
+WORKING ON: Ryo Murakami
+	 ||--+ 34389 +--||  --- 11.611000061 seconds --- 
+WORKING ON: Broken Haze
+	 ||--+ 34390 +--||  --- 13.3320000172 seconds --- 
+WORKING ON: Jin Hiyama
+	 ||--+ 34391 +--||  --- 7.25 seconds --- 
+WORKING ON: Funktional DJ's
+	 ||--+ 34392 +--||  --- 1.26499986649 seconds --- 
+WORKING ON: Carl Sagan
+	 ||--+ 34393 +--||  --- 2.58300018311 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34394 +--||  --- 0.646999835968 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34395 +--||  --- 0.637000083923 seconds --- 
+WORKING ON: Makoto Yamaguchi
+	 ||--+ 34396 +--||  --- 4.99900007248 seconds --- 
+WORKING ON: Seri
+	 ||--+ 34397 +--||  --- 25.8709998131 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34398 +--||  --- 0.677000045776 seconds --- 
+WORKING ON: Katsuyuki Taguchi
+	 ||--+ 34399 +--||  --- 2.89300012589 seconds --- 
+WORKING ON: Human Adams
+	 ||--+ 34400 +--||  --- 2.87800002098 seconds --- 
+WORKING ON: Mini Coola
+	 ||--+ 34401 +--||  --- 2.83999991417 seconds --- 
+WORKING ON: Outline
+	 ||--+ 34402 +--||  --- 15.9319999218 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34403 +--||  --- 0.663000106812 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34404 +--||  --- 0.644999980927 seconds --- 
+WORKING ON: Houzecrushers
+	 ||--+ 34405 +--||  --- 0.782999992371 seconds --- 
+WORKING ON: Blake (Cooke &amp; Sneddon)
+	 ||--+ 34406 +--||  --- 1.04699993134 seconds --- 
+WORKING ON: IT IS
+	 ||--+ 34407 +--||  --- 1.05700016022 seconds --- 
+WORKING ON: Lincoln Six Echo
+	 ||--+ 34408 +--||  --- 5.17399978638 seconds --- 
+WORKING ON: Hysterik Pop
+	 ||--+ 34409 +--||  --- 6.63300013542 seconds --- 
+WORKING ON: Simon Flower
+	 ||--+ 34410 +--||  --- 9.72600007057 seconds --- 
+WORKING ON: Kunststoff
+	 ||--+ 34411 +--||  --- 9.31900000572 seconds --- 
+WORKING ON: Bayramo
+	 ||--+ 34412 +--||  --- 4.58599996567 seconds --- 
+WORKING ON: Delete (aka Sergio Munoz)
+	 ||--+ 34413 +--||  --- 21.010999918 seconds --- 
+WORKING ON: Lik Neon
+	 ||--+ 34414 +--||  --- 1.38100004196 seconds --- 
+WORKING ON: Nozzle
+	 ||--+ 34415 +--||  --- 1.33399987221 seconds --- 
+WORKING ON: Primavera
+	 ||--+ 34416 +--||  --- 1.14900016785 seconds --- 
+WORKING ON: Brazillica Girls
+	 ||--+ 34417 +--||  --- 1.23199987411 seconds --- 
+WORKING ON: 1 Of 100
+	 ||--+ 34418 +--||  --- 1.26699995995 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34419 +--||  --- 0.673000097275 seconds --- 
+WORKING ON: Chic Flowerz
+	 ||--+ 34420 +--||  --- 22.0590000153 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34421 +--||  --- 0.674999952316 seconds --- 
+WORKING ON: Hotel Saint George
+	 ||--+ 34422 +--||  --- 1.30800008774 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34423 +--||  --- 0.662999868393 seconds --- 
+WORKING ON: Paul Lomax
+	 ||--+ 34424 +--||  --- 9.39700007439 seconds --- 
+WORKING ON: Simon Saunders
+	 ||--+ 34425 +--||  --- 0.871999979019 seconds --- 
+WORKING ON: Ian Ray
+	 ||--+ 34426 +--||  --- 2.86000013351 seconds --- 
+WORKING ON: Pink Flamingos
+	 ||--+ 34427 +--||  --- 2.12399983406 seconds --- 
+WORKING ON: Slice &amp; Case
+	 ||--+ 34428 +--||  --- 1.8900001049 seconds --- 
+WORKING ON: Swen Hutmacher
+	 ||--+ 34429 +--||  --- 6.89699983597 seconds --- 
+WORKING ON: Andrea Maffei
+	 ||--+ 34430 +--||  --- 7.69000005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34431 +--||  --- 0.677000045776 seconds --- 
+WORKING ON: QiK
+	 ||--+ 34432 +--||  --- 10.620000124 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34433 +--||  --- 0.783999919891 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34434 +--||  --- 0.703999996185 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34435 +--||  --- 0.694999933243 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34436 +--||  --- 0.712000131607 seconds --- 
+WORKING ON: Beat Foundation
+	 ||--+ 34437 +--||  --- 1.74199986458 seconds --- 
+WORKING ON: Pillform
+	 ||--+ 34438 +--||  --- 3.04500007629 seconds --- 
+WORKING ON: DJ Hero
+	 ||--+ 34439 +--||  --- 67.9530000687 seconds --- 
+WORKING ON: Paul Freegard
+	 ||--+ 34440 +--||  --- 2.84299993515 seconds --- 
+WORKING ON: Oddtoot
+	 ||--+ 34441 +--||  --- 3.20199990273 seconds --- 
+WORKING ON: Circus Mind
+	 ||--+ 34442 +--||  --- 1.21099996567 seconds --- 
+WORKING ON: Leccy Man
+	 ||--+ 34443 +--||  --- 1.17100000381 seconds --- 
+WORKING ON: David Harrow
+	 ||--+ 34444 +--||  --- 9.88800001144 seconds --- 
+WORKING ON: DJ Pulse
+	 ||--+ 34445 +--||  --- 4.70900011063 seconds --- 
+WORKING ON: Milestone
+	 ||--+ 34446 +--||  --- 1.89999985695 seconds --- 
+WORKING ON: The Lithium Project
+	 ||--+ 34447 +--||  --- 5.97500014305 seconds --- 
+WORKING ON: Harry K
+	 ||--+ 34448 +--||  --- 1.3180000782 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34449 +--||  --- 0.694000005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34450 +--||  --- 0.728999853134 seconds --- 
+WORKING ON: Jonathan Grossman
+	 ||--+ 34451 +--||  --- 7.72699999809 seconds --- 
+WORKING ON: Mart
+	 ||--+ 34452 +--||  --- 53.5970001221 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34453 +--||  --- 0.710000038147 seconds --- 
+WORKING ON: Ian O'Brian
+	 ||--+ 34454 +--||  --- 1.19400000572 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34455 +--||  --- 0.723000049591 seconds --- 
+WORKING ON: Keith Blackstone
+	 ||--+ 34456 +--||  --- 5.5609998703 seconds --- 
+WORKING ON: Sie
+	 ||--+ 34457 +--||  --- 2.90000009537 seconds --- 
+WORKING ON: Subtropic
+	 ||--+ 34458 +--||  --- 4.28499984741 seconds --- 
+WORKING ON: James Hardway
+	 ||--+ 34459 +--||  --- 8.58300018311 seconds --- 
+WORKING ON: Max Brennan
+	 ||--+ 34460 +--||  --- 1.37099981308 seconds --- 
+WORKING ON: Bjorn Elevators
+	 ||--+ 34461 +--||  --- 1.1970000267 seconds --- 
+WORKING ON: Maxime Tanguay
+	 ||--+ 34462 +--||  --- 4.13400006294 seconds --- 
+WORKING ON: DNS Project
+	 ||--+ 34463 +--||  --- 45.0559999943 seconds --- 
+WORKING ON: Wicked Lester
+	 ||--+ 34464 +--||  --- 2.75999999046 seconds --- 
+WORKING ON: One Rascal
+	 ||--+ 34465 +--||  --- 2.21499991417 seconds --- 
+WORKING ON: DJ Pirra
+	 ||--+ 34466 +--||  --- 2.21300005913 seconds --- 
+WORKING ON: Dracul
+	 ||--+ 34467 +--||  --- 2.41700005531 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34468 +--||  --- 0.664000034332 seconds --- 
+WORKING ON: Sunshine Lovers
+	 ||--+ 34469 +--||  --- 1.49699997902 seconds --- 
+WORKING ON: Soulphonic Soundsystem
+	 ||--+ 34470 +--||  --- 1.70300006866 seconds --- 
+WORKING ON: Ignacio Basualdo
+	 ||--+ 34471 +--||  --- 1.17899990082 seconds --- 
+WORKING ON: Telerok
+	 ||--+ 34472 +--||  --- 1.11299991608 seconds --- 
+WORKING ON: Raumton
+	 ||--+ 34473 +--||  --- 12.5510001183 seconds --- 
+WORKING ON: Pilocka Krach
+	 ||--+ 34474 +--||  --- 17.3039999008 seconds --- 
+WORKING ON: Tribalectric
+	 ||--+ 34475 +--||  --- 1.66300010681 seconds --- 
+WORKING ON: Maurizio Gubellini
+	 ||--+ 34476 +--||  --- 59.9830000401 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34477 +--||  --- 0.615000009537 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34478 +--||  --- 0.621999979019 seconds --- 
+WORKING ON: The Ascent
+	 ||--+ 34479 +--||  --- 8.16999983788 seconds --- 
+WORKING ON: Stefan Mallman
+	 ||--+ 34480 +--||  --- 1.95300006866 seconds --- 
+WORKING ON: Sreech
+	 ||--+ 34481 +--||  --- 0.954999923706 seconds --- 
+WORKING ON: Meiler Phonout
+	 ||--+ 34482 +--||  --- 0.930000066757 seconds --- 
+WORKING ON: Xp8
+	 ||--+ 34483 +--||  --- 6.40000009537 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34484 +--||  --- 0.628999948502 seconds --- 
+WORKING ON: T-Ak
+	 ||--+ 34485 +--||  --- 4.06900000572 seconds --- 
+WORKING ON: Ethix
+	 ||--+ 34486 +--||  --- 2.94099998474 seconds --- 
+WORKING ON: Akira
+	 ||--+ 34487 +--||  --- 29.4059998989 seconds --- 
+WORKING ON: Tom Reuber
+	 ||--+ 34488 +--||  --- 2.29800009727 seconds --- 
+WORKING ON: Third Point
+	 ||--+ 34489 +--||  --- 3.32999992371 seconds --- 
+WORKING ON: Acrobite
+	 ||--+ 34490 +--||  --- 1.00200009346 seconds --- 
+WORKING ON: Azure Mind
+	 ||--+ 34491 +--||  --- 2.58299994469 seconds --- 
+WORKING ON: Spunky
+	 ||--+ 34492 +--||  --- 1.5680000782 seconds --- 
+WORKING ON: Swat-Squad
+	 ||--+ 34493 +--||  --- 11.4639999866 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34494 +--||  --- 0.621000051498 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34495 +--||  --- 0.651999950409 seconds --- 
+WORKING ON: Le Garde
+	 ||--+ 34496 +--||  --- 2.03200006485 seconds --- 
+WORKING ON: Dean Newton
+	 ||--+ 34497 +--||  --- 29.0889999866 seconds --- 
+WORKING ON: Warner Powers
+	 ||--+ 34498 +--||  --- 27.1079998016 seconds --- 
+WORKING ON: DJ Alex
+	 ||--+ 34499 +--||  --- 6.87900018692 seconds --- 
+WORKING ON: Myst
+	 ||--+ 34500 +--||  --- 11.8020000458 seconds --- 
+WORKING ON: Ormatie
+	 ||--+ 34501 +--||  --- 6.78999996185 seconds --- 
+WORKING ON: Wannabe DJ's
+	 ||--+ 34502 +--||  --- 2.19499993324 seconds --- 
+WORKING ON: Max Cooper
+	 ||--+ 34503 +--||  --- 55.0169999599 seconds --- 
+WORKING ON: Max Hedroom
+	 ||--+ 34504 +--||  --- 1.05999994278 seconds --- 
+WORKING ON: Plastic Pimps
+	 ||--+ 34505 +--||  --- 1.22200012207 seconds --- 
+WORKING ON: Alpha Dimension
+	 ||--+ 34506 +--||  --- 1.65799999237 seconds --- 
+WORKING ON: Ivan Scratchin
+	 ||--+ 34507 +--||  --- 1.17599987984 seconds --- 
+WORKING ON: Ron Hagen
+	 ||--+ 34508 +--||  --- 11.7210001945 seconds --- 
+WORKING ON: Pascal M
+	 ||--+ 34509 +--||  --- 5.97599983215 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34510 +--||  --- 0.778000116348 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34511 +--||  --- 0.585999965668 seconds --- 
+WORKING ON: Swoon
+	 ||--+ 34512 +--||  --- 2.1289999485 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34513 +--||  --- 0.677000045776 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34514 +--||  --- 0.628999948502 seconds --- 
+WORKING ON: Bjorn K
+	 ||--+ 34515 +--||  --- 1.18600010872 seconds --- 
+WORKING ON: Nakhed
+	 ||--+ 34516 +--||  --- 1.77099990845 seconds --- 
+WORKING ON: Kike Bronchal
+	 ||--+ 34517 +--||  --- 12.3680000305 seconds --- 
+WORKING ON: Kjex
+	 ||--+ 34518 +--||  --- 2.51099991798 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34519 +--||  --- 0.565999984741 seconds --- 
+WORKING ON: DJ Slot
+	 ||--+ 34520 +--||  --- 10.8480000496 seconds --- 
+WORKING ON: StuC4C
+	 ||--+ 34521 +--||  --- 2.69499993324 seconds --- 
+WORKING ON: DJ Akisy
+	 ||--+ 34522 +--||  --- 1.50400018692 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34523 +--||  --- 0.585000038147 seconds --- 
+WORKING ON: Ro Garcia
+	 ||--+ 34524 +--||  --- 10.9209997654 seconds --- 
+WORKING ON: E.G. Daily
+	 ||--+ 34525 +--||  --- 2.33700013161 seconds --- 
+WORKING ON: Kevin Hees
+	 ||--+ 34526 +--||  --- 1.82800006866 seconds --- 
+WORKING ON: La Casa Grande
+	 ||--+ 34527 +--||  --- 2.82999992371 seconds --- 
+WORKING ON: Signal Drivers
+	 ||--+ 34528 +--||  --- 10.0850000381 seconds --- 
+WORKING ON: Ali Damisi
+	 ||--+ 34529 +--||  --- 1.71499991417 seconds --- 
+WORKING ON: Pink Noise
+	 ||--+ 34530 +--||  --- 1.25200009346 seconds --- 
+WORKING ON: Tony Draper
+	 ||--+ 34531 +--||  --- 1.07399988174 seconds --- 
+WORKING ON: Jimmy KLF Cauty
+	 ||--+ 34532 +--||  --- 1.01300001144 seconds --- 
+WORKING ON: Kevin Bryant
+	 ||--+ 34533 +--||  --- 3.1740000248 seconds --- 
+WORKING ON: Dave Carlucci
+	 ||--+ 34534 +--||  --- 1.82400012016 seconds --- 
+WORKING ON: Hardhead
+	 ||--+ 34535 +--||  --- 2.44799995422 seconds --- 
+WORKING ON: Killa Green Budds
+	 ||--+ 34536 +--||  --- 1.33800005913 seconds --- 
+WORKING ON: Afro Cube
+	 ||--+ 34537 +--||  --- 2.14800000191 seconds --- 
+WORKING ON: Circle Children
+	 ||--+ 34538 +--||  --- 3.37199997902 seconds --- 
+WORKING ON: Ndako Gboya
+	 ||--+ 34539 +--||  --- 0.707000017166 seconds --- 
+WORKING ON: 636
+	 ||--+ 34540 +--||  --- 1.63800001144 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34541 +--||  --- 0.569999933243 seconds --- 
+WORKING ON: Doc Baron
+	 ||--+ 34542 +--||  --- 0.727999925613 seconds --- 
+WORKING ON: Beatboxx
+	 ||--+ 34543 +--||  --- 2.55900001526 seconds --- 
+WORKING ON: Smooth Touch
+	 ||--+ 34544 +--||  --- 4.64899992943 seconds --- 
+WORKING ON: Loop 7
+	 ||--+ 34545 +--||  --- 1.70200014114 seconds --- 
+WORKING ON: Experiential
+	 ||--+ 34546 +--||  --- 3.3869998455 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34547 +--||  --- 0.573000192642 seconds --- 
+WORKING ON: Foulds
+	 ||--+ 34548 +--||  --- 1.64399981499 seconds --- 
+WORKING ON: Smaaskjar
+	 ||--+ 34549 +--||  --- 1.38900017738 seconds --- 
+WORKING ON: Verbose
+	 ||--+ 34550 +--||  --- 1.01899981499 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34551 +--||  --- 0.585000038147 seconds --- 
+WORKING ON: Sabi
+	 ||--+ 34552 +--||  --- 5.01300001144 seconds --- 
+WORKING ON: Aeiou
+	 ||--+ 34553 +--||  --- 1.08899998665 seconds --- 
+WORKING ON: Bauri
+	 ||--+ 34554 +--||  --- 3.88400006294 seconds --- 
+WORKING ON: Mati:k
+	 ||--+ 34555 +--||  --- 0.930999994278 seconds --- 
+WORKING ON: Swamay
+	 ||--+ 34556 +--||  --- 1.132999897 seconds --- 
+WORKING ON: Alex Johnson
+	 ||--+ 34557 +--||  --- 0.988000154495 seconds --- 
+WORKING ON: Rabbits
+	 ||--+ 34558 +--||  --- 0.789999961853 seconds --- 
+WORKING ON: Aii
+	 ||--+ 34559 +--||  --- 1.08800005913 seconds --- 
+WORKING ON: Dbit
+	 ||--+ 34560 +--||  --- 1.01300001144 seconds --- 
+WORKING ON: STM
+	 ||--+ 34561 +--||  --- 2.23000001907 seconds --- 
+WORKING ON: Maxim
+	 ||--+ 34562 +--||  --- 12.8509998322 seconds --- 
+WORKING ON: Sarokin &amp; Landau
+	 ||--+ 34563 +--||  --- 0.986000061035 seconds --- 
+WORKING ON: Xavier Morel
+	 ||--+ 34564 +--||  --- 5.95399999619 seconds --- 
+WORKING ON: Mescalitos
+	 ||--+ 34565 +--||  --- 1.18300008774 seconds --- 
+WORKING ON: C-Pij
+	 ||--+ 34566 +--||  --- 1.20399999619 seconds --- 
+WORKING ON: Elevator People
+	 ||--+ 34567 +--||  --- 6.61099982262 seconds --- 
+WORKING ON: Laubs
+	 ||--+ 34568 +--||  --- 0.989000082016 seconds --- 
+WORKING ON: F To The F
+	 ||--+ 34569 +--||  --- 1.75800013542 seconds --- 
+WORKING ON: Danny Kirsch
+	 ||--+ 34570 +--||  --- 2.97199988365 seconds --- 
+WORKING ON: Nacht Plank
+	 ||--+ 34571 +--||  --- 3.51099991798 seconds --- 
+WORKING ON: Greg Davies
+	 ||--+ 34572 +--||  --- 1.10300016403 seconds --- 
+WORKING ON: Purusha
+	 ||--+ 34573 +--||  --- 1.12099981308 seconds --- 
+WORKING ON: Jennifer Carbonell
+	 ||--+ 34574 +--||  --- 7.98699998856 seconds --- 
+WORKING ON: Ooi
+	 ||--+ 34575 +--||  --- 1.27400016785 seconds --- 
+WORKING ON: Sleepy Falcon
+	 ||--+ 34576 +--||  --- 0.976999998093 seconds --- 
+WORKING ON: Alvoa
+	 ||--+ 34577 +--||  --- 1.18799996376 seconds --- 
+WORKING ON: Friedband
+	 ||--+ 34578 +--||  --- 1.04699993134 seconds --- 
+WORKING ON: LGB
+	 ||--+ 34579 +--||  --- 1.12300014496 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34580 +--||  --- 0.559000015259 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34581 +--||  --- 0.569999933243 seconds --- 
+WORKING ON: Sal Parm Basile
+	 ||--+ 34582 +--||  --- 3.06299996376 seconds --- 
+WORKING ON: Christian Gambella
+	 ||--+ 34583 +--||  --- 4.34599995613 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34584 +--||  --- 0.615000009537 seconds --- 
+WORKING ON: 3rd Eye Parametrics
+	 ||--+ 34585 +--||  --- 1.07100009918 seconds --- 
+WORKING ON: Luminaire
+	 ||--+ 34586 +--||  --- 6.44299983978 seconds --- 
+WORKING ON: Semsis
+	 ||--+ 34587 +--||  --- 1.01200008392 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34588 +--||  --- 0.584000110626 seconds --- 
+WORKING ON: DJ Justy
+	 ||--+ 34589 +--||  --- 2.632999897 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34590 +--||  --- 0.65499997139 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34591 +--||  --- 0.606000185013 seconds --- 
+WORKING ON: Annunaki
+	 ||--+ 34592 +--||  --- 6.37699985504 seconds --- 
+WORKING ON: Elektro Kid
+	 ||--+ 34593 +--||  --- 2.29200005531 seconds --- 
+WORKING ON: Sean Dexter
+	 ||--+ 34594 +--||  --- 5.61100006104 seconds --- 
+WORKING ON: Jam X
+	 ||--+ 34595 +--||  --- 2.96000003815 seconds --- 
+WORKING ON: De Leon Dumonde
+	 ||--+ 34596 +--||  --- 1.03199982643 seconds --- 
+WORKING ON: DCML
+	 ||--+ 34597 +--||  --- 1.31700015068 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34598 +--||  --- 0.577999830246 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34599 +--||  --- 0.59900021553 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34600 +--||  --- 0.587999820709 seconds --- 
+WORKING ON: Natlife
+	 ||--+ 34601 +--||  --- 21.5050001144 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34602 +--||  --- 0.651000022888 seconds --- 
+WORKING ON: Amazone
+	 ||--+ 34603 +--||  --- 2.50099992752 seconds --- 
+WORKING ON: DJ Fanis
+	 ||--+ 34604 +--||  --- 3.50099992752 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34605 +--||  --- 0.616000175476 seconds --- 
+WORKING ON: Paris Clubbing
+	 ||--+ 34606 +--||  --- 1.06199979782 seconds --- 
+WORKING ON: Robin Jacobs
+	 ||--+ 34607 +--||  --- 9.55100011826 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34608 +--||  --- 0.621000051498 seconds --- 
+WORKING ON: Nympho
+	 ||--+ 34609 +--||  --- 1.32699990273 seconds --- 
+WORKING ON: Hemstock
+	 ||--+ 34610 +--||  --- 9.09100008011 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34611 +--||  --- 0.648000001907 seconds --- 
+WORKING ON: Creme Fresh
+	 ||--+ 34612 +--||  --- 0.994999885559 seconds --- 
+WORKING ON: Kanagawa
+	 ||--+ 34613 +--||  --- 1.45000004768 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34614 +--||  --- 0.592000007629 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34615 +--||  --- 0.569999933243 seconds --- 
+WORKING ON: Funkhead Fred
+	 ||--+ 34616 +--||  --- 6.40799999237 seconds --- 
+WORKING ON: Matty Wells
+	 ||--+ 34617 +--||  --- 5.62400007248 seconds --- 
+WORKING ON: Tokra Thaan
+	 ||--+ 34618 +--||  --- 2.71000003815 seconds --- 
+WORKING ON: Jerk
+	 ||--+ 34619 +--||  --- 3.54999995232 seconds --- 
+WORKING ON: Vito
+	 ||--+ 34620 +--||  --- 19.6129999161 seconds --- 
+WORKING ON: DJ Electric
+	 ||--+ 34621 +--||  --- 7.77800011635 seconds --- 
+WORKING ON: Fastlem
+	 ||--+ 34622 +--||  --- 1.08399987221 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34623 +--||  --- 0.658000230789 seconds --- 
+WORKING ON: J-Soul
+	 ||--+ 34624 +--||  --- 34.4519999027 seconds --- 
+WORKING ON: Novikov
+	 ||--+ 34625 +--||  --- 1.61199998856 seconds --- 
+WORKING ON: One Shot
+	 ||--+ 34626 +--||  --- 1.96199989319 seconds --- 
+WORKING ON: Playone
+	 ||--+ 34627 +--||  --- 16.4470000267 seconds --- 
+WORKING ON: Proton
+	 ||--+ 34628 +--||  --- 13.0480000973 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34629 +--||  --- 0.626999855042 seconds --- 
+WORKING ON: Clam
+	 ||--+ 34630 +--||  --- 1.6970000267 seconds --- 
+WORKING ON: Phonik
+	 ||--+ 34631 +--||  --- 2.6740000248 seconds --- 
+WORKING ON: Combostar
+	 ||--+ 34632 +--||  --- 4.47800016403 seconds --- 
+WORKING ON: Fede B
+	 ||--+ 34633 +--||  --- 1.76099991798 seconds --- 
+WORKING ON: Alexis Dante
+	 ||--+ 34634 +--||  --- 10.3359999657 seconds --- 
+WORKING ON: Miss Eleana
+	 ||--+ 34635 +--||  --- 2.38499999046 seconds --- 
+WORKING ON: Chiara Robiony
+	 ||--+ 34636 +--||  --- 2.00699996948 seconds --- 
+WORKING ON: The Axcess
+	 ||--+ 34637 +--||  --- 1.65000009537 seconds --- 
+WORKING ON: Rangovich
+	 ||--+ 34638 +--||  --- 1.21399998665 seconds --- 
+WORKING ON: Soul Division
+	 ||--+ 34639 +--||  --- 2.20899987221 seconds --- 
+WORKING ON: Sissoko
+	 ||--+ 34640 +--||  --- 2.84100008011 seconds --- 
+WORKING ON: Claudio Coveri
+	 ||--+ 34641 +--||  --- 1.72900009155 seconds --- 
+WORKING ON: Electroboogaloo
+	 ||--+ 34642 +--||  --- 1.78199982643 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34643 +--||  --- 0.674000024796 seconds --- 
+WORKING ON: UnisonoFX
+	 ||--+ 34644 +--||  --- 12.0160000324 seconds --- 
+WORKING ON: Blood Of Eden
+	 ||--+ 34645 +--||  --- 1.21099996567 seconds --- 
+WORKING ON: Sophie Rimheden
+	 ||--+ 34646 +--||  --- 6.45700001717 seconds --- 
+WORKING ON: Appareil
+	 ||--+ 34647 +--||  --- 1.20399999619 seconds --- 
+WORKING ON: Goodstuf
+	 ||--+ 34648 +--||  --- 1.19500017166 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34649 +--||  --- 0.644999980927 seconds --- 
+WORKING ON: Spectac
+	 ||--+ 34650 +--||  --- 9.43700003624 seconds --- 
+WORKING ON: Viktoria Rebeka
+	 ||--+ 34651 +--||  --- 11.4760000706 seconds --- 
+WORKING ON: Girandon
+	 ||--+ 34652 +--||  --- 39.2179999352 seconds --- 
+WORKING ON: Barbed
+	 ||--+ 34653 +--||  --- 1.43799996376 seconds --- 
+WORKING ON: The Wanted
+	 ||--+ 34654 +--||  --- 8.52300000191 seconds --- 
+WORKING ON: Mike Tales
+	 ||--+ 34655 +--||  --- 2.11899995804 seconds --- 
+WORKING ON: Zook
+	 ||--+ 34656 +--||  --- 1.68700003624 seconds --- 
+WORKING ON: Drum Monkeys
+	 ||--+ 34657 +--||  --- 4.89100003242 seconds --- 
+WORKING ON: Rich Jones
+	 ||--+ 34658 +--||  --- 27.757999897 seconds --- 
+WORKING ON: Jason Tragebov
+	 ||--+ 34659 +--||  --- 1.14300012589 seconds --- 
+WORKING ON: K.J. Gibbs
+	 ||--+ 34660 +--||  --- 4.78099989891 seconds --- 
+WORKING ON: CluedUp
+	 ||--+ 34661 +--||  --- 3.28500008583 seconds --- 
+WORKING ON: DJ LED
+	 ||--+ 34662 +--||  --- 1.08599996567 seconds --- 
+WORKING ON: Kambala
+	 ||--+ 34663 +--||  --- 1.33599996567 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34664 +--||  --- 0.576999902725 seconds --- 
+WORKING ON: Initial
+	 ||--+ 34665 +--||  --- 16.9830000401 seconds --- 
+WORKING ON: Danny Lo Scippo
+	 ||--+ 34666 +--||  --- 7.53299999237 seconds --- 
+WORKING ON: Joe Davis
+	 ||--+ 34667 +--||  --- 6.3149998188 seconds --- 
+WORKING ON: Joe Flame
+	 ||--+ 34668 +--||  --- 3.71399998665 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34669 +--||  --- 0.608000040054 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34670 +--||  --- 0.575000047684 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34671 +--||  --- 0.582999944687 seconds --- 
+WORKING ON: Joey Alvarado
+	 ||--+ 34672 +--||  --- 8.70800018311 seconds --- 
+WORKING ON: K3
+	 ||--+ 34673 +--||  --- 7.97599983215 seconds --- 
+WORKING ON: Alice Lascelles
+	 ||--+ 34674 +--||  --- 3.24100017548 seconds --- 
+WORKING ON: Magoon
+	 ||--+ 34675 +--||  --- 5.3149998188 seconds --- 
+WORKING ON: Craig Hamilton
+	 ||--+ 34676 +--||  --- 34.0789999962 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34677 +--||  --- 0.804000139236 seconds --- 
+WORKING ON: Mr. Bob Angel
+	 ||--+ 34678 +--||  --- 2.43099999428 seconds --- 
+WORKING ON: Vlad Caia
+	 ||--+ 34679 +--||  --- 4.11699986458 seconds --- 
+WORKING ON: Che DuBois
+	 ||--+ 34680 +--||  --- 9.14900016785 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34681 +--||  --- 0.600999832153 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34682 +--||  --- 0.600000143051 seconds --- 
+WORKING ON: Brothers In Crime
+	 ||--+ 34683 +--||  --- 1.6970000267 seconds --- 
+WORKING ON: Smile
+	 ||--+ 34684 +--||  --- 2.21399998665 seconds --- 
+WORKING ON: Obliterator
+	 ||--+ 34685 +--||  --- 1.17199993134 seconds --- 
+WORKING ON: Infernus
+	 ||--+ 34686 +--||  --- 0.996999979019 seconds --- 
+WORKING ON: Larsh
+	 ||--+ 34687 +--||  --- 1.04800009727 seconds --- 
+WORKING ON: Sonicdriver
+	 ||--+ 34688 +--||  --- 1.55900001526 seconds --- 
+WORKING ON: DJ Davie Forbes
+	 ||--+ 34689 +--||  --- 1.0119998455 seconds --- 
+WORKING ON: Julien H. Mulder
+	 ||--+ 34690 +--||  --- 1.75699996948 seconds --- 
+WORKING ON: Harald Bjork
+	 ||--+ 34691 +--||  --- 13.6520001888 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34692 +--||  --- 0.59299993515 seconds --- 
+WORKING ON: Symbols
+	 ||--+ 34693 +--||  --- 4.55599999428 seconds --- 
+WORKING ON: Dy!
+	 ||--+ 34694 +--||  --- 1.75300002098 seconds --- 
+WORKING ON: DJ Hansz
+	 ||--+ 34695 +--||  --- 4.70899987221 seconds --- 
+WORKING ON: Sensor
+	 ||--+ 34696 +--||  --- 1.54100012779 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34697 +--||  --- 0.589999914169 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34698 +--||  --- 0.574000120163 seconds --- 
+WORKING ON: Rave A Graphixx
+	 ||--+ 34699 +--||  --- 0.996999979019 seconds --- 
+WORKING ON: Giuseppe Albrizio
+	 ||--+ 34700 +--||  --- 8.78699994087 seconds --- 
+WORKING ON: The Undertaker
+	 ||--+ 34701 +--||  --- 1.1819999218 seconds --- 
+WORKING ON: Noisegate
+	 ||--+ 34702 +--||  --- 2.95600008965 seconds --- 
+WORKING ON: DJ Drey
+	 ||--+ 34703 +--||  --- 6.62199997902 seconds --- 
+WORKING ON: Cosmonaut
+	 ||--+ 34704 +--||  --- 16.9600000381 seconds --- 
+WORKING ON: Vava
+	 ||--+ 34705 +--||  --- 2.22799992561 seconds --- 
+WORKING ON: Groovemagnet
+	 ||--+ 34706 +--||  --- 7.30999994278 seconds --- 
+WORKING ON: Ventinesimo Secolo
+	 ||--+ 34707 +--||  --- 4.50600004196 seconds --- 
+WORKING ON: Sebastian Wolter
+	 ||--+ 34708 +--||  --- 5.4279999733 seconds --- 
+WORKING ON: Alexander G
+	 ||--+ 34709 +--||  --- 1.68000006676 seconds --- 
+WORKING ON: Juan Pestrana
+	 ||--+ 34710 +--||  --- 1.10100007057 seconds --- 
+WORKING ON: Suspicious
+	 ||--+ 34711 +--||  --- 5.18400001526 seconds --- 
+WORKING ON: Bushi
+	 ||--+ 34712 +--||  --- 13.6649999619 seconds --- 
+WORKING ON: Colorswitch
+	 ||--+ 34713 +--||  --- 1.9279999733 seconds --- 
+WORKING ON: Franky Rizardo
+	 ||--+ 34714 +--||  --- 63.8169999123 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34715 +--||  --- 0.710999965668 seconds --- 
+WORKING ON: Feedback Loop
+	 ||--+ 34716 +--||  --- 2.94600009918 seconds --- 
+WORKING ON: Filo
+	 ||--+ 34717 +--||  --- 8.04500007629 seconds --- 
+WORKING ON: Peri
+	 ||--+ 34718 +--||  --- 9.32999992371 seconds --- 
+WORKING ON: Colonel Abrams
+	 ||--+ 34719 +--||  --- 11.0840001106 seconds --- 
+WORKING ON: Goldkiss
+	 ||--+ 34720 +--||  --- 1.13999986649 seconds --- 
+WORKING ON: Favela Chic
+	 ||--+ 34721 +--||  --- 2.03600001335 seconds --- 
+WORKING ON: K-Swing
+	 ||--+ 34722 +--||  --- 1.15799999237 seconds --- 
+WORKING ON: Sebi Spanks
+	 ||--+ 34723 +--||  --- 0.93799996376 seconds --- 
+WORKING ON: Maxie Devine
+	 ||--+ 34724 +--||  --- 82.1540000439 seconds --- 
+WORKING ON: Mess
+	 ||--+ 34725 +--||  --- 5.14700007439 seconds --- 
+WORKING ON: High Life
+	 ||--+ 34726 +--||  --- 1.90199995041 seconds --- 
+WORKING ON: MinicOOx
+	 ||--+ 34727 +--||  --- 0.947000026703 seconds --- 
+WORKING ON: The Holy Rollers
+	 ||--+ 34728 +--||  --- 1.11400008202 seconds --- 
+WORKING ON: Dany T. Heart
+	 ||--+ 34729 +--||  --- 0.975999832153 seconds --- 
+WORKING ON: Scare Mood
+	 ||--+ 34730 +--||  --- 0.979000091553 seconds --- 
+WORKING ON: Terrorbyte
+	 ||--+ 34731 +--||  --- 2.20799994469 seconds --- 
+WORKING ON: Tam Cooper
+	 ||--+ 34732 +--||  --- 13.7249999046 seconds --- 
+WORKING ON: DJ MNS
+	 ||--+ 34733 +--||  --- 23.1700000763 seconds --- 
+WORKING ON: E-Maxx
+	 ||--+ 34734 +--||  --- 28.2999999523 seconds --- 
+WORKING ON: Datura
+	 ||--+ 34735 +--||  --- 7.8220000267 seconds --- 
+WORKING ON: Boris Fox
+	 ||--+ 34736 +--||  --- 2.53600001335 seconds --- 
+WORKING ON: DOC
+	 ||--+ 34737 +--||  --- 9.29400014877 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34738 +--||  --- 0.612999916077 seconds --- 
+WORKING ON: Beneluxus
+	 ||--+ 34739 +--||  --- 4.33500003815 seconds --- 
+WORKING ON: Eric Electric
+	 ||--+ 34740 +--||  --- 4.62999987602 seconds --- 
+WORKING ON: Electro Funk Lovers
+	 ||--+ 34741 +--||  --- 2.76800012589 seconds --- 
+WORKING ON: Mikdat
+	 ||--+ 34742 +--||  --- 3.6369998455 seconds --- 
+WORKING ON: Randoman
+	 ||--+ 34743 +--||  --- 3.35600018501 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34744 +--||  --- 0.649999856949 seconds --- 
+WORKING ON: Bug
+	 ||--+ 34745 +--||  --- 18.7539999485 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34746 +--||  --- 0.789000034332 seconds --- 
+WORKING ON: Vicky Blond
+	 ||--+ 34747 +--||  --- 1.91200017929 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34748 +--||  --- 0.644999980927 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34749 +--||  --- 0.613999843597 seconds --- 
+WORKING ON: Matt Del Perro
+	 ||--+ 34750 +--||  --- 0.969000101089 seconds --- 
+WORKING ON: Glyne Braithwaite
+	 ||--+ 34751 +--||  --- 1.17100000381 seconds --- 
+WORKING ON: El Senor
+	 ||--+ 34752 +--||  --- 1.00300002098 seconds --- 
+WORKING ON: Erase Errata
+	 ||--+ 34753 +--||  --- 1.47899985313 seconds --- 
+WORKING ON: Lesser
+	 ||--+ 34754 +--||  --- 6.00100016594 seconds --- 
+WORKING ON: FerK
+	 ||--+ 34755 +--||  --- 1.70199990273 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34756 +--||  --- 0.595999956131 seconds --- 
+WORKING ON: Grant
+	 ||--+ 34757 +--||  --- 9.25300002098 seconds --- 
+WORKING ON: Matty
+	 ||--+ 34758 +--||  --- 4.875 seconds --- 
+WORKING ON: Ray
+	 ||--+ 34759 +--||  --- 13.5699999332 seconds --- 
+WORKING ON: Cunnie Williams
+	 ||--+ 34760 +--||  --- 13.7180001736 seconds --- 
+WORKING ON: Mr. Mike
+	 ||--+ 34761 +--||  --- 5.35500001907 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34762 +--||  --- 0.634999990463 seconds --- 
+WORKING ON: Raw Instinct
+	 ||--+ 34763 +--||  --- 8.94799995422 seconds --- 
+WORKING ON: FM Radio Gods
+	 ||--+ 34764 +--||  --- 17.9449999332 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34765 +--||  --- 0.663000106812 seconds --- 
+WORKING ON: Mata
+	 ||--+ 34766 +--||  --- 12.753000021 seconds --- 
+WORKING ON: Mami &amp; Papi
+	 ||--+ 34767 +--||  --- 1.49699997902 seconds --- 
+WORKING ON: Rasti Tkac
+	 ||--+ 34768 +--||  --- 9.33399987221 seconds --- 
+WORKING ON: Brett Holland
+	 ||--+ 34769 +--||  --- 3.02900004387 seconds --- 
+WORKING ON: Victor Perez
+	 ||--+ 34770 +--||  --- 164.434999943 seconds --- 
+WORKING ON: DJ Skurge
+	 ||--+ 34771 +--||  --- 2.625 seconds --- 
+WORKING ON: Roy Malone
+	 ||--+ 34772 +--||  --- 2.5649998188 seconds --- 
+WORKING ON: Strump Dump
+	 ||--+ 34773 +--||  --- 1.52600002289 seconds --- 
+WORKING ON: Bathezz
+	 ||--+ 34774 +--||  --- 2.23699998856 seconds --- 
+WORKING ON: Body Mechanic
+	 ||--+ 34775 +--||  --- 4.93600010872 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34776 +--||  --- 0.573999881744 seconds --- 
+WORKING ON: B. Calloway
+	 ||--+ 34777 +--||  --- 10.9110000134 seconds --- 
+WORKING ON: 011
+	 ||--+ 34778 +--||  --- 1.15300011635 seconds --- 
+WORKING ON: Synkro
+	 ||--+ 34779 +--||  --- 37.6159999371 seconds --- 
+WORKING ON: Model 500
+	 ||--+ 34780 +--||  --- 24.7539999485 seconds --- 
+WORKING ON: Falcon
+	 ||--+ 34781 +--||  --- 46.4769999981 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34782 +--||  --- 0.618000030518 seconds --- 
+WORKING ON: Patrick Palone
+	 ||--+ 34783 +--||  --- 11.6460001469 seconds --- 
+WORKING ON: Nordan
+	 ||--+ 34784 +--||  --- 2.72699999809 seconds --- 
+WORKING ON: X Green
+	 ||--+ 34785 +--||  --- 2.42499995232 seconds --- 
+WORKING ON: Lea D
+	 ||--+ 34786 +--||  --- 16.8849999905 seconds --- 
+WORKING ON: Dimitry Filatov
+	 ||--+ 34787 +--||  --- 1.39199995995 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34788 +--||  --- 0.625 seconds --- 
+WORKING ON: Electroid
+	 ||--+ 34789 +--||  --- 1.74799990654 seconds --- 
+WORKING ON: Drew Scott
+	 ||--+ 34790 +--||  --- 5.64900016785 seconds --- 
+WORKING ON: Quintessence
+	 ||--+ 34791 +--||  --- 4.72299981117 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34792 +--||  --- 0.592000007629 seconds --- 
+WORKING ON: Mikka Leinonen
+	 ||--+ 34793 +--||  --- 1.50900006294 seconds --- 
+WORKING ON: Lush
+	 ||--+ 34794 +--||  --- 8.51800012589 seconds --- 
+WORKING ON: Deep &amp; Shallow
+	 ||--+ 34795 +--||  --- 1.34399986267 seconds --- 
+WORKING ON: Stefan Braatz
+	 ||--+ 34796 +--||  --- 7.375 seconds --- 
+WORKING ON: Filthy Mouth
+	 ||--+ 34797 +--||  --- 1.28400015831 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34798 +--||  --- 0.577999830246 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34799 +--||  --- 0.68700003624 seconds --- 
+WORKING ON: Electroheadz
+	 ||--+ 34800 +--||  --- 2.28299999237 seconds --- 
+WORKING ON: Mapiu
+	 ||--+ 34801 +--||  --- 2.19199991226 seconds --- 
+WORKING ON: Oscar Colin
+	 ||--+ 34802 +--||  --- 1.94100022316 seconds --- 
+WORKING ON: Bag
+	 ||--+ 34803 +--||  --- 17.1749999523 seconds --- 
+WORKING ON: Manmade Science
+	 ||--+ 34804 +--||  --- 5.67999982834 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34805 +--||  --- 0.620000123978 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34806 +--||  --- 0.568000078201 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34807 +--||  --- 0.583999872208 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34808 +--||  --- 0.556999921799 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34809 +--||  --- 0.571000099182 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34810 +--||  --- 0.574000120163 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34811 +--||  --- 0.583999872208 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34812 +--||  --- 0.568000078201 seconds --- 
+WORKING ON: Freshly
+	 ||--+ 34813 +--||  --- 1.04399991035 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34814 +--||  --- 0.56500005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34815 +--||  --- 0.575999975204 seconds --- 
+WORKING ON: James Alexander
+	 ||--+ 34816 +--||  --- 4.15100002289 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34817 +--||  --- 0.608999967575 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34818 +--||  --- 0.585000038147 seconds --- 
+WORKING ON: Jive
+	 ||--+ 34819 +--||  --- 1.43799996376 seconds --- 
+WORKING ON: Cheryl Nickerson
+	 ||--+ 34820 +--||  --- 1.80100011826 seconds --- 
+WORKING ON: Global Mind
+	 ||--+ 34821 +--||  --- 7.32799983025 seconds --- 
+WORKING ON: Desy Moore
+	 ||--+ 34822 +--||  --- 1.49800014496 seconds --- 
+WORKING ON: Paradise Orchestra
+	 ||--+ 34823 +--||  --- 1.14499998093 seconds --- 
+WORKING ON: Maumet
+	 ||--+ 34824 +--||  --- 4.39699983597 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34825 +--||  --- 0.716000080109 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34826 +--||  --- 0.611000061035 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34827 +--||  --- 0.583999872208 seconds --- 
+WORKING ON: Hoxon Twat
+	 ||--+ 34828 +--||  --- 1.12800002098 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34829 +--||  --- 0.585999965668 seconds --- 
+WORKING ON: Planet Fast
+	 ||--+ 34830 +--||  --- 1.29000020027 seconds --- 
+WORKING ON: Parallel Project
+	 ||--+ 34831 +--||  --- 2.34999990463 seconds --- 
+WORKING ON: Break SL
+	 ||--+ 34832 +--||  --- 7.93499994278 seconds --- 
+WORKING ON: Jane Kumada
+	 ||--+ 34833 +--||  --- 6.32100009918 seconds --- 
+WORKING ON: Treplec
+	 ||--+ 34834 +--||  --- 4.80399990082 seconds --- 
+WORKING ON: Weirdub
+	 ||--+ 34835 +--||  --- 2.617000103 seconds --- 
+WORKING ON: Keita
+	 ||--+ 34836 +--||  --- 2.00099992752 seconds --- 
+WORKING ON: A Made Up Sound
+	 ||--+ 34837 +--||  --- 17.8169999123 seconds --- 
+WORKING ON: D.N.A.
+	 ||--+ 34838 +--||  --- 4.58400011063 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34839 +--||  --- 0.599999904633 seconds --- 
+WORKING ON: Suzana Rozkosny
+	 ||--+ 34840 +--||  --- 1.31599998474 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34841 +--||  --- 0.590000152588 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34842 +--||  --- 0.578000068665 seconds --- 
+WORKING ON: Saint iBot
+	 ||--+ 34843 +--||  --- 2.40099978447 seconds --- 
+WORKING ON: D Funk
+	 ||--+ 34844 +--||  --- 4.19800019264 seconds --- 
+WORKING ON: Das Kraftfuttermischwerk
+	 ||--+ 34845 +--||  --- 1.64399981499 seconds --- 
+WORKING ON: Moriarty
+	 ||--+ 34846 +--||  --- 3.14100003242 seconds --- 
+WORKING ON: Beyer &amp; Koch
+	 ||--+ 34847 +--||  --- 1.19799995422 seconds --- 
+WORKING ON: Hammerschmidt
+	 ||--+ 34848 +--||  --- 8.03800010681 seconds --- 
+WORKING ON: Lentz
+	 ||--+ 34849 +--||  --- 7.9279999733 seconds --- 
+WORKING ON: Phlegmatic
+	 ||--+ 34850 +--||  --- 1.22099995613 seconds --- 
+WORKING ON: Rob Warren
+	 ||--+ 34851 +--||  --- 1.04799985886 seconds --- 
+WORKING ON: Dub In A Nutshell
+	 ||--+ 34852 +--||  --- 1.01600003242 seconds --- 
+WORKING ON: Daniel Lui
+	 ||--+ 34853 +--||  --- 1.21000003815 seconds --- 
+WORKING ON: Schuhmacher
+	 ||--+ 34854 +--||  --- 37.9489998817 seconds --- 
+WORKING ON: Vanerra
+	 ||--+ 34855 +--||  --- 3.44200015068 seconds --- 
+WORKING ON: Alex Crow
+	 ||--+ 34856 +--||  --- 1.14499998093 seconds --- 
+WORKING ON: Neustadt 36
+	 ||--+ 34857 +--||  --- 1.45799994469 seconds --- 
+WORKING ON: Blacktrane
+	 ||--+ 34858 +--||  --- 1.03900003433 seconds --- 
+WORKING ON: Bimbo Jones
+	 ||--+ 34859 +--||  --- 38.1819999218 seconds --- 
+WORKING ON: Astin Martinez
+	 ||--+ 34860 +--||  --- 1.20600008965 seconds --- 
+WORKING ON: The Little Rascals
+	 ||--+ 34861 +--||  --- 1.79200005531 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34862 +--||  --- 0.588999986649 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34863 +--||  --- 0.59299993515 seconds --- 
+WORKING ON: Ziur
+	 ||--+ 34864 +--||  --- 4.94099998474 seconds --- 
+WORKING ON: SWS
+	 ||--+ 34865 +--||  --- 1.67300009727 seconds --- 
+WORKING ON: Angel Makris
+	 ||--+ 34866 +--||  --- 2.30099987984 seconds --- 
+WORKING ON: Bjorn Wilke
+	 ||--+ 34867 +--||  --- 41.0429999828 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34868 +--||  --- 0.740000009537 seconds --- 
+WORKING ON: Gumix
+	 ||--+ 34869 +--||  --- 1.1400001049 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34870 +--||  --- 0.65299987793 seconds --- 
+WORKING ON: Daniel Haaksman
+	 ||--+ 34871 +--||  --- 32.5160000324 seconds --- 
+WORKING ON: Rocker's Hifi
+	 ||--+ 34872 +--||  --- 1.24099993706 seconds --- 
+WORKING ON: Farda P.
+	 ||--+ 34873 +--||  --- 1.02400016785 seconds --- 
+WORKING ON: Jonas Quant
+	 ||--+ 34874 +--||  --- 0.993000030518 seconds --- 
+WORKING ON: Bullitnuts
+	 ||--+ 34875 +--||  --- 4.94099998474 seconds --- 
+WORKING ON: Cosmic Rocker
+	 ||--+ 34876 +--||  --- 5.41799998283 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34877 +--||  --- 0.641999959946 seconds --- 
+WORKING ON: Shaps
+	 ||--+ 34878 +--||  --- 1.11999988556 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34879 +--||  --- 0.614000082016 seconds --- 
+WORKING ON: Rue D'Ireland
+	 ||--+ 34880 +--||  --- 1.03200006485 seconds --- 
+WORKING ON: Gambusa
+	 ||--+ 34881 +--||  --- 1.09800004959 seconds --- 
+WORKING ON: Auinger
+	 ||--+ 34882 +--||  --- 1.01299977303 seconds --- 
+WORKING ON: Andy Dabula
+	 ||--+ 34883 +--||  --- 3.20100021362 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34884 +--||  --- 0.579999923706 seconds --- 
+WORKING ON: Christian Martin
+	 ||--+ 34885 +--||  --- 9.882999897 seconds --- 
+WORKING ON: Rainer Truby Trio
+	 ||--+ 34886 +--||  --- 1.99699997902 seconds --- 
+WORKING ON: Stephan Morth
+	 ||--+ 34887 +--||  --- 1.01400017738 seconds --- 
+WORKING ON: Musetta
+	 ||--+ 34888 +--||  --- 19.5119998455 seconds --- 
+WORKING ON: Soul Patrol
+	 ||--+ 34889 +--||  --- 2.51699995995 seconds --- 
+WORKING ON: Kosma
+	 ||--+ 34890 +--||  --- 7.63700008392 seconds --- 
+WORKING ON: DJ Splatterhouse
+	 ||--+ 34891 +--||  --- 4.49800014496 seconds --- 
+WORKING ON: JR From Dallas
+	 ||--+ 34892 +--||  --- 57.3229999542 seconds --- 
+WORKING ON: Danny.S.
+	 ||--+ 34893 +--||  --- 1.17899990082 seconds --- 
+WORKING ON: Mike E. Clark
+	 ||--+ 34894 +--||  --- 1.63800001144 seconds --- 
+WORKING ON: DJ Alexander
+	 ||--+ 34895 +--||  --- 1.52399992943 seconds --- 
+WORKING ON: Drumkode
+	 ||--+ 34896 +--||  --- 1.86199998856 seconds --- 
+WORKING ON: Sketch One
+	 ||--+ 34897 +--||  --- 2.76300001144 seconds --- 
+WORKING ON: Iron Clash
+	 ||--+ 34898 +--||  --- 2.4390001297 seconds --- 
+WORKING ON: Braga Inc.
+	 ||--+ 34899 +--||  --- 1.26799988747 seconds --- 
+WORKING ON: MGI
+	 ||--+ 34900 +--||  --- 1.25100016594 seconds --- 
+WORKING ON: iLiKETRAiNS
+	 ||--+ 34901 +--||  --- 2.35299992561 seconds --- 
+WORKING ON: Schoeneich
+	 ||--+ 34902 +--||  --- 0.953000068665 seconds --- 
+WORKING ON: Winterhood
+	 ||--+ 34903 +--||  --- 2.0649998188 seconds --- 
+WORKING ON: Hakker
+	 ||--+ 34904 +--||  --- 0.973000049591 seconds --- 
+WORKING ON: Steve Enderson
+	 ||--+ 34905 +--||  --- 1.68700003624 seconds --- 
+WORKING ON: Wax Master
+	 ||--+ 34906 +--||  --- 1.03399991989 seconds --- 
+WORKING ON: Eric Martin
+	 ||--+ 34907 +--||  --- 2.632999897 seconds --- 
+WORKING ON: Figurines
+	 ||--+ 34908 +--||  --- 1.26900005341 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34909 +--||  --- 0.578999996185 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34910 +--||  --- 0.586999893188 seconds --- 
+WORKING ON: Dub Town
+	 ||--+ 34911 +--||  --- 1.26400017738 seconds --- 
+WORKING ON: Ivan Spell
+	 ||--+ 34912 +--||  --- 37.0859999657 seconds --- 
+WORKING ON: Sergey Tkachev
+	 ||--+ 34913 +--||  --- 11.8320000172 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34914 +--||  --- 0.707000017166 seconds --- 
+WORKING ON: G&amp;S
+	 ||--+ 34915 +--||  --- 2.48799991608 seconds --- 
+WORKING ON: The Proluctors
+	 ||--+ 34916 +--||  --- 1.41599988937 seconds --- 
+WORKING ON: IT
+	 ||--+ 34917 +--||  --- 5.9430000782 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34918 +--||  --- 0.726000070572 seconds --- 
+WORKING ON: Toe Jam
+	 ||--+ 34919 +--||  --- 1.73600006104 seconds --- 
+WORKING ON: Elektro Oryx
+	 ||--+ 34920 +--||  --- 1.18099999428 seconds --- 
+WORKING ON: Lighthouse
+	 ||--+ 34921 +--||  --- 6.25699996948 seconds --- 
+WORKING ON: L.B. Dub Corp
+	 ||--+ 34922 +--||  --- 6.65499997139 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34923 +--||  --- 0.690999984741 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34924 +--||  --- 0.651999950409 seconds --- 
+WORKING ON: Fernando Ortega
+	 ||--+ 34925 +--||  --- 7.91300010681 seconds --- 
+WORKING ON: Gio C
+	 ||--+ 34926 +--||  --- 10.1380000114 seconds --- 
+WORKING ON: Uto Karem
+	 ||--+ 34927 +--||  --- 54.9889998436 seconds --- 
+WORKING ON: First Man
+	 ||--+ 34928 +--||  --- 3.06100010872 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34929 +--||  --- 0.737999916077 seconds --- 
+WORKING ON: Interfearence
+	 ||--+ 34930 +--||  --- 2.53900003433 seconds --- 
+WORKING ON: Sunflower
+	 ||--+ 34931 +--||  --- 5.52200007439 seconds --- 
+WORKING ON: Tupperwear
+	 ||--+ 34932 +--||  --- 1.3639998436 seconds --- 
+WORKING ON: Killerlead
+	 ||--+ 34933 +--||  --- 1.91300010681 seconds --- 
+WORKING ON: Cristian Marchi
+	 ||--+ 34934 +--||  --- 52.5590000153 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34935 +--||  --- 0.723000049591 seconds --- 
+WORKING ON: Interfunk
+	 ||--+ 34936 +--||  --- 1.47799992561 seconds --- 
+WORKING ON: Martin eNe
+	 ||--+ 34937 +--||  --- 7.12199997902 seconds --- 
+WORKING ON: Remady
+	 ||--+ 34938 +--||  --- 37.0559999943 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34939 +--||  --- 0.778000116348 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34940 +--||  --- 0.699999809265 seconds --- 
+WORKING ON: McNasty
+	 ||--+ 34941 +--||  --- 1.0759999752 seconds --- 
+WORKING ON: Rex Riddem
+	 ||--+ 34942 +--||  --- 2.40500020981 seconds --- 
+WORKING ON: Speedy Consuela
+	 ||--+ 34943 +--||  --- 2.13399982452 seconds --- 
+WORKING ON: International Velvet
+	 ||--+ 34944 +--||  --- 3.59100008011 seconds --- 
+WORKING ON: S.P.A.M
+	 ||--+ 34945 +--||  --- 1.47399997711 seconds --- 
+WORKING ON: Nicola Lorusso
+	 ||--+ 34946 +--||  --- 2.90600013733 seconds --- 
+WORKING ON: Tap Shift
+	 ||--+ 34947 +--||  --- 2.0459997654 seconds --- 
+WORKING ON: Franky Rago
+	 ||--+ 34948 +--||  --- 1.09100008011 seconds --- 
+WORKING ON: Trocca
+	 ||--+ 34949 +--||  --- 4.40000009537 seconds --- 
+WORKING ON: Sead Redzic
+	 ||--+ 34950 +--||  --- 4.78900003433 seconds --- 
+WORKING ON: Pablo Matolo
+	 ||--+ 34951 +--||  --- 1.31900000572 seconds --- 
+WORKING ON: Queen la Teacher
+	 ||--+ 34952 +--||  --- 1.10399985313 seconds --- 
+WORKING ON: Maska
+	 ||--+ 34953 +--||  --- 8.90100002289 seconds --- 
+WORKING ON: Allan Ramirez
+	 ||--+ 34954 +--||  --- 15.3190000057 seconds --- 
+WORKING ON: Hernan Gutmer
+	 ||--+ 34955 +--||  --- 6.2990000248 seconds --- 
+WORKING ON: Direct Control
+	 ||--+ 34956 +--||  --- 1.47099995613 seconds --- 
+WORKING ON: DJ Berkin
+	 ||--+ 34957 +--||  --- 6.66400003433 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34958 +--||  --- 0.684000015259 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34959 +--||  --- 0.671999931335 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34960 +--||  --- 0.716000080109 seconds --- 
+WORKING ON: DJ Sol
+	 ||--+ 34961 +--||  --- 2.28299999237 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34962 +--||  --- 0.698999881744 seconds --- 
+WORKING ON: Facil
+	 ||--+ 34963 +--||  --- 4.22699999809 seconds --- 
+WORKING ON: No Doubt
+	 ||--+ 34964 +--||  --- 5.54300022125 seconds --- 
+WORKING ON: Escape Tank
+	 ||--+ 34965 +--||  --- 2.36099982262 seconds --- 
+WORKING ON: Bella
+	 ||--+ 34966 +--||  --- 44.6330001354 seconds --- 
+WORKING ON: Rest Point
+	 ||--+ 34967 +--||  --- 4.78299999237 seconds --- 
+WORKING ON: Control X
+	 ||--+ 34968 +--||  --- 4.02900004387 seconds --- 
+WORKING ON: Bomberman
+	 ||--+ 34969 +--||  --- 10.626999855 seconds --- 
+WORKING ON: White Papoo
+	 ||--+ 34970 +--||  --- 8.40100002289 seconds --- 
+WORKING ON: Stormtrooperz
+	 ||--+ 34971 +--||  --- 4.89400005341 seconds --- 
+WORKING ON: Xim &amp; Bass
+	 ||--+ 34972 +--||  --- 1.9470000267 seconds --- 
+WORKING ON: Omicron
+	 ||--+ 34973 +--||  --- 2.85399985313 seconds --- 
+WORKING ON: Beaumont Hannant
+	 ||--+ 34974 +--||  --- 2.34600019455 seconds --- 
+WORKING ON: John Creamer &amp; Stephane K
+	 ||--+ 34975 +--||  --- 10.1649999619 seconds --- 
+WORKING ON: Crop Circles
+	 ||--+ 34976 +--||  --- 4.32299995422 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34977 +--||  --- 0.751999855042 seconds --- 
+WORKING ON: Max Skiba
+	 ||--+ 34978 +--||  --- 2.77800011635 seconds --- 
+WORKING ON: Jariten
+	 ||--+ 34979 +--||  --- 4.0759999752 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34980 +--||  --- 0.620000123978 seconds --- 
+WORKING ON: Seven Saturdays
+	 ||--+ 34981 +--||  --- 2.83699989319 seconds --- 
+WORKING ON: Sherrita Duran
+	 ||--+ 34982 +--||  --- 4.44199991226 seconds --- 
+WORKING ON: Chris Gruber
+	 ||--+ 34983 +--||  --- 5.32500004768 seconds --- 
+WORKING ON: The Darkraver
+	 ||--+ 34984 +--||  --- 2.39600014687 seconds --- 
+WORKING ON: El Bruto
+	 ||--+ 34985 +--||  --- 1.49599981308 seconds --- 
+WORKING ON: Dwarf
+	 ||--+ 34986 +--||  --- 2.14499998093 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 34987 +--||  --- 0.623000144958 seconds --- 
+WORKING ON: Aly
+	 ||--+ 34988 +--||  --- 19.5099999905 seconds --- 
+WORKING ON: Fila
+	 ||--+ 34989 +--||  --- 16.8910000324 seconds --- 
+WORKING ON: Volt
+	 ||--+ 34990 +--||  --- 10.4559998512 seconds --- 
+WORKING ON: Emu
+	 ||--+ 34991 +--||  --- 5.73000001907 seconds --- 
+WORKING ON: Thomas J. Bergersen
+	 ||--+ 34992 +--||  --- 1.40300011635 seconds --- 
+WORKING ON: Jaren
+	 ||--+ 34993 +--||  --- 71.7009999752 seconds --- 
+WORKING ON: Robert Demico
+	 ||--+ 34994 +--||  --- 1.09399986267 seconds --- 
+WORKING ON: DJ Cocoe
+	 ||--+ 34995 +--||  --- 1.11500000954 seconds --- 
+WORKING ON: NJ
+	 ||--+ 34996 +--||  --- 7.61400008202 seconds --- 
+WORKING ON: Ludwig Coenen
+	 ||--+ 34997 +--||  --- 10.5870001316 seconds --- 
+WORKING ON: Ashique
+	 ||--+ 34998 +--||  --- 1.25199985504 seconds --- 
+WORKING ON: Manuel De Lorenzi
+	 ||--+ 34999 +--||  --- 45.2100000381 seconds --- 
+WORKING ON: Genuine
+	 ||--+ 35000 +--||  --- 4.37599992752 seconds --- 
+WORKING ON: Neurus
+	 ||--+ 35001 +--||  --- 1.51200008392 seconds --- 
+WORKING ON: Digital Coalition
+	 ||--+ 35002 +--||  --- 3.21300005913 seconds --- 
+WORKING ON: Vadim Lankov
+	 ||--+ 35003 +--||  --- 13.6489999294 seconds --- 
+WORKING ON: Z@p
+	 ||--+ 35004 +--||  --- 6.16000008583 seconds --- 
+WORKING ON: Espresso Del Lago
+	 ||--+ 35005 +--||  --- 5.06299996376 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35006 +--||  --- 0.725999832153 seconds --- 
+WORKING ON: Ricardo Grau
+	 ||--+ 35007 +--||  --- 4.375 seconds --- 
+WORKING ON: Max Cole
+	 ||--+ 35008 +--||  --- 6.88100004196 seconds --- 
+WORKING ON: Boston Rodriguez
+	 ||--+ 35009 +--||  --- 9.6210000515 seconds --- 
+WORKING ON: Harmonic 313
+	 ||--+ 35010 +--||  --- 7.09299993515 seconds --- 
+WORKING ON: Mr. Beatnick
+	 ||--+ 35011 +--||  --- 7.04100012779 seconds --- 
+WORKING ON: Volcov
+	 ||--+ 35012 +--||  --- 2.3109998703 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35013 +--||  --- 0.640000104904 seconds --- 
+WORKING ON: Al Velilla
+	 ||--+ 35014 +--||  --- 13.138999939 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35015 +--||  --- 0.745000123978 seconds --- 
+WORKING ON: Zeph &amp; Azeem
+	 ||--+ 35016 +--||  --- 1.0529999733 seconds --- 
+WORKING ON: Goshva
+	 ||--+ 35017 +--||  --- 6.18700003624 seconds --- 
+WORKING ON: N Code
+	 ||--+ 35018 +--||  --- 1.82699990273 seconds --- 
+WORKING ON: Sveshinikov
+	 ||--+ 35019 +--||  --- 1.07300019264 seconds --- 
+WORKING ON: Tim K
+	 ||--+ 35020 +--||  --- 7.10699987411 seconds --- 
+WORKING ON: Key900
+	 ||--+ 35021 +--||  --- 10.8470001221 seconds --- 
+WORKING ON: Peplab
+	 ||--+ 35022 +--||  --- 5.53299999237 seconds --- 
+WORKING ON: Will Bailey
+	 ||--+ 35023 +--||  --- 35.5599999428 seconds --- 
+WORKING ON: DJ Luke
+	 ||--+ 35024 +--||  --- 2.91299986839 seconds --- 
+WORKING ON: D.I.M.
+	 ||--+ 35025 +--||  --- 13.353000164 seconds --- 
+WORKING ON: Funk Shuei
+	 ||--+ 35026 +--||  --- 12.1849999428 seconds --- 
+WORKING ON: Sebastian da Vinn
+	 ||--+ 35027 +--||  --- 10.6470000744 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35028 +--||  --- 0.71599984169 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35029 +--||  --- 0.661000013351 seconds --- 
+WORKING ON: Fries &amp; Bridges
+	 ||--+ 35030 +--||  --- 9.31500005722 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35031 +--||  --- 0.698999881744 seconds --- 
+WORKING ON: George Andrews
+	 ||--+ 35032 +--||  --- 6.72400021553 seconds --- 
+WORKING ON: Bluebird
+	 ||--+ 35033 +--||  --- 2.23199987411 seconds --- 
+WORKING ON: Allie
+	 ||--+ 35034 +--||  --- 4.87400007248 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35035 +--||  --- 0.692999839783 seconds --- 
+WORKING ON: Mi-Son
+	 ||--+ 35036 +--||  --- 1.04200005531 seconds --- 
+WORKING ON: The Peter Malick Group
+	 ||--+ 35037 +--||  --- 3.96399998665 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35038 +--||  --- 0.636000156403 seconds --- 
+WORKING ON: Skylab2000
+	 ||--+ 35039 +--||  --- 2.23000001907 seconds --- 
+WORKING ON: Jay Atwood
+	 ||--+ 35040 +--||  --- 1.77599978447 seconds --- 
+WORKING ON: Eros (BE)
+	 ||--+ 35041 +--||  --- 2.53299999237 seconds --- 
+WORKING ON: Domingues &amp; Ives
+	 ||--+ 35042 +--||  --- 1.61800003052 seconds --- 
+WORKING ON: Chris Baggett
+	 ||--+ 35043 +--||  --- 1.10300016403 seconds --- 
+WORKING ON: Ryan Baker
+	 ||--+ 35044 +--||  --- 1.15199995041 seconds --- 
+WORKING ON: Joseph Jaime
+	 ||--+ 35045 +--||  --- 2.02999997139 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35046 +--||  --- 0.634000062943 seconds --- 
+WORKING ON: Casey Baldwin
+	 ||--+ 35047 +--||  --- 1.38599991798 seconds --- 
+WORKING ON: Mystiquintet
+	 ||--+ 35048 +--||  --- 2.07800006866 seconds --- 
+WORKING ON: Gioia
+	 ||--+ 35049 +--||  --- 7.1139998436 seconds --- 
+WORKING ON: The Natural 1
+	 ||--+ 35050 +--||  --- 1.09000015259 seconds --- 
+WORKING ON: Signs
+	 ||--+ 35051 +--||  --- 13.6229999065 seconds --- 
+WORKING ON: Chokocheeky
+	 ||--+ 35052 +--||  --- 1.11599993706 seconds --- 
+WORKING ON: Azade Abi
+	 ||--+ 35053 +--||  --- 1.18700003624 seconds --- 
+WORKING ON: Jette-Ives
+	 ||--+ 35054 +--||  --- 3.30700016022 seconds --- 
+WORKING ON: Sean Palm
+	 ||--+ 35055 +--||  --- 8.68699979782 seconds --- 
+WORKING ON: Matt Xavier
+	 ||--+ 35056 +--||  --- 2.375 seconds --- 
+WORKING ON: Nicola di Venere Project
+	 ||--+ 35057 +--||  --- 1.03500008583 seconds --- 
+WORKING ON: The Luka &amp; Italo Perez Project
+	 ||--+ 35058 +--||  --- 1.39199995995 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35059 +--||  --- 0.634999990463 seconds --- 
+WORKING ON: Cuban Dance Affair
+	 ||--+ 35060 +--||  --- 1.49800014496 seconds --- 
+WORKING ON: The Spiritual Man
+	 ||--+ 35061 +--||  --- 1.23399996758 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35062 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: Ezio Centanni
+	 ||--+ 35063 +--||  --- 5.01499986649 seconds --- 
+WORKING ON: Galen
+	 ||--+ 35064 +--||  --- 4.93600010872 seconds --- 
+WORKING ON: Hey
+	 ||--+ 35065 +--||  --- 1.61199998856 seconds --- 
+WORKING ON: Uranus
+	 ||--+ 35066 +--||  --- 3.08699989319 seconds --- 
+WORKING ON: Steve Martinez
+	 ||--+ 35067 +--||  --- 1.68300008774 seconds --- 
+WORKING ON: FKN
+	 ||--+ 35068 +--||  --- 19.5329999924 seconds --- 
+WORKING ON: Harzkrafthof
+	 ||--+ 35069 +--||  --- 1.18600010872 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35070 +--||  --- 0.703999996185 seconds --- 
+WORKING ON: The Waz Exp.
+	 ||--+ 35071 +--||  --- 7.46799993515 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35072 +--||  --- 0.696000099182 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35073 +--||  --- 0.993000030518 seconds --- 
+WORKING ON: Nucvise
+	 ||--+ 35074 +--||  --- 4.507999897 seconds --- 
+WORKING ON: Thaddi
+	 ||--+ 35075 +--||  --- 1.11000013351 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35076 +--||  --- 0.711999893188 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35077 +--||  --- 0.637000083923 seconds --- 
+WORKING ON: Kim Fai
+	 ||--+ 35078 +--||  --- 30.6029999256 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35079 +--||  --- 0.793999910355 seconds --- 
+WORKING ON: Max Cagliero
+	 ||--+ 35080 +--||  --- 7.74300003052 seconds --- 
+WORKING ON: Sound Bros
+	 ||--+ 35081 +--||  --- 15.8989999294 seconds --- 
+WORKING ON: Trevor McLachlan
+	 ||--+ 35082 +--||  --- 3.89700007439 seconds --- 
+WORKING ON: Brad Thatcher
+	 ||--+ 35083 +--||  --- 2.50500011444 seconds --- 
+WORKING ON: Djamel
+	 ||--+ 35084 +--||  --- 6.72499990463 seconds --- 
+WORKING ON: D'Gey Jade
+	 ||--+ 35085 +--||  --- 1.7009999752 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35086 +--||  --- 0.646000146866 seconds --- 
+WORKING ON: NCH
+	 ||--+ 35087 +--||  --- 1.92599987984 seconds --- 
+WORKING ON: Nanchang Nancy
+	 ||--+ 35088 +--||  --- 10.1440000534 seconds --- 
+WORKING ON: FNUK
+	 ||--+ 35089 +--||  --- 5.67599987984 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35090 +--||  --- 0.796000003815 seconds --- 
+WORKING ON: Rotfenstermusik
+	 ||--+ 35091 +--||  --- 0.929000139236 seconds --- 
+WORKING ON: 2Sound
+	 ||--+ 35092 +--||  --- 18.9440000057 seconds --- 
+WORKING ON: Nathalie De Borah
+	 ||--+ 35093 +--||  --- 14.3949999809 seconds --- 
+WORKING ON: Sonic Division
+	 ||--+ 35094 +--||  --- 11.5799999237 seconds --- 
+WORKING ON: Everwake
+	 ||--+ 35095 +--||  --- 3.99300003052 seconds --- 
+WORKING ON: Teenage Bad Girl
+	 ||--+ 35096 +--||  --- 21.0169999599 seconds --- 
+WORKING ON: The Spirit
+	 ||--+ 35097 +--||  --- 1.86100006104 seconds --- 
+WORKING ON: Ronnie Play
+	 ||--+ 35098 +--||  --- 10.8659999371 seconds --- 
+WORKING ON: The Kox
+	 ||--+ 35099 +--||  --- 1.60400009155 seconds --- 
+WORKING ON: Alex B.
+	 ||--+ 35100 +--||  --- 24.4900000095 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35101 +--||  --- 0.68700003624 seconds --- 
+WORKING ON: Brendan Morisset
+	 ||--+ 35102 +--||  --- 1.23199987411 seconds --- 
+WORKING ON: Fernando Spiaggia
+	 ||--+ 35103 +--||  --- 2.89700007439 seconds --- 
+WORKING ON: F-Side
+	 ||--+ 35104 +--||  --- 0.789999961853 seconds --- 
+WORKING ON: Flytronix
+	 ||--+ 35105 +--||  --- 13.9279999733 seconds --- 
+WORKING ON: Arduini
+	 ||--+ 35106 +--||  --- 24.6679999828 seconds --- 
+WORKING ON: Badura
+	 ||--+ 35107 +--||  --- 5.85899996758 seconds --- 
+WORKING ON: Topedo Boyz
+	 ||--+ 35108 +--||  --- 1.43200016022 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35109 +--||  --- 0.641000032425 seconds --- 
+WORKING ON: Sven Gosch
+	 ||--+ 35110 +--||  --- 15.7999999523 seconds --- 
+WORKING ON: Manuwuytack
+	 ||--+ 35111 +--||  --- 7.64699983597 seconds --- 
+WORKING ON: Steelzawheelz
+	 ||--+ 35112 +--||  --- 2.23400020599 seconds --- 
+WORKING ON: The Western Allstars
+	 ||--+ 35113 +--||  --- 1.48099994659 seconds --- 
+WORKING ON: Arblaster
+	 ||--+ 35114 +--||  --- 1.16799998283 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35115 +--||  --- 0.658999919891 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35116 +--||  --- 0.671000003815 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35117 +--||  --- 0.638999938965 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35118 +--||  --- 0.654000043869 seconds --- 
+WORKING ON: Andrea Mocce
+	 ||--+ 35119 +--||  --- 5.18799996376 seconds --- 
+WORKING ON: Laan Unlimited
+	 ||--+ 35120 +--||  --- 1.23400020599 seconds --- 
+WORKING ON: Pawel Kobak
+	 ||--+ 35121 +--||  --- 11.0339999199 seconds --- 
+WORKING ON: Sam nn
+	 ||--+ 35122 +--||  --- 1.06500005722 seconds --- 
+WORKING ON: Voodoo Warriors Of Love
+	 ||--+ 35123 +--||  --- 1.13800001144 seconds --- 
+WORKING ON: Serve Chilled
+	 ||--+ 35124 +--||  --- 1.36599993706 seconds --- 
+WORKING ON: Sad World
+	 ||--+ 35125 +--||  --- 1.1289999485 seconds --- 
+WORKING ON: Deep Space Network
+	 ||--+ 35126 +--||  --- 1.1930000782 seconds --- 
+WORKING ON: The Mercenary
+	 ||--+ 35127 +--||  --- 1.13599991798 seconds --- 
+WORKING ON: Cabaret Voltaire
+	 ||--+ 35128 +--||  --- 68.6670000553 seconds --- 
+WORKING ON: Mysteries Of Science
+	 ||--+ 35129 +--||  --- 1.08899998665 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35130 +--||  --- 0.634000062943 seconds --- 
+WORKING ON: Sougon
+	 ||--+ 35131 +--||  --- 1.0 seconds --- 
+WORKING ON: Sun Electric
+	 ||--+ 35132 +--||  --- 18.4649999142 seconds --- 
+WORKING ON: Optica
+	 ||--+ 35133 +--||  --- 1.29200005531 seconds --- 
+WORKING ON: Prototype 909
+	 ||--+ 35134 +--||  --- 1.86299991608 seconds --- 
+WORKING ON: The Drum Club
+	 ||--+ 35135 +--||  --- 2.47300004959 seconds --- 
+WORKING ON: MKM
+	 ||--+ 35136 +--||  --- 7.8220000267 seconds --- 
+WORKING ON: GBX
+	 ||--+ 35137 +--||  --- 5.78199982643 seconds --- 
+WORKING ON: Joyful Noise
+	 ||--+ 35138 +--||  --- 9.41900014877 seconds --- 
+WORKING ON: Electric Soul
+	 ||--+ 35139 +--||  --- 7.91100001335 seconds --- 
+WORKING ON: Miss Chrysalide
+	 ||--+ 35140 +--||  --- 2.25499987602 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35141 +--||  --- 0.634000062943 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35142 +--||  --- 0.648000001907 seconds --- 
+WORKING ON: Kayden
+	 ||--+ 35143 +--||  --- 1.84999990463 seconds --- 
+WORKING ON: A Certain Ratio
+	 ||--+ 35144 +--||  --- 0.791000127792 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35145 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: DJ C-Vaughn
+	 ||--+ 35146 +--||  --- 1.33999991417 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35147 +--||  --- 0.617000102997 seconds --- 
+WORKING ON: Fokus
+	 ||--+ 35148 +--||  --- 8.93299984932 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35149 +--||  --- 0.790000200272 seconds --- 
+WORKING ON: Yolanda
+	 ||--+ 35150 +--||  --- 12.8949999809 seconds --- 
+WORKING ON: KMH
+	 ||--+ 35151 +--||  --- 1.33599996567 seconds --- 
+WORKING ON: Mike &amp; JoDee
+	 ||--+ 35152 +--||  --- 1.0720000267 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35153 +--||  --- 0.618000030518 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35154 +--||  --- 0.621999979019 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35155 +--||  --- 0.707999944687 seconds --- 
+WORKING ON: David Rivas
+	 ||--+ 35156 +--||  --- 1.87999987602 seconds --- 
+WORKING ON: Chaos
+	 ||--+ 35157 +--||  --- 24.0990002155 seconds --- 
+WORKING ON: Cubase Dan
+	 ||--+ 35158 +--||  --- 7.10299992561 seconds --- 
+WORKING ON: Pirahna Head
+	 ||--+ 35159 +--||  --- 2.54999995232 seconds --- 
+WORKING ON: Andre Holland
+	 ||--+ 35160 +--||  --- 2.375 seconds --- 
+WORKING ON: Brett Dancer
+	 ||--+ 35161 +--||  --- 1.34899997711 seconds --- 
+WORKING ON: Black Music
+	 ||--+ 35162 +--||  --- 1.73900008202 seconds --- 
+WORKING ON: Jesse Peterson
+	 ||--+ 35163 +--||  --- 2.93099999428 seconds --- 
+WORKING ON: Tenants Band
+	 ||--+ 35164 +--||  --- 1.0759999752 seconds --- 
+WORKING ON: Phoenecia
+	 ||--+ 35165 +--||  --- 3.96399998665 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35166 +--||  --- 0.644999980927 seconds --- 
+WORKING ON: Cornelia
+	 ||--+ 35167 +--||  --- 5.08400011063 seconds --- 
+WORKING ON: Mario Neugebauer
+	 ||--+ 35168 +--||  --- 1.07899999619 seconds --- 
+WORKING ON: Carmen Tejada
+	 ||--+ 35169 +--||  --- 1.01099991798 seconds --- 
+WORKING ON: Patrick Pulsiinger
+	 ||--+ 35170 +--||  --- 1.04299998283 seconds --- 
+WORKING ON: Unagi Patrol
+	 ||--+ 35171 +--||  --- 1.21700000763 seconds --- 
+WORKING ON: Tenants Storm Highrise
+	 ||--+ 35172 +--||  --- 1.04200005531 seconds --- 
+WORKING ON: If.Then.Else
+	 ||--+ 35173 +--||  --- 1.03999996185 seconds --- 
+WORKING ON: Jermemy Dower
+	 ||--+ 35174 +--||  --- 1.06900000572 seconds --- 
+WORKING ON: Intermission
+	 ||--+ 35175 +--||  --- 1.6740000248 seconds --- 
+WORKING ON: To &amp; Fro
+	 ||--+ 35176 +--||  --- 1.10199999809 seconds --- 
+WORKING ON: Teddy Rok Seven
+	 ||--+ 35177 +--||  --- 1.08399987221 seconds --- 
+WORKING ON: Jermajesty
+	 ||--+ 35178 +--||  --- 1.0720000267 seconds --- 
+WORKING ON: Sound Ritual
+	 ||--+ 35179 +--||  --- 1.13000011444 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35180 +--||  --- 0.631000041962 seconds --- 
+WORKING ON: Sacred
+	 ||--+ 35181 +--||  --- 4.21399998665 seconds --- 
+WORKING ON: Poly
+	 ||--+ 35182 +--||  --- 1.34299993515 seconds --- 
+WORKING ON: The Young Jazz Rebels
+	 ||--+ 35183 +--||  --- 1.0 seconds --- 
+WORKING ON: Black Monk
+	 ||--+ 35184 +--||  --- 2.92899990082 seconds --- 
+WORKING ON: Ras G
+	 ||--+ 35185 +--||  --- 23.8440001011 seconds --- 
+WORKING ON: Kutmah
+	 ||--+ 35186 +--||  --- 10.0069999695 seconds --- 
+WORKING ON: Sach
+	 ||--+ 35187 +--||  --- 6.58299994469 seconds --- 
+WORKING ON: Mannequin Lung
+	 ||--+ 35188 +--||  --- 6.33200001717 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35189 +--||  --- 0.615000009537 seconds --- 
+WORKING ON: Unknown Soldier
+	 ||--+ 35190 +--||  --- 8.83100008965 seconds --- 
+WORKING ON: Mia Doi Todd
+	 ||--+ 35191 +--||  --- 4.60500001907 seconds --- 
+WORKING ON: Model 600
+	 ||--+ 35192 +--||  --- 1.23699998856 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35193 +--||  --- 0.586999893188 seconds --- 
+WORKING ON: Tek Brothers
+	 ||--+ 35194 +--||  --- 1.86500000954 seconds --- 
+WORKING ON: The Aquanaughts
+	 ||--+ 35195 +--||  --- 2.27600002289 seconds --- 
+WORKING ON: Pervtech
+	 ||--+ 35196 +--||  --- 1.16400003433 seconds --- 
+WORKING ON: S2
+	 ||--+ 35197 +--||  --- 3.46099996567 seconds --- 
+WORKING ON: Ray 7
+	 ||--+ 35198 +--||  --- 0.944000005722 seconds --- 
+WORKING ON: Josh Gordon
+	 ||--+ 35199 +--||  --- 4.29500007629 seconds --- 
+WORKING ON: Jason Van Wyk
+	 ||--+ 35200 +--||  --- 38.4379999638 seconds --- 
+WORKING ON: Regueiro
+	 ||--+ 35201 +--||  --- 1.21600008011 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35202 +--||  --- 0.570999860764 seconds --- 
+WORKING ON: Riccocha
+	 ||--+ 35203 +--||  --- 1.93600010872 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35204 +--||  --- 0.59299993515 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35205 +--||  --- 0.601000070572 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35206 +--||  --- 0.592000007629 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35207 +--||  --- 0.59299993515 seconds --- 
+WORKING ON: Elektrons
+	 ||--+ 35208 +--||  --- 1.02200007439 seconds --- 
+WORKING ON: Sportsday Megaphone
+	 ||--+ 35209 +--||  --- 7.35199999809 seconds --- 
+WORKING ON: Evren
+	 ||--+ 35210 +--||  --- 1.00800013542 seconds --- 
+WORKING ON: Cash Candy
+	 ||--+ 35211 +--||  --- 4.11999988556 seconds --- 
+WORKING ON: Ican
+	 ||--+ 35212 +--||  --- 5.29500007629 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35213 +--||  --- 0.601999998093 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35214 +--||  --- 0.585000038147 seconds --- 
+WORKING ON: Remlab
+	 ||--+ 35215 +--||  --- 4.02300000191 seconds --- 
+WORKING ON: Komytea
+	 ||--+ 35216 +--||  --- 20.2860000134 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35217 +--||  --- 0.611999988556 seconds --- 
+WORKING ON: The Martian
+	 ||--+ 35218 +--||  --- 4.18400001526 seconds --- 
+WORKING ON: Infiltrator
+	 ||--+ 35219 +--||  --- 1.37099981308 seconds --- 
+WORKING ON: Nomadico
+	 ||--+ 35220 +--||  --- 3.04700016975 seconds --- 
+WORKING ON: The Deacon
+	 ||--+ 35221 +--||  --- 1.29999995232 seconds --- 
+WORKING ON: 090
+	 ||--+ 35222 +--||  --- 0.981999874115 seconds --- 
+WORKING ON: Mad Mike
+	 ||--+ 35223 +--||  --- 7.06500005722 seconds --- 
+WORKING ON: The Trinity
+	 ||--+ 35224 +--||  --- 1.4509999752 seconds --- 
+WORKING ON: Von Floyd
+	 ||--+ 35225 +--||  --- 1.26300001144 seconds --- 
+WORKING ON: The Illustrator
+	 ||--+ 35226 +--||  --- 1.58999991417 seconds --- 
+WORKING ON: Interstellar Fugitives
+	 ||--+ 35227 +--||  --- 1.33900022507 seconds --- 
+WORKING ON: Underground Resistance
+	 ||--+ 35228 +--||  --- 18.001999855 seconds --- 
+WORKING ON: Positronix
+	 ||--+ 35229 +--||  --- 1.38000011444 seconds --- 
+WORKING ON: Red Planet
+	 ||--+ 35230 +--||  --- 2.11199998856 seconds --- 
+WORKING ON: Thougut Criminal
+	 ||--+ 35231 +--||  --- 0.962999820709 seconds --- 
+WORKING ON: Victor Gonzales
+	 ||--+ 35232 +--||  --- 6.78800010681 seconds --- 
+WORKING ON: Ben Goodwin
+	 ||--+ 35233 +--||  --- 2.08400011063 seconds --- 
+WORKING ON: Reix
+	 ||--+ 35234 +--||  --- 12.5249998569 seconds --- 
+WORKING ON: Ivan J
+	 ||--+ 35235 +--||  --- 1.96300005913 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35236 +--||  --- 0.618999958038 seconds --- 
+WORKING ON: Gary Chandler
+	 ||--+ 35237 +--||  --- 2.2539999485 seconds --- 
+WORKING ON: The Plan
+	 ||--+ 35238 +--||  --- 2.58200001717 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35239 +--||  --- 0.580000162125 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35240 +--||  --- 0.633999824524 seconds --- 
+WORKING ON: DJ Hexx
+	 ||--+ 35241 +--||  --- 3.47600007057 seconds --- 
+WORKING ON: Zhemaitis
+	 ||--+ 35242 +--||  --- 4.82999992371 seconds --- 
+WORKING ON: MST
+	 ||--+ 35243 +--||  --- 3.86899995804 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35244 +--||  --- 0.598000049591 seconds --- 
+WORKING ON: Toolbox
+	 ||--+ 35245 +--||  --- 14.1560001373 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35246 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: Evergray
+	 ||--+ 35247 +--||  --- 1.10899996758 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35248 +--||  --- 0.608999967575 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35249 +--||  --- 0.578999996185 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35250 +--||  --- 0.586999893188 seconds --- 
+WORKING ON: Tech Town
+	 ||--+ 35251 +--||  --- 0.940999984741 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35252 +--||  --- 0.570000171661 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35253 +--||  --- 0.557999849319 seconds --- 
+WORKING ON: X-Calator
+	 ||--+ 35254 +--||  --- 1.45700001717 seconds --- 
+WORKING ON: PiMO
+	 ||--+ 35255 +--||  --- 13.6820001602 seconds --- 
+WORKING ON: D Angelo
+	 ||--+ 35256 +--||  --- 1.90199995041 seconds --- 
+WORKING ON: Noise Up
+	 ||--+ 35257 +--||  --- 0.990999937057 seconds --- 
+WORKING ON: Cosmic Martin
+	 ||--+ 35258 +--||  --- 0.96799993515 seconds --- 
+WORKING ON: X'plorer
+	 ||--+ 35259 +--||  --- 1.10800004005 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35260 +--||  --- 0.582000017166 seconds --- 
+WORKING ON: Valhalla
+	 ||--+ 35261 +--||  --- 1.2990000248 seconds --- 
+WORKING ON: Apollo Brothers
+	 ||--+ 35262 +--||  --- 3.15799999237 seconds --- 
+WORKING ON: Robin Clark
+	 ||--+ 35263 +--||  --- 4.22399997711 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35264 +--||  --- 0.648999929428 seconds --- 
+WORKING ON: Conrad
+	 ||--+ 35265 +--||  --- 4.09600019455 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35266 +--||  --- 0.649999856949 seconds --- 
+WORKING ON: Square Coil
+	 ||--+ 35267 +--||  --- 2.22099995613 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35268 +--||  --- 0.858000040054 seconds --- 
+WORKING ON: Boddhi Satva
+	 ||--+ 35269 +--||  --- 127.771000147 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35270 +--||  --- 0.626999855042 seconds --- 
+WORKING ON: Microfunk
+	 ||--+ 35271 +--||  --- 1.7380001545 seconds --- 
+WORKING ON: George G.
+	 ||--+ 35272 +--||  --- 8.38999986649 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35273 +--||  --- 0.613000154495 seconds --- 
+WORKING ON: The Cure
+	 ||--+ 35274 +--||  --- 5.93499994278 seconds --- 
+WORKING ON: Dr. Chekill
+	 ||--+ 35275 +--||  --- 13.0679998398 seconds --- 
+WORKING ON: Kelly Holiday
+	 ||--+ 35276 +--||  --- 71.8250000477 seconds --- 
+WORKING ON: Kazell
+	 ||--+ 35277 +--||  --- 10.5650000572 seconds --- 
+WORKING ON: Jon Fitz
+	 ||--+ 35278 +--||  --- 27.3050000668 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35279 +--||  --- 0.599999904633 seconds --- 
+WORKING ON: Chevy Escolana
+	 ||--+ 35280 +--||  --- 1.17100000381 seconds --- 
+WORKING ON: Funkin Matt
+	 ||--+ 35281 +--||  --- 51.6100001335 seconds --- 
+WORKING ON: Dan La Funk
+	 ||--+ 35282 +--||  --- 1.10499978065 seconds --- 
+WORKING ON: Arthur Verocai
+	 ||--+ 35283 +--||  --- 2.69100022316 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35284 +--||  --- 0.580999851227 seconds --- 
+WORKING ON: Ennio Styles
+	 ||--+ 35285 +--||  --- 3.55200004578 seconds --- 
+WORKING ON: Difusion
+	 ||--+ 35286 +--||  --- 1.47099995613 seconds --- 
+WORKING ON: Homm
+	 ||--+ 35287 +--||  --- 3.53100013733 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35288 +--||  --- 0.578999996185 seconds --- 
+WORKING ON: Tantra
+	 ||--+ 35289 +--||  --- 3.59299993515 seconds --- 
+WORKING ON: Ferreck Dawn
+	 ||--+ 35290 +--||  --- 28.0750000477 seconds --- 
+WORKING ON: Sorcerer
+	 ||--+ 35291 +--||  --- 9.77999997139 seconds --- 
+WORKING ON: Evil Eye
+	 ||--+ 35292 +--||  --- 1.73099994659 seconds --- 
+WORKING ON: Dungen
+	 ||--+ 35293 +--||  --- 1.92300009727 seconds --- 
+WORKING ON: Juicy Vox
+	 ||--+ 35294 +--||  --- 1.14699983597 seconds --- 
+WORKING ON: Lacroix
+	 ||--+ 35295 +--||  --- 0.797000169754 seconds --- 
+WORKING ON: Inti Cornelius
+	 ||--+ 35296 +--||  --- 1.52799987793 seconds --- 
+WORKING ON: Nil Dynomt
+	 ||--+ 35297 +--||  --- 1.03900003433 seconds --- 
+WORKING ON: Cookie Monsterz
+	 ||--+ 35298 +--||  --- 7.6210000515 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35299 +--||  --- 0.631000041962 seconds --- 
+WORKING ON: Belli
+	 ||--+ 35300 +--||  --- 4.78799986839 seconds --- 
+WORKING ON: Deluca
+	 ||--+ 35301 +--||  --- 2.98600006104 seconds --- 
+WORKING ON: Fricks
+	 ||--+ 35302 +--||  --- 1.71199989319 seconds --- 
+WORKING ON: Latin Concepts
+	 ||--+ 35303 +--||  --- 1.00500011444 seconds --- 
+WORKING ON: Michael Ford
+	 ||--+ 35304 +--||  --- 3.87399983406 seconds --- 
+WORKING ON: Maz
+	 ||--+ 35305 +--||  --- 2.58600020409 seconds --- 
+WORKING ON: Dis
+	 ||--+ 35306 +--||  --- 8.08999991417 seconds --- 
+WORKING ON: Noisefloor
+	 ||--+ 35307 +--||  --- 5.13899993896 seconds --- 
+WORKING ON: 5HTP
+	 ||--+ 35308 +--||  --- 1.48600006104 seconds --- 
+WORKING ON: TJM
+	 ||--+ 35309 +--||  --- 2.14299988747 seconds --- 
+WORKING ON: Aber
+	 ||--+ 35310 +--||  --- 12.8059999943 seconds --- 
+WORKING ON: Jab
+	 ||--+ 35311 +--||  --- 12.0999999046 seconds --- 
+WORKING ON: Rob Cebula
+	 ||--+ 35312 +--||  --- 1.04500007629 seconds --- 
+WORKING ON: K300
+	 ||--+ 35313 +--||  --- 2.41400003433 seconds --- 
+WORKING ON: Dave Watson
+	 ||--+ 35314 +--||  --- 4.28600001335 seconds --- 
+WORKING ON: One Night Stand
+	 ||--+ 35315 +--||  --- 3.11099982262 seconds --- 
+WORKING ON: Cassini
+	 ||--+ 35316 +--||  --- 3.09600019455 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35317 +--||  --- 0.592000007629 seconds --- 
+WORKING ON: Yellow Drill
+	 ||--+ 35318 +--||  --- 0.96599984169 seconds --- 
+WORKING ON: Sandro Monte
+	 ||--+ 35319 +--||  --- 9.57100009918 seconds --- 
+WORKING ON: Night Sessions
+	 ||--+ 35320 +--||  --- 1.4240000248 seconds --- 
+WORKING ON: DJ Soma Cruz
+	 ||--+ 35321 +--||  --- 5.11099982262 seconds --- 
+WORKING ON: Kenshin
+	 ||--+ 35322 +--||  --- 6.74000000954 seconds --- 
+WORKING ON: Crook
+	 ||--+ 35323 +--||  --- 1.8100001812 seconds --- 
+WORKING ON: Kel
+	 ||--+ 35324 +--||  --- 4.88199996948 seconds --- 
+WORKING ON: The Western Conference
+	 ||--+ 35325 +--||  --- 0.991999864578 seconds --- 
+WORKING ON: J. Stalin
+	 ||--+ 35326 +--||  --- 66.4010000229 seconds --- 
+WORKING ON: Jerneye
+	 ||--+ 35327 +--||  --- 0.97000002861 seconds --- 
+WORKING ON: Dani Deahl
+	 ||--+ 35328 +--||  --- 9.12700009346 seconds --- 
+WORKING ON: Tres Paper
+	 ||--+ 35329 +--||  --- 1.02099990845 seconds --- 
+WORKING ON: Gaita
+	 ||--+ 35330 +--||  --- 1.15199995041 seconds --- 
+WORKING ON: Motivate
+	 ||--+ 35331 +--||  --- 1.14400005341 seconds --- 
+WORKING ON: AC
+	 ||--+ 35332 +--||  --- 18.6830000877 seconds --- 
+WORKING ON: The Champions
+	 ||--+ 35333 +--||  --- 1.79999995232 seconds --- 
+WORKING ON: Bay Boys
+	 ||--+ 35334 +--||  --- 0.976000070572 seconds --- 
+WORKING ON: Tony Vic
+	 ||--+ 35335 +--||  --- 0.96799993515 seconds --- 
+WORKING ON: Mandroid
+	 ||--+ 35336 +--||  --- 13.2999999523 seconds --- 
+WORKING ON: Battle Loc
+	 ||--+ 35337 +--||  --- 1.0490000248 seconds --- 
+WORKING ON: Destro
+	 ||--+ 35338 +--||  --- 13.2269999981 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35339 +--||  --- 0.730999946594 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35340 +--||  --- 0.59500002861 seconds --- 
+WORKING ON: Slowe Burna
+	 ||--+ 35341 +--||  --- 1.06200003624 seconds --- 
+WORKING ON: Cassie
+	 ||--+ 35342 +--||  --- 2.51600003242 seconds --- 
+WORKING ON: Snackpack
+	 ||--+ 35343 +--||  --- 1.04600000381 seconds --- 
+WORKING ON: Chase Cheese
+	 ||--+ 35344 +--||  --- 0.97000002861 seconds --- 
+WORKING ON: DJ Angola
+	 ||--+ 35345 +--||  --- 4.37299990654 seconds --- 
+WORKING ON: Mike Cortez
+	 ||--+ 35346 +--||  --- 3.9430000782 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35347 +--||  --- 0.557999849319 seconds --- 
+WORKING ON: Andrea Oliva
+	 ||--+ 35348 +--||  --- 33.6920001507 seconds --- 
+WORKING ON: Boy Lamoen
+	 ||--+ 35349 +--||  --- 1.11299991608 seconds --- 
+WORKING ON: Restless &amp; Volatile
+	 ||--+ 35350 +--||  --- 1.16700005531 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35351 +--||  --- 0.602999925613 seconds --- 
+WORKING ON: Ever Elecma
+	 ||--+ 35352 +--||  --- 1.54100012779 seconds --- 
+WORKING ON: Damian Otero
+	 ||--+ 35353 +--||  --- 1.00699996948 seconds --- 
+WORKING ON: Roberto Mansilla
+	 ||--+ 35354 +--||  --- 1.81299996376 seconds --- 
+WORKING ON: Custom Blue
+	 ||--+ 35355 +--||  --- 1.30599999428 seconds --- 
+WORKING ON: Zulu The King
+	 ||--+ 35356 +--||  --- 3.61800003052 seconds --- 
+WORKING ON: Teph
+	 ||--+ 35357 +--||  --- 1.68799996376 seconds --- 
+WORKING ON: Da Jury
+	 ||--+ 35358 +--||  --- 1.03800010681 seconds --- 
+WORKING ON: Dange
+	 ||--+ 35359 +--||  --- 1.33499979973 seconds --- 
+WORKING ON: Shots
+	 ||--+ 35360 +--||  --- 6.28700017929 seconds --- 
+WORKING ON: The Franchize
+	 ||--+ 35361 +--||  --- 0.988999843597 seconds --- 
+WORKING ON: King
+	 ||--+ 35362 +--||  --- 23.2690000534 seconds --- 
+WORKING ON: Swev
+	 ||--+ 35363 +--||  --- 0.995000123978 seconds --- 
+WORKING ON: Mac Benz
+	 ||--+ 35364 +--||  --- 3.26899981499 seconds --- 
+WORKING ON: J-Nash
+	 ||--+ 35365 +--||  --- 1.40200018883 seconds --- 
+WORKING ON: Tac
+	 ||--+ 35366 +--||  --- 2.15199995041 seconds --- 
+WORKING ON: J-Benz
+	 ||--+ 35367 +--||  --- 1.07399988174 seconds --- 
+WORKING ON: Johnie D.
+	 ||--+ 35368 +--||  --- 1.03800010681 seconds --- 
+WORKING ON: Soulja Boyz
+	 ||--+ 35369 +--||  --- 3.53299999237 seconds --- 
+WORKING ON: Precise
+	 ||--+ 35370 +--||  --- 3.79699993134 seconds --- 
+WORKING ON: Quross
+	 ||--+ 35371 +--||  --- 0.966000080109 seconds --- 
+WORKING ON: Dirty Red
+	 ||--+ 35372 +--||  --- 1.47399997711 seconds --- 
+WORKING ON: Lavelle
+	 ||--+ 35373 +--||  --- 2.29699993134 seconds --- 
+WORKING ON: Mo-Tastic
+	 ||--+ 35374 +--||  --- 0.990000009537 seconds --- 
+WORKING ON: Keke
+	 ||--+ 35375 +--||  --- 0.975000143051 seconds --- 
+WORKING ON: O.B
+	 ||--+ 35376 +--||  --- 38.0249998569 seconds --- 
+WORKING ON: Lil Coner
+	 ||--+ 35377 +--||  --- 6.00500011444 seconds --- 
+WORKING ON: Young Dalley
+	 ||--+ 35378 +--||  --- 1.20799994469 seconds --- 
+WORKING ON: Kriminal
+	 ||--+ 35379 +--||  --- 4.03799986839 seconds --- 
+WORKING ON: Keek Dogg
+	 ||--+ 35380 +--||  --- 2.82000017166 seconds --- 
+WORKING ON: Woodie
+	 ||--+ 35381 +--||  --- 2.27099990845 seconds --- 
+WORKING ON: C Locs
+	 ||--+ 35382 +--||  --- 1.04200005531 seconds --- 
+WORKING ON: Ace Of Spits
+	 ||--+ 35383 +--||  --- 1.94000005722 seconds --- 
+WORKING ON: Boogie
+	 ||--+ 35384 +--||  --- 16.5519998074 seconds --- 
+WORKING ON: Lil Evil
+	 ||--+ 35385 +--||  --- 1.25500011444 seconds --- 
+WORKING ON: Darkroom Familia
+	 ||--+ 35386 +--||  --- 65.8469998837 seconds --- 
+WORKING ON: Satan
+	 ||--+ 35387 +--||  --- 11.123000145 seconds --- 
+WORKING ON: Raskal De Decoto
+	 ||--+ 35388 +--||  --- 1.14899992943 seconds --- 
+WORKING ON: Discopunx
+	 ||--+ 35389 +--||  --- 1.12800002098 seconds --- 
+WORKING ON: Choo Ables
+	 ||--+ 35390 +--||  --- 2.15199995041 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35391 +--||  --- 0.617000102997 seconds --- 
+WORKING ON: Mode Hookers
+	 ||--+ 35392 +--||  --- 0.944999933243 seconds --- 
+WORKING ON: Gener8
+	 ||--+ 35393 +--||  --- 1.56699991226 seconds --- 
+WORKING ON: Edgar V
+	 ||--+ 35394 +--||  --- 6.30200004578 seconds --- 
+WORKING ON: Tony Gomez
+	 ||--+ 35395 +--||  --- 30.4570000172 seconds --- 
+WORKING ON: Legnanesku Project
+	 ||--+ 35396 +--||  --- 1.0720000267 seconds --- 
+WORKING ON: Mike Vale
+	 ||--+ 35397 +--||  --- 47.9440000057 seconds --- 
+WORKING ON: Tim Urbanya
+	 ||--+ 35398 +--||  --- 1.18000006676 seconds --- 
+WORKING ON: Vibe
+	 ||--+ 35399 +--||  --- 3.06999993324 seconds --- 
+WORKING ON: Delage
+	 ||--+ 35400 +--||  --- 2.04999995232 seconds --- 
+WORKING ON: The Uptown Felaz
+	 ||--+ 35401 +--||  --- 3.42100000381 seconds --- 
+WORKING ON: Landegaard
+	 ||--+ 35402 +--||  --- 1.32000017166 seconds --- 
+WORKING ON: Sascha Weisz
+	 ||--+ 35403 +--||  --- 1.06199979782 seconds --- 
+WORKING ON: Sensecity
+	 ||--+ 35404 +--||  --- 1.40400004387 seconds --- 
+WORKING ON: Smigg Dirtee
+	 ||--+ 35405 +--||  --- 103.921000004 seconds --- 
+WORKING ON: Sdeep
+	 ||--+ 35406 +--||  --- 1.16499996185 seconds --- 
+WORKING ON: I-Rocc
+	 ||--+ 35407 +--||  --- 51.3259999752 seconds --- 
+WORKING ON: A-Wax
+	 ||--+ 35408 +--||  --- 69.117000103 seconds --- 
+WORKING ON: CCG
+	 ||--+ 35409 +--||  --- 1.12700009346 seconds --- 
+WORKING ON: Rick Moss
+	 ||--+ 35410 +--||  --- 1.27999997139 seconds --- 
+WORKING ON: Hollow Tip
+	 ||--+ 35411 +--||  --- 2.55900001526 seconds --- 
+WORKING ON: 80 West
+	 ||--+ 35412 +--||  --- 0.970999956131 seconds --- 
+WORKING ON: Nightshift
+	 ||--+ 35413 +--||  --- 14.9449999332 seconds --- 
+WORKING ON: Taydatay
+	 ||--+ 35414 +--||  --- 1.76399993896 seconds --- 
+WORKING ON: Nujazzsoul
+	 ||--+ 35415 +--||  --- 1.23400020599 seconds --- 
+WORKING ON: Young Hogg
+	 ||--+ 35416 +--||  --- 1.65099978447 seconds --- 
+WORKING ON: Flip Loc
+	 ||--+ 35417 +--||  --- 1.65300011635 seconds --- 
+WORKING ON: Boog (Aka Dirteeboy Jr.)
+	 ||--+ 35418 +--||  --- 1.14299988747 seconds --- 
+WORKING ON: Mary Jane Junkeez
+	 ||--+ 35419 +--||  --- 3.89300012589 seconds --- 
+WORKING ON: Jack D
+	 ||--+ 35420 +--||  --- 6.85899996758 seconds --- 
+WORKING ON: The A-Team
+	 ||--+ 35421 +--||  --- 1.69400000572 seconds --- 
+WORKING ON: Daz Dillinger
+	 ||--+ 35422 +--||  --- 47.8529999256 seconds --- 
+WORKING ON: DJ Kay Slay
+	 ||--+ 35423 +--||  --- 11.6410000324 seconds --- 
+WORKING ON: Noose
+	 ||--+ 35424 +--||  --- 2.64100003242 seconds --- 
+WORKING ON: Coleone
+	 ||--+ 35425 +--||  --- 1.09999990463 seconds --- 
+WORKING ON: Michael Baumann
+	 ||--+ 35426 +--||  --- 1.75800013542 seconds --- 
+WORKING ON: Sound Of Eva
+	 ||--+ 35427 +--||  --- 1.03999996185 seconds --- 
+WORKING ON: Dago &amp; Cortes
+	 ||--+ 35428 +--||  --- 1.1289999485 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35429 +--||  --- 0.633000135422 seconds --- 
+WORKING ON: Steven Perri
+	 ||--+ 35430 +--||  --- 2.52099990845 seconds --- 
+WORKING ON: Zamaun
+	 ||--+ 35431 +--||  --- 2.29500007629 seconds --- 
+WORKING ON: House Arrest
+	 ||--+ 35432 +--||  --- 1.97499990463 seconds --- 
+WORKING ON: DJ Soch
+	 ||--+ 35433 +--||  --- 6.72099995613 seconds --- 
+WORKING ON: Maffei
+	 ||--+ 35434 +--||  --- 1.94600009918 seconds --- 
+WORKING ON: ILL Omen
+	 ||--+ 35435 +--||  --- 1.56200003624 seconds --- 
+WORKING ON: CT Lab
+	 ||--+ 35436 +--||  --- 1.51300001144 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35437 +--||  --- 0.578999996185 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35438 +--||  --- 0.608000040054 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35439 +--||  --- 0.618999958038 seconds --- 
+WORKING ON: Money B
+	 ||--+ 35440 +--||  --- 2.52600002289 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35441 +--||  --- 0.615999937057 seconds --- 
+WORKING ON: India
+	 ||--+ 35442 +--||  --- 23.7209999561 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35443 +--||  --- 0.676000118256 seconds --- 
+WORKING ON: Row Z
+	 ||--+ 35444 +--||  --- 0.976999998093 seconds --- 
+WORKING ON: Ellis
+	 ||--+ 35445 +--||  --- 5.64099979401 seconds --- 
+WORKING ON: Sight
+	 ||--+ 35446 +--||  --- 2.84700012207 seconds --- 
+WORKING ON: Alejandro Loaiza
+	 ||--+ 35447 +--||  --- 0.993000030518 seconds --- 
+WORKING ON: Gabriel Robella
+	 ||--+ 35448 +--||  --- 24.1169998646 seconds --- 
+WORKING ON: Pette Vaydex
+	 ||--+ 35449 +--||  --- 4.82100009918 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35450 +--||  --- 0.674999952316 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35451 +--||  --- 0.572999954224 seconds --- 
+WORKING ON: Fabulous Three
+	 ||--+ 35452 +--||  --- 1.15600013733 seconds --- 
+WORKING ON: Dataworx
+	 ||--+ 35453 +--||  --- 29.4619998932 seconds --- 
+WORKING ON: Bass Driver
+	 ||--+ 35454 +--||  --- 1.02400016785 seconds --- 
+WORKING ON: Ech Heftig!
+	 ||--+ 35455 +--||  --- 1.00199985504 seconds --- 
+WORKING ON: Phony Pinch
+	 ||--+ 35456 +--||  --- 4.41400003433 seconds --- 
+WORKING ON: Peedge
+	 ||--+ 35457 +--||  --- 4.93400001526 seconds --- 
+WORKING ON: Katya Tyukova
+	 ||--+ 35458 +--||  --- 0.996999979019 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35459 +--||  --- 0.596999883652 seconds --- 
+WORKING ON: Woodpeckers
+	 ||--+ 35460 +--||  --- 1.12900018692 seconds --- 
+WORKING ON: Kai Randy Michel
+	 ||--+ 35461 +--||  --- 64.0009999275 seconds --- 
+WORKING ON: Dreg
+	 ||--+ 35462 +--||  --- 1.16000008583 seconds --- 
+WORKING ON: Massive Impulse
+	 ||--+ 35463 +--||  --- 2.03799986839 seconds --- 
+WORKING ON: Wir Kinder Vom Omen Klo
+	 ||--+ 35464 +--||  --- 2.71099996567 seconds --- 
+WORKING ON: Raimond Ford
+	 ||--+ 35465 +--||  --- 2.95800018311 seconds --- 
+WORKING ON: G5
+	 ||--+ 35466 +--||  --- 1.06199979782 seconds --- 
+WORKING ON: Jason Little
+	 ||--+ 35467 +--||  --- 77.492000103 seconds --- 
+WORKING ON: Tobias Lüke
+	 ||--+ 35468 +--||  --- 2.51799988747 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35469 +--||  --- 0.654000043869 seconds --- 
+WORKING ON: Casual Violence
+	 ||--+ 35470 +--||  --- 8.73100018501 seconds --- 
+WORKING ON: Boyconstrictor
+	 ||--+ 35471 +--||  --- 1.90099978447 seconds --- 
+WORKING ON: Dorian Hunter
+	 ||--+ 35472 +--||  --- 6.84300017357 seconds --- 
+WORKING ON: Bentobox
+	 ||--+ 35473 +--||  --- 2.99699997902 seconds --- 
+WORKING ON: DJ Kam
+	 ||--+ 35474 +--||  --- 52.0650000572 seconds --- 
+WORKING ON: David Burton
+	 ||--+ 35475 +--||  --- 1.5119998455 seconds --- 
+WORKING ON: Libe
+	 ||--+ 35476 +--||  --- 30.6579999924 seconds --- 
+WORKING ON: Kenny D.
+	 ||--+ 35477 +--||  --- 5.46300005913 seconds --- 
+WORKING ON: Sergio Marques
+	 ||--+ 35478 +--||  --- 1.70899987221 seconds --- 
+WORKING ON: The Phoenix
+	 ||--+ 35479 +--||  --- 2.89400005341 seconds --- 
+WORKING ON: Voom Voom
+	 ||--+ 35480 +--||  --- 8.51900005341 seconds --- 
+WORKING ON: Toni D.
+	 ||--+ 35481 +--||  --- 11.9349999428 seconds --- 
+WORKING ON: Original Lab
+	 ||--+ 35482 +--||  --- 1.83599996567 seconds --- 
+WORKING ON: Dirty 9
+	 ||--+ 35483 +--||  --- 1.55000019073 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35484 +--||  --- 0.648999929428 seconds --- 
+WORKING ON: DJ Speedy
+	 ||--+ 35485 +--||  --- 7.14899992943 seconds --- 
+WORKING ON: Ayk
+	 ||--+ 35486 +--||  --- 4.25800013542 seconds --- 
+WORKING ON: Bjon Kaarud
+	 ||--+ 35487 +--||  --- 0.838999986649 seconds --- 
+WORKING ON: Spirit &amp; Dave
+	 ||--+ 35488 +--||  --- 3.40499997139 seconds --- 
+WORKING ON: Leuviah
+	 ||--+ 35489 +--||  --- 1.4359998703 seconds --- 
+WORKING ON: The Sons Of Silence
+	 ||--+ 35490 +--||  --- 7.92100000381 seconds --- 
+WORKING ON: Toby Izui
+	 ||--+ 35491 +--||  --- 3.28400015831 seconds --- 
+WORKING ON: Sola
+	 ||--+ 35492 +--||  --- 12.1840000153 seconds --- 
+WORKING ON: Mauro Pierotti
+	 ||--+ 35493 +--||  --- 26.6529998779 seconds --- 
+WORKING ON: Airbag
+	 ||--+ 35494 +--||  --- 6.98399996758 seconds --- 
+WORKING ON: Bit Crushers
+	 ||--+ 35495 +--||  --- 18.2230000496 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35496 +--||  --- 0.878000020981 seconds --- 
+WORKING ON: Grigory &amp; Anthony
+	 ||--+ 35497 +--||  --- 9.34400010109 seconds --- 
+WORKING ON: Lokitas
+	 ||--+ 35498 +--||  --- 11.0789999962 seconds --- 
+WORKING ON: iFrolov
+	 ||--+ 35499 +--||  --- 5.53499984741 seconds --- 
+WORKING ON: Second Skin
+	 ||--+ 35500 +--||  --- 14.4769999981 seconds --- 
+WORKING ON: Kevin Velez
+	 ||--+ 35501 +--||  --- 1.57500004768 seconds --- 
+WORKING ON: Kuusumun Profeetta
+	 ||--+ 35502 +--||  --- 1.22000002861 seconds --- 
+WORKING ON: Soular Sound
+	 ||--+ 35503 +--||  --- 1.81599998474 seconds --- 
+WORKING ON: Nils Krogh
+	 ||--+ 35504 +--||  --- 3.59699988365 seconds --- 
+WORKING ON: The Five Corners Quintet
+	 ||--+ 35505 +--||  --- 2.2380001545 seconds --- 
+WORKING ON: Iony
+	 ||--+ 35506 +--||  --- 2.39499998093 seconds --- 
+WORKING ON: Wibutee
+	 ||--+ 35507 +--||  --- 2.06999993324 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35508 +--||  --- 0.650000095367 seconds --- 
+WORKING ON: Do Right
+	 ||--+ 35509 +--||  --- 1.31699991226 seconds --- 
+WORKING ON: Raw Jazz
+	 ||--+ 35510 +--||  --- 1.44200015068 seconds --- 
+WORKING ON: John Daly
+	 ||--+ 35511 +--||  --- 56.6999998093 seconds --- 
+WORKING ON: Datapusher
+	 ||--+ 35512 +--||  --- 2.33400011063 seconds --- 
+WORKING ON: Modulus
+	 ||--+ 35513 +--||  --- 3.5 seconds --- 
+WORKING ON: Jol
+	 ||--+ 35514 +--||  --- 2.17199993134 seconds --- 
+WORKING ON: Stromtrooperz
+	 ||--+ 35515 +--||  --- 2.38499999046 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35516 +--||  --- 0.693000078201 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35517 +--||  --- 0.704999923706 seconds --- 
+WORKING ON: Trancephorma
+	 ||--+ 35518 +--||  --- 5.74699997902 seconds --- 
+WORKING ON: Anon
+	 ||--+ 35519 +--||  --- 10.117000103 seconds --- 
+WORKING ON: RD
+	 ||--+ 35520 +--||  --- 4.91299986839 seconds --- 
+WORKING ON: Cereal Killaz
+	 ||--+ 35521 +--||  --- 7.06900000572 seconds --- 
+WORKING ON: Ben Milstein
+	 ||--+ 35522 +--||  --- 1.4880001545 seconds --- 
+WORKING ON: Logreybeam
+	 ||--+ 35523 +--||  --- 6.15199995041 seconds --- 
+WORKING ON: Gel-Sol
+	 ||--+ 35524 +--||  --- 8.27399992943 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35525 +--||  --- 0.72200012207 seconds --- 
+WORKING ON: Animatek
+	 ||--+ 35526 +--||  --- 4.11999988556 seconds --- 
+WORKING ON: Intelec
+	 ||--+ 35527 +--||  --- 1.64400005341 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35528 +--||  --- 0.665999889374 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35529 +--||  --- 0.698000192642 seconds --- 
+WORKING ON: Benjamin Hayes
+	 ||--+ 35530 +--||  --- 1.21599984169 seconds --- 
+WORKING ON: Tennishero
+	 ||--+ 35531 +--||  --- 4.26900005341 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35532 +--||  --- 0.660000085831 seconds --- 
+WORKING ON: Jay Dee
+	 ||--+ 35533 +--||  --- 20.3509998322 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35534 +--||  --- 0.728000164032 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35535 +--||  --- 0.654000043869 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35536 +--||  --- 0.660999774933 seconds --- 
+WORKING ON: Andre
+	 ||--+ 35537 +--||  --- 29.1349999905 seconds --- 
+WORKING ON: Audio Buzzz
+	 ||--+ 35538 +--||  --- 3.06100010872 seconds --- 
+WORKING ON: The Similou
+	 ||--+ 35539 +--||  --- 5.60400009155 seconds --- 
+WORKING ON: DJ Weirdo
+	 ||--+ 35540 +--||  --- 6.08699989319 seconds --- 
+WORKING ON: DJ Sim
+	 ||--+ 35541 +--||  --- 6.35400009155 seconds --- 
+WORKING ON: Micado
+	 ||--+ 35542 +--||  --- 1.14399981499 seconds --- 
+WORKING ON: The Beatsquad
+	 ||--+ 35543 +--||  --- 1.44600009918 seconds --- 
+WORKING ON: DJ Waxweazle
+	 ||--+ 35544 +--||  --- 4.53500008583 seconds --- 
+WORKING ON: Critical Mass
+	 ||--+ 35545 +--||  --- 16.3259999752 seconds --- 
+WORKING ON: Bertocucci Feranzano
+	 ||--+ 35546 +--||  --- 3.74499988556 seconds --- 
+WORKING ON: DJ Friendly
+	 ||--+ 35547 +--||  --- 2.45000004768 seconds --- 
+WORKING ON: Cixx
+	 ||--+ 35548 +--||  --- 1.77999997139 seconds --- 
+WORKING ON: Ender
+	 ||--+ 35549 +--||  --- 7.78699994087 seconds --- 
+WORKING ON: Mindtrust
+	 ||--+ 35550 +--||  --- 1.23500013351 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35551 +--||  --- 0.921999931335 seconds --- 
+WORKING ON: Noizer
+	 ||--+ 35552 +--||  --- 2.24000000954 seconds --- 
+WORKING ON: Scarface
+	 ||--+ 35553 +--||  --- 102.035000086 seconds --- 
+WORKING ON: 4 Tune Fairytales
+	 ||--+ 35554 +--||  --- 1.87299990654 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35555 +--||  --- 0.755000114441 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35556 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35557 +--||  --- 0.638999938965 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35558 +--||  --- 0.619999885559 seconds --- 
+WORKING ON: Matt Coogan
+	 ||--+ 35559 +--||  --- 1.16799998283 seconds --- 
+WORKING ON: Earball
+	 ||--+ 35560 +--||  --- 1.09900021553 seconds --- 
+WORKING ON: POM
+	 ||--+ 35561 +--||  --- 2.69499993324 seconds --- 
+WORKING ON: Lazyboyz
+	 ||--+ 35562 +--||  --- 1.17000007629 seconds --- 
+WORKING ON: The Kinetic Kid
+	 ||--+ 35563 +--||  --- 1.29799985886 seconds --- 
+WORKING ON: Will Sugar
+	 ||--+ 35564 +--||  --- 1.11800003052 seconds --- 
+WORKING ON: Wonderland
+	 ||--+ 35565 +--||  --- 4.58400011063 seconds --- 
+WORKING ON: DJ Skorp
+	 ||--+ 35566 +--||  --- 1.1139998436 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35567 +--||  --- 0.633000135422 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35568 +--||  --- 0.625 seconds --- 
+WORKING ON: Cellblock X
+	 ||--+ 35569 +--||  --- 6.45599985123 seconds --- 
+WORKING ON: Papa Z Trio
+	 ||--+ 35570 +--||  --- 1.65499997139 seconds --- 
+WORKING ON: UES
+	 ||--+ 35571 +--||  --- 22.9330000877 seconds --- 
+WORKING ON: The BetaMax Crew
+	 ||--+ 35572 +--||  --- 1.78699994087 seconds --- 
+WORKING ON: Fredrik Stark
+	 ||--+ 35573 +--||  --- 8.3029999733 seconds --- 
+WORKING ON: Radical Motion
+	 ||--+ 35574 +--||  --- 1.40799999237 seconds --- 
+WORKING ON: Marc Neyen
+	 ||--+ 35575 +--||  --- 9.96600008011 seconds --- 
+WORKING ON: T.O.P.D.R.O.P.
+	 ||--+ 35576 +--||  --- 1.1400001049 seconds --- 
+WORKING ON: Rob Gee
+	 ||--+ 35577 +--||  --- 13.5769999027 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35578 +--||  --- 0.68799996376 seconds --- 
+WORKING ON: Charly Lownoise
+	 ||--+ 35579 +--||  --- 4.53500008583 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35580 +--||  --- 0.667999982834 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35581 +--||  --- 0.68700003624 seconds --- 
+WORKING ON: Franke Estevez
+	 ||--+ 35582 +--||  --- 4.61199998856 seconds --- 
+WORKING ON: Dane Wolf
+	 ||--+ 35583 +--||  --- 1.33999991417 seconds --- 
+WORKING ON: Boombastic
+	 ||--+ 35584 +--||  --- 1.77900004387 seconds --- 
+WORKING ON: Brennan Heart
+	 ||--+ 35585 +--||  --- 64.0880000591 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35586 +--||  --- 0.661999940872 seconds --- 
+WORKING ON: Nymph
+	 ||--+ 35587 +--||  --- 4.5569999218 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35588 +--||  --- 0.657999992371 seconds --- 
+WORKING ON: Undergo
+	 ||--+ 35589 +--||  --- 1.3180000782 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35590 +--||  --- 0.62700009346 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35591 +--||  --- 0.618999958038 seconds --- 
+WORKING ON: Beezerk
+	 ||--+ 35592 +--||  --- 1.37800002098 seconds --- 
+WORKING ON: Tennis Hero
+	 ||--+ 35593 +--||  --- 1.21000003815 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35594 +--||  --- 0.651999950409 seconds --- 
+WORKING ON: Sector
+	 ||--+ 35595 +--||  --- 5.67899990082 seconds --- 
+WORKING ON: Kid Gusto
+	 ||--+ 35596 +--||  --- 2.83899998665 seconds --- 
+WORKING ON: Quentin's Ladder
+	 ||--+ 35597 +--||  --- 5.12199997902 seconds --- 
+WORKING ON: Warpath
+	 ||--+ 35598 +--||  --- 3.21700000763 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35599 +--||  --- 0.661000013351 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35600 +--||  --- 0.638999938965 seconds --- 
+WORKING ON: Brontosaurus
+	 ||--+ 35601 +--||  --- 3.26800012589 seconds --- 
+WORKING ON: Fonka Delix
+	 ||--+ 35602 +--||  --- 2.79099988937 seconds --- 
+WORKING ON: Cubetronix
+	 ||--+ 35603 +--||  --- 7.22500014305 seconds --- 
+WORKING ON: De Stijl
+	 ||--+ 35604 +--||  --- 1.73099994659 seconds --- 
+WORKING ON: Biobeats
+	 ||--+ 35605 +--||  --- 1.87700009346 seconds --- 
+WORKING ON: Mr. Bert
+	 ||--+ 35606 +--||  --- 5.66499996185 seconds --- 
+WORKING ON: Future Funk
+	 ||--+ 35607 +--||  --- 16.5729999542 seconds --- 
+WORKING ON: Nu Mood
+	 ||--+ 35608 +--||  --- 1.38700008392 seconds --- 
+WORKING ON: Christian Phoenix
+	 ||--+ 35609 +--||  --- 1.57099986076 seconds --- 
+WORKING ON: Dan Mckie
+	 ||--+ 35610 +--||  --- 99.617000103 seconds --- 
+WORKING ON: Wednesday Rolls
+	 ||--+ 35611 +--||  --- 1.78200006485 seconds --- 
+WORKING ON: Stephen
+	 ||--+ 35612 +--||  --- 3.74699997902 seconds --- 
+WORKING ON: Raw Traderz
+	 ||--+ 35613 +--||  --- 1.06399989128 seconds --- 
+WORKING ON: The Gillians
+	 ||--+ 35614 +--||  --- 1.48099994659 seconds --- 
+WORKING ON: Zero
+	 ||--+ 35615 +--||  --- 15.6579999924 seconds --- 
+WORKING ON: Meindl
+	 ||--+ 35616 +--||  --- 2.31700015068 seconds --- 
+WORKING ON: Dermaptera
+	 ||--+ 35617 +--||  --- 6.20799994469 seconds --- 
+WORKING ON: Speedy Santana
+	 ||--+ 35618 +--||  --- 1.59899997711 seconds --- 
+WORKING ON: The Marksmen
+	 ||--+ 35619 +--||  --- 1.02699995041 seconds --- 
+WORKING ON: Puoblon
+	 ||--+ 35620 +--||  --- 1.26800012589 seconds --- 
+WORKING ON: Hertog
+	 ||--+ 35621 +--||  --- 1.41299986839 seconds --- 
+WORKING ON: DJ VinnieV
+	 ||--+ 35622 +--||  --- 1.05499982834 seconds --- 
+WORKING ON: DJ Webster
+	 ||--+ 35623 +--||  --- 1.1130001545 seconds --- 
+WORKING ON: Bumcello
+	 ||--+ 35624 +--||  --- 1.06999993324 seconds --- 
+WORKING ON: Mat Zo
+	 ||--+ 35625 +--||  --- 71.1240000725 seconds --- 
+WORKING ON: Freesoul Sessions
+	 ||--+ 35626 +--||  --- 3.375 seconds --- 
+WORKING ON: Necessary Response
+	 ||--+ 35627 +--||  --- 1.1899998188 seconds --- 
+WORKING ON: ElektRoman
+	 ||--+ 35628 +--||  --- 0.904000043869 seconds --- 
+WORKING ON: Daniel Benavente
+	 ||--+ 35629 +--||  --- 1.05400013924 seconds --- 
+WORKING ON: Hardbass
+	 ||--+ 35630 +--||  --- 1.91599988937 seconds --- 
+WORKING ON: Recorder
+	 ||--+ 35631 +--||  --- 2.12199997902 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35632 +--||  --- 0.713999986649 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35633 +--||  --- 0.657999992371 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35634 +--||  --- 0.649000167847 seconds --- 
+WORKING ON: Axel Bartsch
+	 ||--+ 35635 +--||  --- 27.1759998798 seconds --- 
+WORKING ON: Deep Chill
+	 ||--+ 35636 +--||  --- 7.07699990273 seconds --- 
+WORKING ON: Musixx
+	 ||--+ 35637 +--||  --- 2.46000003815 seconds --- 
+WORKING ON: Urzupuk
+	 ||--+ 35638 +--||  --- 4.71200013161 seconds --- 
+WORKING ON: Scorpion
+	 ||--+ 35639 +--||  --- 4.53399991989 seconds --- 
+WORKING ON: Music Of Life
+	 ||--+ 35640 +--||  --- 2.53399991989 seconds --- 
+WORKING ON: Chris Bailey
+	 ||--+ 35641 +--||  --- 5.49699997902 seconds --- 
+WORKING ON: VST
+	 ||--+ 35642 +--||  --- 9.4390001297 seconds --- 
+WORKING ON: Tres Demented
+	 ||--+ 35643 +--||  --- 2.69899988174 seconds --- 
+WORKING ON: Electricwest
+	 ||--+ 35644 +--||  --- 4.34700012207 seconds --- 
+WORKING ON: Naomi Daniel
+	 ||--+ 35645 +--||  --- 2.76999998093 seconds --- 
+WORKING ON: The Telephones
+	 ||--+ 35646 +--||  --- 1.62800002098 seconds --- 
+WORKING ON: BFC
+	 ||--+ 35647 +--||  --- 2.85400009155 seconds --- 
+WORKING ON: T.Y.W.O.
+	 ||--+ 35648 +--||  --- 2.0689997673 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35649 +--||  --- 0.614000082016 seconds --- 
+WORKING ON: Nostalgic Dance Orchestra
+	 ||--+ 35650 +--||  --- 2.24399995804 seconds --- 
+WORKING ON: Sunlight Project
+	 ||--+ 35651 +--||  --- 87.8910000324 seconds --- 
+WORKING ON: Absance
+	 ||--+ 35652 +--||  --- 4.19900012016 seconds --- 
+WORKING ON: Nick Glamour
+	 ||--+ 35653 +--||  --- 1.70299983025 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35654 +--||  --- 0.703999996185 seconds --- 
+WORKING ON: 3 Bag Brew
+	 ||--+ 35655 +--||  --- 1.36100006104 seconds --- 
+WORKING ON: Smith &amp; Woodhouse
+	 ||--+ 35656 +--||  --- 1.20499992371 seconds --- 
+WORKING ON: The Wizards
+	 ||--+ 35657 +--||  --- 1.23700022697 seconds --- 
+WORKING ON: Demus
+	 ||--+ 35658 +--||  --- 2.10499978065 seconds --- 
+WORKING ON: Cufic Poets
+	 ||--+ 35659 +--||  --- 1.12600016594 seconds --- 
+WORKING ON: Darcson
+	 ||--+ 35660 +--||  --- 1.05499982834 seconds --- 
+WORKING ON: Spaceways
+	 ||--+ 35661 +--||  --- 3.92800021172 seconds --- 
+WORKING ON: Goo
+	 ||--+ 35662 +--||  --- 5.21599984169 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35663 +--||  --- 0.788000106812 seconds --- 
+WORKING ON: Marasma
+	 ||--+ 35664 +--||  --- 3.21499991417 seconds --- 
+WORKING ON: Doris Days
+	 ||--+ 35665 +--||  --- 2.94799995422 seconds --- 
+WORKING ON: Zero 7
+	 ||--+ 35666 +--||  --- 31.9940001965 seconds --- 
+WORKING ON: Taxi
+	 ||--+ 35667 +--||  --- 26.888999939 seconds --- 
+WORKING ON: Sayma
+	 ||--+ 35668 +--||  --- 1.10399985313 seconds --- 
+WORKING ON: Pushmipulyu
+	 ||--+ 35669 +--||  --- 3.625 seconds --- 
+WORKING ON: Barian
+	 ||--+ 35670 +--||  --- 3.96500015259 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35671 +--||  --- 0.62299990654 seconds --- 
+WORKING ON: Marschmellows
+	 ||--+ 35672 +--||  --- 14.9249999523 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35673 +--||  --- 0.665000200272 seconds --- 
+WORKING ON: Evil Twin
+	 ||--+ 35674 +--||  --- 7.56799983978 seconds --- 
+WORKING ON: Zoulactive
+	 ||--+ 35675 +--||  --- 2.40100002289 seconds --- 
+WORKING ON: Colleen Max Fisher
+	 ||--+ 35676 +--||  --- 1.04200005531 seconds --- 
+WORKING ON: Ollano
+	 ||--+ 35677 +--||  --- 1.49099993706 seconds --- 
+WORKING ON: Agent 5.1
+	 ||--+ 35678 +--||  --- 1.26699995995 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35679 +--||  --- 0.740000009537 seconds --- 
+WORKING ON: Shinju Gumi
+	 ||--+ 35680 +--||  --- 1.32299995422 seconds --- 
+WORKING ON: Future Beat Investigators
+	 ||--+ 35681 +--||  --- 6.9470000267 seconds --- 
+WORKING ON: Ra
+	 ||--+ 35682 +--||  --- 22.4409999847 seconds --- 
+WORKING ON: Luh
+	 ||--+ 35683 +--||  --- 1.1130001545 seconds --- 
+WORKING ON: DJ Part
+	 ||--+ 35684 +--||  --- 1.34800004959 seconds --- 
+WORKING ON: Not Breathing
+	 ||--+ 35685 +--||  --- 3.69499993324 seconds --- 
+WORKING ON: Di Johnston
+	 ||--+ 35686 +--||  --- 6.97199988365 seconds --- 
+WORKING ON: Effacer
+	 ||--+ 35687 +--||  --- 2.97000002861 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35688 +--||  --- 0.633000135422 seconds --- 
+WORKING ON: Plastic Noise Experience
+	 ||--+ 35689 +--||  --- 27.5669999123 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35690 +--||  --- 0.677000045776 seconds --- 
+WORKING ON: Grendel
+	 ||--+ 35691 +--||  --- 16.8139998913 seconds --- 
+WORKING ON: Glis
+	 ||--+ 35692 +--||  --- 2.53999996185 seconds --- 
+WORKING ON: Celluloide
+	 ||--+ 35693 +--||  --- 1.19900012016 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35694 +--||  --- 0.674999952316 seconds --- 
+WORKING ON: BLVD
+	 ||--+ 35695 +--||  --- 7.67100000381 seconds --- 
+WORKING ON: P.Romagnoli
+	 ||--+ 35696 +--||  --- 0.87299990654 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35697 +--||  --- 0.649000167847 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35698 +--||  --- 0.651000022888 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35699 +--||  --- 0.635999917984 seconds --- 
+WORKING ON: Risk
+	 ||--+ 35700 +--||  --- 2.9319999218 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 35701 +--||  --- 0.652000188828 seconds --- 

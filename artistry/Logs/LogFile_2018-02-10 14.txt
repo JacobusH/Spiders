@@ -1,0 +1,270 @@
+WORKING ON: Ben Businovski
+	 ||--+ 13503 +--||  --- 15.4919998646 seconds --- 
+WORKING ON: Maximo Park
+	 ||--+ 13504 +--||  --- 11.873000145 seconds --- 
+WORKING ON: Manuel Reuter
+	 ||--+ 13505 +--||  --- 4.12699985504 seconds --- 
+WORKING ON: Manuel Schleis
+	 ||--+ 13506 +--||  --- 3.45499992371 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13507 +--||  --- 0.643000125885 seconds --- 
+WORKING ON: The Housemartins
+	 ||--+ 13508 +--||  --- 2.05399990082 seconds --- 
+WORKING ON: Cerbello
+	 ||--+ 13509 +--||  --- 1.1970000267 seconds --- 
+WORKING ON: Narcotic Thrust
+	 ||--+ 13510 +--||  --- 6.86800003052 seconds --- 
+WORKING ON: Shawn Christopher
+	 ||--+ 13511 +--||  --- 15.6710000038 seconds --- 
+WORKING ON: Gianni Bini
+	 ||--+ 13512 +--||  --- 24.2100000381 seconds --- 
+WORKING ON: Nu Electric
+	 ||--+ 13513 +--||  --- 4.14700007439 seconds --- 
+WORKING ON: Long Distance
+	 ||--+ 13514 +--||  --- 2.39099979401 seconds --- 
+WORKING ON: M'Black
+	 ||--+ 13515 +--||  --- 3.97000002861 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13516 +--||  --- 0.672000169754 seconds --- 
+WORKING ON: Meck
+	 ||--+ 13517 +--||  --- 14.7559998035 seconds --- 
+WORKING ON: Leo Sayer
+	 ||--+ 13518 +--||  --- 2.38300013542 seconds --- 
+WORKING ON: Mihell
+	 ||--+ 13519 +--||  --- 5.66700005531 seconds --- 
+WORKING ON: Julian Napolitano
+	 ||--+ 13520 +--||  --- 1.55599999428 seconds --- 
+WORKING ON: Stereo Star
+	 ||--+ 13521 +--||  --- 3.26799988747 seconds --- 
+WORKING ON: Mia J
+	 ||--+ 13522 +--||  --- 4.64500021935 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13523 +--||  --- 0.634999990463 seconds --- 
+WORKING ON: Antiguo Automata Mexicano
+	 ||--+ 13524 +--||  --- 8.40499997139 seconds --- 
+WORKING ON: Andy Vaz
+	 ||--+ 13525 +--||  --- 22.3849999905 seconds --- 
+WORKING ON: Merz
+	 ||--+ 13526 +--||  --- 3.22899985313 seconds --- 
+WORKING ON: Citizen Kain
+	 ||--+ 13527 +--||  --- 86.739000082 seconds --- 
+WORKING ON: Further Details
+	 ||--+ 13528 +--||  --- 2.52300000191 seconds --- 
+WORKING ON: Pascal Schafer
+	 ||--+ 13529 +--||  --- 6.10599994659 seconds --- 
+WORKING ON: Rhythm Maker
+	 ||--+ 13530 +--||  --- 3.85300016403 seconds --- 
+WORKING ON: Terrence Dixon
+	 ||--+ 13531 +--||  --- 32.6209998131 seconds --- 
+WORKING ON: Nacka Boys
+	 ||--+ 13532 +--||  --- 1.34200000763 seconds --- 
+WORKING ON: Purple Akala
+	 ||--+ 13533 +--||  --- 1.10899996758 seconds --- 
+WORKING ON: The Voices
+	 ||--+ 13534 +--||  --- 4.27700018883 seconds --- 
+WORKING ON: Stretch Armstrong
+	 ||--+ 13535 +--||  --- 2.40899991989 seconds --- 
+WORKING ON: Floppy Sounds
+	 ||--+ 13536 +--||  --- 10.757999897 seconds --- 
+WORKING ON: Segment
+	 ||--+ 13537 +--||  --- 7.36900019646 seconds --- 
+WORKING ON: Green Nuns Of The Revolution
+	 ||--+ 13538 +--||  --- 3.12800002098 seconds --- 
+WORKING ON: Orichalcum
+	 ||--+ 13539 +--||  --- 1.2539999485 seconds --- 
+WORKING ON: Rob Sperte
+	 ||--+ 13540 +--||  --- 1.36299991608 seconds --- 
+WORKING ON: DJ Andre
+	 ||--+ 13541 +--||  --- 2.4390001297 seconds --- 
+WORKING ON: Synchro
+	 ||--+ 13542 +--||  --- 4.3679997921 seconds --- 
+WORKING ON: Benji Vaughan
+	 ||--+ 13543 +--||  --- 3.47400021553 seconds --- 
+WORKING ON: LSD
+	 ||--+ 13544 +--||  --- 6.59699988365 seconds --- 
+WORKING ON: Fluid X
+	 ||--+ 13545 +--||  --- 1.3180000782 seconds --- 
+WORKING ON: DJ Goblin
+	 ||--+ 13546 +--||  --- 1.28799986839 seconds --- 
+WORKING ON: Panick
+	 ||--+ 13547 +--||  --- 8.17000007629 seconds --- 
+WORKING ON: Bamboo Forest
+	 ||--+ 13548 +--||  --- 10.5130000114 seconds --- 
+WORKING ON: Sybarite
+	 ||--+ 13549 +--||  --- 6.57699990273 seconds --- 
+WORKING ON: Aphid Moon
+	 ||--+ 13550 +--||  --- 18.3250000477 seconds --- 
+WORKING ON: TCD
+	 ||--+ 13551 +--||  --- 1.21600008011 seconds --- 
+WORKING ON: E-Jekt
+	 ||--+ 13552 +--||  --- 5.79999995232 seconds --- 
+WORKING ON: The Overlords
+	 ||--+ 13553 +--||  --- 5.02300000191 seconds --- 
+WORKING ON: Ionizer
+	 ||--+ 13554 +--||  --- 1.70700001717 seconds --- 
+WORKING ON: Stereo Pie
+	 ||--+ 13555 +--||  --- 1.05099987984 seconds --- 
+WORKING ON: Papillon
+	 ||--+ 13556 +--||  --- 5.94200015068 seconds --- 
+WORKING ON: The Light
+	 ||--+ 13557 +--||  --- 3.39299988747 seconds --- 
+WORKING ON: Sleaze
+	 ||--+ 13558 +--||  --- 6.79800009727 seconds --- 
+WORKING ON: Digital Animal
+	 ||--+ 13559 +--||  --- 1.09899997711 seconds --- 
+WORKING ON: Nissimyani
+	 ||--+ 13560 +--||  --- 5.53299999237 seconds --- 
+WORKING ON: Zmachine
+	 ||--+ 13561 +--||  --- 1.1210000515 seconds --- 
+WORKING ON: D'Malicious
+	 ||--+ 13562 +--||  --- 2.84099984169 seconds --- 
+WORKING ON: Nibiru
+	 ||--+ 13563 +--||  --- 4.09300017357 seconds --- 
+WORKING ON: 40 Percent
+	 ||--+ 13564 +--||  --- 1.95999979973 seconds --- 
+WORKING ON: Saiko-Pod
+	 ||--+ 13565 +--||  --- 1.91200017929 seconds --- 
+WORKING ON: Nitin Sawhney
+	 ||--+ 13566 +--||  --- 4.06699991226 seconds --- 
+WORKING ON: Templo Mae d'Agua
+	 ||--+ 13567 +--||  --- 2.83500003815 seconds --- 
+WORKING ON: Deep Zone
+	 ||--+ 13568 +--||  --- 9.44400000572 seconds --- 
+WORKING ON: Johann
+	 ||--+ 13569 +--||  --- 3.13400006294 seconds --- 
+WORKING ON: Gant-Man
+	 ||--+ 13570 +--||  --- 3.92299985886 seconds --- 
+WORKING ON: Spiritual Enhancer
+	 ||--+ 13571 +--||  --- 1.70300006866 seconds --- 
+WORKING ON: Phonic Request
+	 ||--+ 13572 +--||  --- 8.67000007629 seconds --- 
+WORKING ON: The Delta
+	 ||--+ 13573 +--||  --- 11.8679997921 seconds --- 
+WORKING ON: Pratap
+	 ||--+ 13574 +--||  --- 14.9350001812 seconds --- 
+WORKING ON: Lube
+	 ||--+ 13575 +--||  --- 1.64899992943 seconds --- 
+WORKING ON: Oxyd
+	 ||--+ 13576 +--||  --- 7.41300010681 seconds --- 
+WORKING ON: Fabio
+	 ||--+ 13577 +--||  --- 9.1819999218 seconds --- 
+WORKING ON: Buzz
+	 ||--+ 13578 +--||  --- 7.46300005913 seconds --- 
+WORKING ON: Mapusa Mapuus
+	 ||--+ 13579 +--||  --- 1.09999990463 seconds --- 
+WORKING ON: Vaishiyas
+	 ||--+ 13580 +--||  --- 17.1870000362 seconds --- 
+WORKING ON: Missing Time
+	 ||--+ 13581 +--||  --- 3.70199990273 seconds --- 
+WORKING ON: Buzzmonx
+	 ||--+ 13582 +--||  --- 3.11400008202 seconds --- 
+WORKING ON: VaroMan
+	 ||--+ 13583 +--||  --- 1.84500002861 seconds --- 
+WORKING ON: Auricular
+	 ||--+ 13584 +--||  --- 6.81599998474 seconds --- 
+WORKING ON: V-Tunes
+	 ||--+ 13585 +--||  --- 2.60800004005 seconds --- 
+WORKING ON: Fusi
+	 ||--+ 13586 +--||  --- 5.3599998951 seconds --- 
+WORKING ON: Paste
+	 ||--+ 13587 +--||  --- 12.2230000496 seconds --- 
+WORKING ON: 2020Soundsystem
+	 ||--+ 13588 +--||  --- 17.8940000534 seconds --- 
+WORKING ON: Atlantic
+	 ||--+ 13589 +--||  --- 6.56500005722 seconds --- 
+WORKING ON: Afternoon Coffee Boys
+	 ||--+ 13590 +--||  --- 4.3259999752 seconds --- 
+WORKING ON: Camea
+	 ||--+ 13591 +--||  --- 20.6159999371 seconds --- 
+WORKING ON: Insideout
+	 ||--+ 13592 +--||  --- 12.3959999084 seconds --- 
+WORKING ON: Papa Sang Bass
+	 ||--+ 13593 +--||  --- 3.15300011635 seconds --- 
+WORKING ON: Saona
+	 ||--+ 13594 +--||  --- 1.75900006294 seconds --- 
+WORKING ON: Unforscene
+	 ||--+ 13595 +--||  --- 3.08099985123 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13596 +--||  --- 0.648999929428 seconds --- 
+WORKING ON: Juan Hoerni
+	 ||--+ 13597 +--||  --- 2.84200000763 seconds --- 
+WORKING ON: DelRay
+	 ||--+ 13598 +--||  --- 1.72900009155 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13599 +--||  --- 0.763000011444 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13600 +--||  --- 0.648000001907 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13601 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: uGeNiCs
+	 ||--+ 13602 +--||  --- 1.80999994278 seconds --- 
+WORKING ON: Angel F
+	 ||--+ 13603 +--||  --- 14.2940001488 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13604 +--||  --- 0.6859998703 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13605 +--||  --- 0.633000135422 seconds --- 
+WORKING ON: Texture
+	 ||--+ 13606 +--||  --- 8.79099988937 seconds --- 
+WORKING ON: John Morgan
+	 ||--+ 13607 +--||  --- 2.06500005722 seconds --- 
+WORKING ON: Kevin Shiu
+	 ||--+ 13608 +--||  --- 2.21399998665 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13609 +--||  --- 0.667999982834 seconds --- 
+WORKING ON: Direct Feed
+	 ||--+ 13610 +--||  --- 10.8429999352 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13611 +--||  --- 0.705000162125 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13612 +--||  --- 0.628999948502 seconds --- 
+WORKING ON: Secret Soul
+	 ||--+ 13613 +--||  --- 5.61100006104 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13614 +--||  --- 0.65299987793 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13615 +--||  --- 0.637000083923 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13616 +--||  --- 0.611000061035 seconds --- 
+WORKING ON: Uh Oh! You seem lost.
+	 ||--+ 13617 +--||  --- 0.638000011444 seconds --- 
+WORKING ON: Loco
+	 ||--+ 13618 +--||  --- 9.53799986839 seconds --- 
+WORKING ON: Simmons
+	 ||--+ 13619 +--||  --- 10.620000124 seconds --- 
+WORKING ON: Christopher
+	 ||--+ 13620 +--||  --- 9.1179997921 seconds --- 
+WORKING ON: Rockefeller
+	 ||--+ 13621 +--||  --- 7.72699999809 seconds --- 
+WORKING ON: Mansa
+	 ||--+ 13622 +--||  --- 1.53900003433 seconds --- 
+WORKING ON: Just Jason
+	 ||--+ 13623 +--||  --- 5.59800004959 seconds --- 
+WORKING ON: Special Forces
+	 ||--+ 13624 +--||  --- 2.79500007629 seconds --- 
+WORKING ON: Tjark
+	 ||--+ 13625 +--||  --- 4.79200005531 seconds --- 
+WORKING ON: Crystal Fake
+	 ||--+ 13626 +--||  --- 12.111000061 seconds --- 
+WORKING ON: Clubite
+	 ||--+ 13627 +--||  --- 1.06299996376 seconds --- 
+WORKING ON: Daze Maxim
+	 ||--+ 13628 +--||  --- 10.8199999332 seconds --- 
+WORKING ON: Ingo Boss
+	 ||--+ 13629 +--||  --- 22.0599999428 seconds --- 
+WORKING ON: Oliver Bondzio
+	 ||--+ 13630 +--||  --- 4.22699999809 seconds --- 
+WORKING ON: Toni Rios
+	 ||--+ 13631 +--||  --- 67.4070000648 seconds --- 
+WORKING ON: S.I. Futures
+	 ||--+ 13632 +--||  --- 4.9430000782 seconds --- 
+WORKING ON: Gennaro Le Fosse
+	 ||--+ 13633 +--||  --- 6.75999999046 seconds --- 
+WORKING ON: Taksi
+	 ||--+ 13634 +--||  --- 2.55800008774 seconds --- 
+WORKING ON: Gigi Succes
+	 ||--+ 13635 +--||  --- 1.8639998436 seconds --- 
+WORKING ON: Role Model
+	 ||--+ 13636 +--||  --- 1.70300006866 seconds --- 
+WORKING ON: Denis Rusnak
+	 ||--+ 13637 +--||  --- 6068.55599999 seconds --- 

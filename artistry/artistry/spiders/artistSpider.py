@@ -30,7 +30,7 @@ class ArtistspiderSpider(scrapy.Spider):
 
         item = ArtistryItem()
         self.artistName = "%s" % response.css('h1').extract_first()
-        self.artistName = item['artistName'] = remove_tags(self.artistName)
+        self.artistName = item['artistName'] = remove_tags(self.artistName.replace("\\", "|").replace("/", "|"))
 
         for track in response.xpath('//div[@class="buk-track-meta-parent"]'):
             trackTitle      = track.xpath("normalize-space(.//p[@class='buk-track-title'])").extract_first()
@@ -43,11 +43,11 @@ class ArtistspiderSpider(scrapy.Spider):
             
             item['track'] = {
               u'id':        remove_tags(uuid.uuid4().hex),
-              u'title':     remove_tags(trackTitle).replace("\\", "|"),
-              u'artists':   remove_tags(trackArtists).replace("\\", "|"),
-              u'remixers':  remove_tags(trackRemixers).replace("\\", "|"),
-              u'labels':    remove_tags(trackLabels).replace("\\", "|"),
-              u'genre':     remove_tags(trackGenre).replace("\\", "|"),
+              u'title':     remove_tags(trackTitle.replace("\\", "|").replace("/", "|")),
+              u'artists':   remove_tags(trackArtists.replace("\\", "|").replace("/", "|")),
+              u'remixers':  remove_tags(trackRemixers.replace("\\", "|").replace("/", "|")),
+              u'labels':    remove_tags(trackLabels.replace("\\", "|").replace("/", "|")),
+              u'genre':     remove_tags(trackGenre.replace("\\", "|").replace("/", "|")),
               u'key':       remove_tags(trackKey),
               u'releaseDate': remove_tags(trackReleaseDate),
             }
